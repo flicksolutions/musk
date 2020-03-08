@@ -12,3 +12,10 @@ Interview with Lex Fridman:
 [Teil 1](https://www.youtube.com/watch?v=dEv99vxKjVI&list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
 [Teil 2 Fridman](https://www.youtube.com/watch?v=smK9dgdTl40)
 [Transkript 2. Teil](https://lexfridman.com/wordpress/wp-content/uploads/2019/11/elon_musk_lex_fridman_2_transcript.pdf)
+
+### Notizen zu Markdown, Pandoc, Git
+Alles was wir brauchen um effektiv zu arbeiten:
+
+<https://nyenhuis.diskstation.me/wb/pages/topics/dokumentationen-mit-markdown-und-pandoc-erstellen.php>
+[Templates für outputs](https://github.com/jgm/pandoc/wiki/User-contributed-templates) (einfach Eisvogel benutzen)
+//TODO: Install Template, create script for various outputs...
