@@ -17,5 +17,14 @@ Interview with Lex Fridman:
 Alles was wir brauchen um effektiv zu arbeiten:
 
 <https://nyenhuis.diskstation.me/wb/pages/topics/dokumentationen-mit-markdown-und-pandoc-erstellen.php>
+
+
 [Templates für outputs](https://github.com/jgm/pandoc/wiki/User-contributed-templates) (einfach Eisvogel benutzen)
+
+<https://www.youtube.com/channel/UCYspUZGexLdDLjHRkuERQlg/videos>
 //TODO: Install Template, create script for various outputs...
+
+test [@ElonMuskTesla]
+asdfkjnasdf
+
+# References

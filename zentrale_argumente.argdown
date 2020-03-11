@@ -1,0 +1,14 @@
+===
+model:
+    removeTagsFromText: false
+===
+
+[Zentrale These]: Eine General AI stellt eine Gefahr für unsere Existenz dar.
+[Neuralink]: Mit einem Human-Machine-Interface können wir "along the ride" mitgenommen werden mit der GAI.
+[extraterrestrische Zivilisation]: Mit der Errichtung einer Zivilisation auf dem Mars, haben wir eine Backup-Zivilisation, falls wir alle sterben
+[Einschränkung]: 
+
+[Zentrale These]
+    +> [Neuralink]
+    +> [extraterrestrische Zivilisation]
+    +> [Einschränkung]
