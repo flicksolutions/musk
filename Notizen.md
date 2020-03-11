@@ -24,7 +24,16 @@ Alles was wir brauchen um effektiv zu arbeiten:
 <https://www.youtube.com/channel/UCYspUZGexLdDLjHRkuERQlg/videos>
 //TODO: Install Template, create script for various outputs...
 
-test [@ElonMuskTesla]
-asdfkjnasdf
+Argdown map produzieren: `argdown map zentrale_argumente.argdown --format svg`
+Markdown beamer Präsentation: `pandoc Projektvorstellung.md --filter pandoc-citeproc -t beamer -o Vorstellung_pres.pdf`
 
-# References
+``\begin{columns}
+\begin{column}{0.5\textwidth}
+   some text here some text here some text here some text here some text here
+\end{column}
+\begin{column}{0.5\textwidth}
+    \begin{center}
+    test
+     \end{center}
+\end{column}
+\end{columns} ``
