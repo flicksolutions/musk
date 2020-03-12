@@ -11,9 +11,11 @@ model:
 
 [Einschränkung]: Staatliche oder Super-staatliche Aufsichtsbehörden schränken die Entwicklung einer GAI ein, um die Gefahren zu minimieren.
 
+[Politik der gleich langen Stöcke]: Durch die Entwicklung einer Open-Source AI haben alle Menschen Zugriff auf die gleichen Ressourcen.
+
 [Abhängigkeit]: Innerhalb kürzester Zeit nach der Entwicklung einer GAI wird unsere Zivilisation abhängig von ihr.
 
-[Unmoralische Absichten]: Menschen mit schlechten Absichten können die GAI missbrauchen.
+[Unmoralische Absichten]: Menschen mit schlechten Absichten können die AI missbrauchen.
 
 [Unkontrollierte Bereicherung]: Menschen, die die Kontrolle über eine GAI haben, erlangen unermesslichen Reichtum und folglich unermessliche Macht.
 
@@ -24,6 +26,7 @@ model:
     +> [Neuralink]
     +> [extraterrestrische Zivilisation]
     +> [Einschränkung]
+    +> [Politik der gleich langen Stöcke]
     <+ [Abhängigkeit]
     <+ [Unmoralische Absichten]
     <+ [Abschätzung der Gefahren]

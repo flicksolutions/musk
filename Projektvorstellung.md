@@ -39,6 +39,7 @@ Wir versuchen, aus verschiedenen Quellen Elon Musks eine kohärente Argumentatio
 - Thematik und Gefahren der Generellen KI besser einordnen und evaluieren können.
 - Legitimität von Elon Musk untersuchen.
 - Argumente aus verschiedenen Quellen rekonstruieren können.
+- Umgang mit Argdown (und anderen Tools) lernen
 
 # Zentrale These
 
