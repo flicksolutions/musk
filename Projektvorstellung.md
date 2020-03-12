@@ -54,3 +54,4 @@ Wie, wenn überhaupt, verwenden wir Quellen, die nicht vom Autoren direkt stamme
 - Können wir den Open Letter verwenden?
 - Biografie von Musk?
 - unkomische antworten
+- komische Frage
