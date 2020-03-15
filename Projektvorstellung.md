@@ -40,6 +40,8 @@ Wir versuchen, aus verschiedenen Quellen Elon Musks eine kohärente Argumentatio
 - Legitimität von Elon Musk untersuchen.
 - Argumente aus verschiedenen Quellen rekonstruieren können.
 - Argdown benützen lernen.
+- Umgang mit Argdown (und anderen Tools) lernen
+
 
 # Zentrale These
 
