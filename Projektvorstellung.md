@@ -47,7 +47,7 @@ Wir versuchen, aus verschiedenen Quellen Elon Musks eine kohärente Argumentatio
 
 Die Generelle KI bringt Gefahren mit sich. Deshalb ist es wichtig, die Entwicklung stark zu kontrollieren und die Verwendung einzuschränken.
 
-![Zentrale Thesen](./svg/zentrale_argumente.svg)
+![Zentrale Thesen](output/svg/zentrale_argumente.svg)
 
 
 # Fragen / Herausforderungen
