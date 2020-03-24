@@ -1,7 +1,8 @@
 
+
 [Gefahren der AI-Entwicklung]
-    +   Short-Term
-        +   Law and Ethics 
+    +  [Short-Term]
+        +   [Law and Ethics]
             +   AI-Entwicklung bringt Gefahren mit sich, wenn sie nicht durch Gesetze eingeschränkt wird
                 +   Haftung autonomer Transportmittel
                     +   Die Haftung bei Schäden durch autonome Anwendungen muss geklärt werden
@@ -24,17 +25,17 @@
                     +   Es muss ein staatlicher Körper geschaffen werden, der Richtlinien erstellt
                         +   Wir sind nicht auf die Gefahren vorbereitet
                         +   Verschiedene staatliche Körper arbeiten nicht effizient miteinander
-        +   Optimizing AI's Economic Impact
+        +   [Optimizing AI's Economic Impact]
             +   Labor Market Forecasting
             +   Other Market Disruptions
             +   Policy for Managing Adverse effects
             +   Economic Measures
-        +   Computer Science Research for Robust AI
-            +   Verification
-            +   Validity
-            +   Security
-            +   Control
-    +   Long-Term
+        +   [Computer Science Research for Robust AI]
+                +   Verification
+                +   Validity
+                +   Security
+                +   Control
+    +   [Long-Term]
         +   Verification
         +   Validity
         +   Security
