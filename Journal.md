@@ -22,3 +22,10 @@ Präsentation des bisherigen Standes. Vorallem ging es darum zu zeigen, dass wir
 ### [Vorbereitung, Einarbeitung, Quellensuche](https://github.com/flicksolutions/musk/releases/tag/initialisationperiod)
 
 In der Vorbereitungsphase ging es darum, sich ins Thema einzulesen und sich mit der Figur Elon Musk vertraut zu machen. Ausserdem ging es darum, im Team zu kommunizieren, die Motivation zu klären und sich die erforderlichen Tools zu installieren. Auch die Grundlagentexte mussten gelesen werden.
+
+### [Produktion einer ersten Karte](https://github.com/flicksolutions/musk/releases/tag/first-map)
+Nachdem wir unseren Fokus weg von Elon Musk auf das Future of Life-Institut richteten, konnten wir gute Fortschritte im Projekt machen. Der «Open Letter» (Research Priorities for Robust and Beneficial AI) des Future of Life-Institutes bietet eine hervorragende Übersicht. Wir haben diesen Bericht genau durchgearbeitet und die Quellen gesammelt, auf welche sich der Bericht stützt. Diese Quellen haben wir nach Thesen untersucht und nach Argumenten geprüft, welche sich für eine Rekonstruktion eignen. Der Open Letter und die Quellen ergeben unsere Textgrundlage. Das Resultat dieser Phase ist auf der Karte wiedergegeben.
+
+Nach genauem Durchlesen und Strukturieren des Open Letters hat sich gezeigt, dass wir eine breite Struktur mit vielen Unterthemen haben, welche nun einzugrenzen sind. Die Schwierigkeit ergibt sich aus der Fülle der Quellen und der Breite der Thematik, welche wir priorisieren müssen.
+
+Um die interne Kommunikation zu vereinfachen, das Material übersichtlich geordnet zu halten und unsere Zusammenarbeit und Versionisierungen effizient zu gestalten, haben wir auf Github ein Repository eingerichtet. So bleiben wir immer auf dem neusten Stand und können unseren Arbeitsverlauf kontrollieren.
