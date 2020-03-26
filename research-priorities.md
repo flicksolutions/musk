@@ -21,3 +21,49 @@ The better machines can substitute for human workers, the more likely it is that
 ## Disruptive technologies: Advances that will transform life, business, and the global economy
 
 [Disruptive technologies]: The benefits of the mobile Internet and cloud computing are accompanied by rising risks of security and privacy breaches. Objects and machines under the control of computers across the Web (the Internet of Things) can also be hacked, exposing factories, refineries, supply chains, power plants, and transportation networks to new risks. Next-generation genomics has the potential to grant new powers over biology, but these powers could be abused to disastrous effect. Low-cost desktop gene-sequencing machines will not only put the power of genomics in doctor offices, but also potentially in the hands of terrorists. Even well-intentioned experiments in garages using inexpensive sequencing and DNA synthesis equipment could result in the production and release of dangerous organisms. And nanomaterials offer great promise, but more research will be required to fully ascertain their potential impact on health. It will be up to business leaders, policy makers, and societies to weigh these risks and navigate a path that maximizes the value of these technologies while avoiding their dangers.
+
+# Computer Science Research for Robust AI
+
+[Robustheit]: AI ist nicht robust und deshalb nicht sicher [@russellResearchPrioritiesRobust2015, p. 107]
+[Verifikation]: Ganze AI-Agents sind nicht formal verifizierbar: 
+we lack the formal algebra to properly define, explore,
+and rank the space of designs.
+Perhaps the most salient difference between verification
+of traditional software and verification of AI systems
+is that the correctness of traditional software is
+defined with respect to a fixed and known machine
+model, whereas AI systems — especially robots and
+other embodied systems — operate in environments
+that are at best partially known by the system designer. [@russellResearchPrioritiesRobust2015, p. 108]
+Das Ganze gestaltet sich noch schwerer bei AI die learning Algorithmen anwendet.
+
+[Validity]: Unsere Anforderungen an die AI können falsch formuliert sein und so könnten sich AI-Agents unpassend verhalten.
+> Such specification errors are ubiquitous in software
+> verification, where it is commonly observed that
+> writing correct specifications can be harder than writing
+> correct code. Unfortunately, it is not possible to
+> verify the specification: the notions of beneficial and
+> desirable are not separately made formal, so one cannot
+straightforwardly prove that satisfying ψ necessarily
+leads to desirable behavior and a beneficial
+agent.
+ [@russellResearchPrioritiesRobust2015, p. 108]
+ 
+ [moral decisions sind notwendig]:
+> But today’s systems are approaching a level of complexity that, we argue, requires the systems themselves to make moral decisions—to be programmed with “ethical subroutines,” to borrow a phrase from Star Trek.
+[@wallachMoralMachinesTeaching2008, p. 4]
+
+[Vorteile verhindern Moratorium]:
+> However, it is not often possible to predict accurately the impact of a new technology on society until well after it has been widely adopted. Some critics think, therefore, that humans should err on the side of caution and relinquish the development of potentially dangerous technologies. We believe, however, that market and political forces will prevail and will demand the benefits that these technologies can provide. Thus, it introduction 7 is incumbent on anyone with a stake in this technology to address head-on the task of implementing moral decision making in computers, robots, and virtual “bots” within computer networks.
+> — [@wallachMoralMachinesTeaching2008, p. 6]
+
+[Abtreten von moralischen Entscheidungen]: 
+>Some concerns, for example whether AMAs will lead humans to abrogate responsibility
+to machines, seem particularly pressing.
+> — [@wallachMoralMachinesTeaching2008, p. 9] & [@wallachMoralMachinesTeaching2008, chap. 3]
+
+[Cyberattacken]:
+> As AI systems are used in an increasing number of critical roles, they will take up an increasing proportion of cyberattack surface area. It is also probable that AI and machine-learning techniques will themselves be used in cyberattacks.
+>(...)It is not implausible that cyberattack between states and private actors will be a risk factor for harm from near-future AI systems, motivating research on preventing harmful events.
+> — [@russellResearchPrioritiesRobust2015, p. 109]
+
