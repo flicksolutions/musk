@@ -37,3 +37,7 @@ Markdown beamer Präsentation: `pandoc Projektvorstellung.md --filter pandoc-cit
      \end{center}
 \end{column}
 \end{columns} ``
+
+
+//TODO: convert from markdown with citations to markdown with hard-citations:
+pandoc --to plain  --output="research-priorities_conv.markdown" --atx-headers --filter pandoc-citeproc -M lang=de-CH --bibliography="../res/bibliothek_musk_Argumentationsanalyse.bib" --csl="../res/universitat-bern-institut-fur-sprachwissenschaft-angepasst-an-kant-zitate.csl" --standalone "research-priorities.md"
