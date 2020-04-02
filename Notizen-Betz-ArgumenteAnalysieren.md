@@ -12,13 +12,21 @@ Systematisch: Fragen an den Text herantragen
 ![8a5294db72462823ac6cbc0e7f9429b2.png](res/8a5294db72462823ac6cbc0e7f9429b2.png)
 
 ![hermeneutisches Kleeblatt.png](res/hermeneutisches Kleeblatt.png)
+-------------—
+Praktischer Syllogismus:
+Ist nicht deduktiv gültig.
+
+
+------------------—
 
 
 
 ## Frage 2: Sollen solche Antizipierten gegeneinwände wie auf Tafel 12 wirklich eingeführt werden?
+Systematisch: nein - exegetisch: Ja
+
 
 ## Frage 4: Die Sache mit dem Untergraben von Argumenten…
-<_ kommt nicht vor?
+<_ kommt nicht vor? Korrekt. Es wird sehr viel gewicht auf deduktivismus gelegt.
 
 
 ## Anmerkung 2: definition von angreifen fasst Kontradiktorische Beziehung von Argumenten nicht auf: ><
@@ -26,12 +34,17 @@ Systematisch: Fragen an den Text herantragen
 
 ## Frage 5: Unterschied Betz - Unser Seminar: rekonstruktiver Deduktivismus?
 Bei uns müssen ja nicht alle Argumente deduktiv gültig sein. oder?
+Doch.
+Solange es nicht deduktiv
+
 
 ## Anmerkung 3: _höchstens wenn_ , _nur wenn_ , Konjunktion
 Tafel 34 reduziert die formulierung _höchstens dann, wenn_ auf eine Äquivalenz. Formulierung ist für mich verwirrend.
 
 ## Frage 8: Dürfen Prämissen vorheriger Argumente einfach einbezogen werden?
 In Tafel 35 werden einfach Prämissen importiert…
+Ja, aber diese Darstellung ist nicht sehr hilfreich. Aufbrechen ist sauberer…
+
 
 ## Anmerkung 4: x zu y
 Zur besseren Verständlichkeit würde ich in der Konklusion (3) (Ex): Gx x mit y ersetzen. (S. 43)
