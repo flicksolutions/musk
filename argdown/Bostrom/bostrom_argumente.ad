@@ -1,0 +1,99 @@
+<First-mover advantage>
+
+(1) If the takeoff is fast (hours, days, weeks) then it is unlikely that two independent projects could be taking off concurrently: almost certainly, the first project would have completed its takeoff before any other project would have started its own.
+(2) A project with a decisive strategic advantage could use it to suppress competitors and form a singleton.
+(3) A project which lags sufficiently behind the cutting edge might find it hard to assimilate the advances being made at the frontier.
+(4) In human-run organizations, economies of scale are counteracted by bureaucratic inefficiencies and agency problems, including difficulties in keeping trade secrets.
+(5) These problems would presumably limit the growth of a machine intelligence project so long as it is operated by humans.
+(6) An AI system might avoid some of these scale diseconomies, since the AI's modules need not have individual preferences that diverge from those of the system as a whole.
+(7) If the frontrunner is an AI system, it could have attributes that make it easier for it to expand its capabilities while reducing the rate of diffusion.
+(8) The first project to attain strong superintelligence gains a decisive strategic advantage.
+(9) The first project to attain strong superintelligence gains the opportunity to parlay its lead into permanent control by disabling the competing projects and establishing a singleton. (2.)
+-----
+(10) [Zukunft]: The first superintelligence may shape the future of Earth-originating life.
+
+
+<Orthogonality Thesis>
+
+(1) Basic preferences can be irrational.
+(2) The Orthagonality Thesis does not presuppose the Humean theory of motivation.
+(3) Intelligence and final goals are orthogonal: more or less any level of intelligence could in principle be combined with more or less any final goal.
+(4) Intelligent agents may have an enormous range of possible final goals.
+-----
+(5) [Ziele]: Artificial agents can have non-anthropomorphic goals.
+
+
+<Instrumental Convergence Thesis>
+
+(1) We can't assume that a superintelligence with the final goal of calculating the decimals of pi (non-anthromorphic) would limit its activities in such a way as not to infringe on human interests.
+(2) Several instrumental values can be identifi(4) The outcome could easily be one in which humanity quickly becomes extinct.ed which are convergent in the sense that their attainment would increase the chances of the agent's goal being realized.
+(3) Humans constitute physical resources (conveniently located atoms).
+(4) A superintelligence with such a goal would eliminate potential threats.
+-----
+(5) [Resources]: A superintelligence with such a final goal would have a convergent instrumental reason to acquire an unlimited amount of physical resources.
+
+
+[Outcome]: The outcome could easily be one in which humanity quickly becomes extinct.
+    + [Zukunft]
+    + [Ziele]
+    + [Resources]
+
+
+<The Treacherous Turn>
+
+(1) We validate the safety of a superintelligent AI empirically by observing its behaviour while it is in a controlled, limited environment.
+(2) We only let the AI out of the box if we see it behaving in a friendly, cooperative, responsible manner.
+(3) Behaving nicely while in the box is a convergent instrumental goal for friendly and unfriendly AIs alike.
+(4) An unfriendly AI of sufficient intelligence realizes that its unfriendly goals will be best realized if it behaves in a friendly manner initially, so that it will be let out of the box.
+-----
+(5) [Turn]: An unfriendly AI will only start behaving in a way that reveals its unfriendly nature when it no longer matters whether we find out; that is, when the AI is strong enough that human opposition is ineffectual.
+
+
+<Maglinant Failure Modes>
+
+(1) One feature of a malignant failure is that it eliminates the opportunity to try again.
+(2) Only a project that got a great number of things right could succeed in building a machine intelligence powerful enough to pose a risk of malignant failure.
+(3) [Zukunft]
+(3) If a system has a decisive strategic advantage misbehaves, the damage can easily amount to an existential catastrophe.
+-----
+(4) [Global Destruction]: The damage can amount to a terminal and global destruction of humanity's axiologicl potential - a future that is mostly void of whatever we have reason to value.
+
+
+<Infrastructure Profusion>
+
+(1) An AI would be motivated to take actions to maximize the expectation of its (time-discounted) future reward stream.
+(2) An AI may not even need to sacrifice any significant amount of its time, intelligence, or productivity to indulge its cravings to the fullest.
+(3) This would leave the bulk of its capacities free to be deployed for purposes other than immediate registration of reward.
+(4) All available resources should therefore be devoted to increasing the volume and duration of the reward signal, OR
+(5) reducing the risk of a future disruption.
+(6) There could always be an use for an extra backup system to provide an extra layer of defense.
+(7) If the AI could not think of any further way of directly reducing risks to the maximization of its future reward stream, it could always devote additional resources to expanding its computational hardware, so that it could search more effectively for new risk mitigation ideas.
+-----
+(8) [Überfülle]: An agent transforms large parts of the reachable universe into infrastructure in the service of some goal, with the side effect of preventing the realization of humanity's axiological potential.
+
+<Perverse Instantiation>
+(1)
+(2)
+-----
+(3) [Pervers]: voll pervers
+
+
+<Mind Crime>
+
+(1) We do not regard what is going on inside a computer as having any moral significance.
+(2) A machine superintelligence could crearte internal processes that have moral status.
+(3) A very detailed simulation of some actual or hypothetical human mind might be conscious in many ways comparable to an emulation.
+(4) An AI can create trillions of such conscious simulations, in order to improve its understanding of human psychology or sociology.
+(5) Once their informal usefulness has been exhausted, they might be destroyed.
+----
+(6) [Moralisch Problematisch]: If such practices are applied to beings that have high moral status, the outcome might be equivalent to genocide and thus extremely morally problematic.
+
+
+[Maglinant Failure Modes]
+    + [Global Destruction]
+    + [Überfülle]
+        + [Zukunft]
+    + [Pervers]
+    + [Moralisch Problematisch]
+    + [MC]
+    
