@@ -61,22 +61,22 @@ It is impossible to know if such jobs will be created at a sufficient pace.
 
 \## The Second Machine Age: Work, Progress and Prosperity in a Time of Brilliant Technologies  \{isGroup: true\}
 
-[Power Law / Ersetzung]\: Call it talent-biased technical change. In many industries, the difference in payout between number one and second-best has widened into a canyon. (...) Suddenly the top-quality provider can capture the whole market. The next-best provider might be almost as good, but it will not matter. Each time a market becomes more digital, these winner-take-all economics become a little more compelling.
-A shift in the distribution of income to a power-law distribution would have important implications. For instance, Kim Taipale, founder of the Stilwell Center for Advanced Studies in Science and Technology Policy, has argued that, “The era of bell curve distributions that supported a bulging social middle class is over and we are headed for the power-law distribution of economic opportunities. Education per se is not going to make up the difference.” Such a shift disrupts our mental models for understanding the world. Most of us are used to reasoning by reference to a prototypical. Politicians talk about the “average voter” and marketing managers talk about the “typical consumer.”
-Today the employment-to-population ratio is lower than any time in at least 20 years, and the real income of the median worker is lower today than in the 1990s. Meanwhile, like productivity, GDP, corporate investment, and after-tax profits are also at record highs.
-That many Americans face stagnant and falling incomes is bad enough, but it is now combined with decreasing social mobility—an ever lower chance that children born at the bottom end of the spread will escape their circumstances and move upward throughout their lives and careers. Recent research makes it clear that the American Dream of upward mobility, which was real in earlier generations, is greatly diminished today.
-(...) that productivity somehow inevitably leads to job creation, as technology boosters sometimes argue. However, as we saw in figure 11.1, the data also show that, more recently, job growth decoupled from productivity in the late 1990s.
-The better machines can substitute for human workers, the more likely it is that they’ll drive down the wages of humans with similar skills. The lesson from economics and business strategy is that you don’t want to compete against close substitutes, especially if they have a cost advantage.  [@brynjolfssonSecondMachineAge2014, chap. 10 ]
-
-<Power Law>
+<Power Law>[@brynjolfssonSecondMachineAge2014, chap. 10 ]
 (1) "Normale" Wirtschaft folgt einer normalen Verteilung, weil die Nachfrage nicht von einem Anbieter befriedigt werden kann.
 (2) Ein Anbieter von digitalen Produkten kann theoretisch die ganze Nachfrage nach einem Produkt befriedigen.
-(3) Durch die Vernetzung der Welt (globaler Markt), können alle bestehenden Produkte verglichen werden, alle Produkte müssen also mit dem Besten konkurrieren.
+(3) Durch die Vernetzung der Welt (globaler Markt), können alle bestehenden Produkte verglichen werden, alle Produkte müssen also mit dem Besten konkurrieren. Dies führt zu einem Potenzgesetz.
+(4) Die Digitalisierung führt zu einer grösseren Vernetzung der Welt.
 (4) Netzwerke und Standards werden wichtiger in einer digitalen Welt.
+(5) Netzwerke und Standards fördern ein Potenzgesetz.
 -----
-(5) Die Digitalisierung verändert die ökonomischen Prozesse so, dass die Verteilung des Reichtums einem Potenzgesetz ([Pareto-Verteilung](https://www.youtube.com/watch?v=fCn8zs912OE)) folgt.
+(5) Die Digitalisierung verändert die ökonomischen Prozesse so, dass die Verteilung des Reichtums einem Potenzgesetz ([Pareto-Verteilung](https://www.youtube.com/watch?v=fCn8zs912OE)) folgt und nicht mehr einer Normalverteilung (Glockenkurve).
+(6) Durch die Konzentration von Reichtum wird ein positiver Feedback-Loop in Gang gesetzt, der den Effekt noch verstärkt [@brynjolfssonSecondMachineAge2014, p. 135]
+(7) Durch die Entwicklung von AI werden weitere Märkte vernetzt (globalisiert).
+(8) Durch die Entwicklung von AI werden analoge Produkte/Dienstleistungen zu digitalen. → Somit kann die ganze Nachfrage von einem Anbieter befriedigt werden.
 -----
-(6) Eine einem Potenzgesetz folgende Wirtschaft ist schlecht.
+(9) Die Entwicklung von AI führt dazu, dass die Wirtschaft noch stärker einem Potenzgesetz folgt.
+
+
 
 
 
