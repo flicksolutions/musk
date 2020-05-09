@@ -56,12 +56,9 @@ Hier finden sich vorallem 2 Paper die Gefahren aufzeigen. Es geht dabei vor alle
 
 [GDP ist falsches Messinstrument]\: Why the gloominess of my colleagues? Part of the story is that economists are trained to look at aggregate statistics like GDP per capita and its derivatives such as factor productivity. These measures were designed for a steel-and-wheat economy, not one in which information and data are the most dynamic sector. Many of the new goods and services are expensive to design, but once they work, they can be copied at very low or zero costs. That means they tend to contribute little to measured output even if their impact on consumer welfare is very large. Dealing with altogether new goods and services was not what these numbers were designed for, despite the heroic efforts by BLS statisticians. The aggregative statistics miss much of what is interesting.
 
-[Job loss]\: Another characteristic of many of these goods is the ‘dumbing-down’ of the user; the ingenuity in a piece of modern technology such as a smartphone is fully frontloaded. A few thousand highly skilled and creative hardware engineers and a few tens of thousand software and application writers design it with incredible technical sophistication, so that hundreds of millions can use it without any. For that reason, there are few jobs in the high-technology sector, but those that are there pay well. Modern technology often leads to winner-take-all outcomes, and the inequality implications in terms of income – though not in terms of access to the good itself – are worrisome. What we gain as consumers, citizens, viewers and patients we may lose as workers. The demand for labour ‘hollows out’ and the demand for medium-skilled labour declines unless and until new jobs are created to absorb those replaced by automatons and robots.
-It is impossible to know if such jobs will be created at a sufficient pace.
-
 \## The Second Machine Age: Work, Progress and Prosperity in a Time of Brilliant Technologies  \{isGroup: true\}
 
-<Power Law>[@brynjolfssonSecondMachineAge2014, chap. 10 ]
+<Power Law>[@brynjolfssonSecondMachineAge2014, chap. 10 ] & @mokyrSecularStagnationNot2014
 (1) "Normale" Wirtschaft folgt einer normalen Verteilung, weil die Nachfrage nicht von einem Anbieter befriedigt werden kann.
 (2) Ein Anbieter von digitalen Produkten kann theoretisch die ganze Nachfrage nach einem Produkt befriedigen.
 (3) Durch die Vernetzung der Welt (globaler Markt), können alle bestehenden Produkte verglichen werden, alle Produkte müssen also mit dem Besten konkurrieren. Dies führt zu einem Potenzgesetz.
@@ -81,7 +78,7 @@ It is impossible to know if such jobs will be created at a sufficient pace.
 -----
 (10) [Armut]
 
-<Technological Unemployment> [@brynjolfssonSecondMachineAge2014, p. 153]
+<Technological Unemployment> [@brynjolfssonSecondMachineAge2014, p. 153] & @mokyrSecularStagnationNot2014
 (1) Technische Entwicklungen führen zu Jobverlusten.
 (2) Jobverluste werden durch nach einer gewissen Zeit *t* ausgeglichen, weil die Technischen Entwicklungen neue Berufsfelder entstehen lassen.
 (3) Durch die Entwicklung von AI wird die technologische Entwicklung derart beschleunigt, dass *t* immer weiter wächst.
@@ -92,7 +89,7 @@ It is impossible to know if such jobs will be created at a sufficient pace.
 -----
 (5) [Armut]:Die Entwicklung von AI führt zu extremer Armut bei einem grossen Teil der Bevölkerung.
 
-<Android-Experiment>
+<Android-Experiment> @brynjolfssonSecondMachineAge2014
 (1) Es gibt Androiden (Menschenähnliche Roboter), die selbst weitere Androiden herstellen können und auch sonst alles tun können, die ein menschlicher Arbeiter tun kann.
 (2) Die Androiden sind günstig herstellbar.
 (3) Es gibt ein unendlich grosses Angebot an Androiden.
