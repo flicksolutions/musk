@@ -68,16 +68,39 @@ It is impossible to know if such jobs will be created at a sufficient pace.
 (4) Die Digitalisierung führt zu einer grösseren Vernetzung der Welt.
 (4) Netzwerke und Standards werden wichtiger in einer digitalen Welt.
 (5) Netzwerke und Standards fördern ein Potenzgesetz.
+
 -----
 (5) Die Digitalisierung verändert die ökonomischen Prozesse so, dass die Verteilung des Reichtums einem Potenzgesetz ([Pareto-Verteilung](https://www.youtube.com/watch?v=fCn8zs912OE)) folgt und nicht mehr einer Normalverteilung (Glockenkurve).
 (6) Durch die Konzentration von Reichtum wird ein positiver Feedback-Loop in Gang gesetzt, der den Effekt noch verstärkt [@brynjolfssonSecondMachineAge2014, p. 135]
 (7) Durch die Entwicklung von AI werden weitere Märkte vernetzt (globalisiert).
 (8) Durch die Entwicklung von AI werden analoge Produkte/Dienstleistungen zu digitalen. → Somit kann die ganze Nachfrage von einem Anbieter befriedigt werden.
+
 -----
 (9) Die Entwicklung von AI führt dazu, dass die Wirtschaft noch stärker einem Potenzgesetz folgt.
 
+<Technological Unemployment> [@brynjolfssonSecondMachineAge2014, p. 153]
+(1) Technische Entwicklungen führen zu Jobverlusten.
+(2) Jobverluste werden durch nach einer gewissen Zeit *t* ausgeglichen, weil die Technischen Entwicklungen neue Berufsfelder entstehen lassen.
+(3) Durch die Entwicklung von AI wird die technologische Entwicklung derart beschleunigt, dass *t* immer weiter wächst.
 
+-----
+(4) Die Entwicklung von AI führt zu permanenten Jobverlusten.
 
+<Android-Experiment>
+(1) Es gibt Androiden (Menschenähnliche Roboter), die selbst weitere Androiden herstellen können und auch sonst alles tun können, die ein menschlicher Arbeiter tun kann.
+(2) Die Androiden sind günstig herstellbar.
+(3) Es gibt ein unendlich grosses Angebot an Androiden.
+(4) Die Betriebskosten der Androiden sind fast Null
+(5) Die Androiden arbeiten 24/7
+
+-----
+(6) Produktivität und und Produktion steigen extrem.
+(7) Preise für Produkte wären nahe an den Preisen der Rohstoffe.
+(8) Es würden nur noch Androiden und keine Menschen mehr eingestellt.
+
+-----
+(9) Die Besitzer der Androiden, anderer Kapitalanlagen und natürlicher Ressourcen beanspruchen den kompletten Wert der Wirtschaft für sich und sind auch die einzigen Konsumenten.
+(10) Menschen ohne Kapitalanlagen, Androiden und natürliche Ressourcen haben nur Ihre Arbeit anzubieten und diese ist wertlos geworden.
 
 
 \## Disruptive technologies: Advances that will transform life, business, and the global economy  \{isGroup: true\}
