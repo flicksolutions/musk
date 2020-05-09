@@ -78,6 +78,9 @@ It is impossible to know if such jobs will be created at a sufficient pace.
 -----
 (9) Die Entwicklung von AI führt dazu, dass die Wirtschaft noch stärker einem Potenzgesetz folgt.
 
+-----
+(10) [Armut]
+
 <Technological Unemployment> [@brynjolfssonSecondMachineAge2014, p. 153]
 (1) Technische Entwicklungen führen zu Jobverlusten.
 (2) Jobverluste werden durch nach einer gewissen Zeit *t* ausgeglichen, weil die Technischen Entwicklungen neue Berufsfelder entstehen lassen.
@@ -85,6 +88,9 @@ It is impossible to know if such jobs will be created at a sufficient pace.
 
 -----
 (4) Die Entwicklung von AI führt zu permanenten Jobverlusten.
+
+-----
+(5) [Armut]:Die Entwicklung von AI führt zu extremer Armut bei einem grossen Teil der Bevölkerung.
 
 <Android-Experiment>
 (1) Es gibt Androiden (Menschenähnliche Roboter), die selbst weitere Androiden herstellen können und auch sonst alles tun können, die ein menschlicher Arbeiter tun kann.
@@ -101,6 +107,9 @@ It is impossible to know if such jobs will be created at a sufficient pace.
 -----
 (9) Die Besitzer der Androiden, anderer Kapitalanlagen und natürlicher Ressourcen beanspruchen den kompletten Wert der Wirtschaft für sich und sind auch die einzigen Konsumenten.
 (10) Menschen ohne Kapitalanlagen, Androiden und natürliche Ressourcen haben nur Ihre Arbeit anzubieten und diese ist wertlos geworden.
+
+-----
+(11) [Armut]
 
 
 \## Disruptive technologies: Advances that will transform life, business, and the global economy  \{isGroup: true\}
