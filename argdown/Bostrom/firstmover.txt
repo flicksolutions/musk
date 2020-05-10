@@ -1,0 +1,50 @@
+<First-mover advantage>
+
+(1) If the takeoff is fast (hours, days, weeks) then it is unlikely that two independent projects could be taking off concurrently: almost certainly, the first project would have completed its takeoff before any other project would have started its own.
+(2) A project with a decisive strategic advantage could use it to suppress competitors and form a singleton.
+(3) A project which lags sufficiently behind the cutting edge might find it hard to assimilate the advances being made at the frontier.
+(4) In human-run organizations, economies of scale are counteracted by bureaucratic inefficiencies and agency problems, including difficulties in keeping trade secrets.
+(5) These problems would presumably limit the growth of a machine intelligence project so long as it is operated by humans.
+(6) An AI system might avoid some of these scale diseconomies, since the AI's modules need not have individual preferences that diverge from those of the system as a whole.
+(7) If the frontrunner is an AI system, it could have attributes that make it easier for it to expand its capabilities while reducing the rate of diffusion.
+-----
+(8) The first project to attain strong superintelligence gains a decisive strategic advantage.
+(9) The first project to attain strong superintelligence gains the opportunity to parlay its lead into permanent control by disabling the competing projects and establishing a singleton. (2.)
+-----
+(10) [Zukunft]: The first superintelligence may shape the future of Earth-originating life.
+
+
+
+
+() Der Wachstum einer KI kann verzögert werden, weil eine einzelne Hauptzutat zum Wachstum lange nicht gefunden wird.
+() Wird diese Hauptzutat gefunden, kann die KI die menschliche Intelligenz sprunghaft radikal übersteigen.
+() Wenn eine KI die menschliche Intelligenz sprunghaft radikal übersteigt, kann die Emergenz einer Superintelligenz rapide erfolgen.
+-----
+() Die Emergenz einer Superintelligenz kann rapide erfolgen.
+
+
+() Die Emergenz einer Superintelligenz kann rapide erfolgen.
+() Wenn die Emergenz einer Superintelligenz rapide erfolgt, dann ist es unwahrscheinlich, dass zwei unabhängige Superintelligenzen zur gleichen Zeit auftauchen.
+() Die erste Superintelligenz kann ihre Emergenz beendet haben, bevor eine zweite Superintelligenz aufgetaucht ist.
+() Eine Superintelligenz, die genügend weit hinter dem neusten Stand liegt, wird die Vorteile des neusten Standes nur schwer assimilieren können.
+-----
+() Die erste Superintelligenz gewinnt einen entscheidenden strategischen Vorteil.
+
+
+() In menschlichen Organisationen, ökonomische Skaleneffekte werden durch bürokratische Ineffizienzen und Organisationsschwierigkeiten wie die Geheimhaltung von Geschäftsgeheimnissen eingeschränkt.
+() Diese Probleme limitieren den Wachstum einer Superintelligenz, solange sie von Menschen gehandhabt werden.
+() Eine Superintelligenz, die nicht von Menschen gehandhabt wird, kann diese Einschränkung der Skaleneffekte minimieren, da die Module der Superintelligenz keine individuellen Absichten haben, welche vom System als Gesamtes abweichen.
+() Wenn die Superintelligenz nicht von Menschen geführt wird, kann der Wachstum der Kapazitäten vereinfacht werden.
+() Wenn die Superintelligenz nicht von Menschen geführt wird, kann die Diffusionsrate reduziert werden.
+-----
+() Eine Superintelligenz, welche den Wachstum der Kapazitäten vereinfacht und die Diffusionsrate reduziert, kann eine Singularität erstellen.
+
+
+() Die erste Superintelligenz gewinnt einen entscheidenden strategischen Vorteil.
+() Eine Superintelligenz, welche den Wachstum der Kapazitäten vereinfacht und die Diffusionsrate reduziert, kann eine Singularität erstellen.
+() Eine Singularität bedeutet einen unkontrollierbaren und irreversiblen technologischen Wachstum.
+() Ein unkontrollierbarer und irreversibler technologischer Wachstum verursacht unvorhersehbare Veränderungen in der Zivilisation.
+-----
+() Die erste Superintelligenz kann die Zukunft jeden Lebens auf Erden gestalten.
+
+

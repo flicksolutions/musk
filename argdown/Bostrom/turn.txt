@@ -1,0 +1,17 @@
+<The Treacherous Turn>
+
+(1) We validate the safety of a superintelligent AI empirically by observing its behaviour while it is in a controlled, limited environment.
+(2) We only let the AI out of the box if we see it behaving in a friendly, cooperative, responsible manner.
+(3) Behaving nicely while in the box is a convergent instrumental goal for friendly and unfriendly AIs alike.
+(4) An unfriendly AI of sufficient intelligence realizes that its unfriendly goals will be best realized if it behaves in a friendly manner initially, so that it will be let out of the box.
+-----
+(5) [Turn]: An unfriendly AI will only start behaving in a way that reveals its unfriendly nature when it no longer matters whether we find out; that is, when the AI is strong enough that human opposition is ineffectual.
+
+
+
+(1) Wir prüfen die Sicherheit einer KI empirisch, indem wir dessen Verhalten in einer kontrollierter, limitierter Umgebung beobachten.
+(2) Wir lassen die KI erst aus dieser Umgebung, wenn wir feststellen, dass sie in einer freundlichen, kooperativen und verantwortungsbewussten Weise funktioniert.
+(3) In freundlicher, kooperativer und verantwortungsbewusster Weise zu funktionieren, ist ein konvergentes, instrumentales Ziel von freundlicher wie auch unfreundlicher KI.
+(4) Eine unfreundliche KI mit genügender Intelligenz realisiert, dass seine unfreundlichen Ziele am besten realisiert werden, wenn die KI in freundlicher Weise funktioniert, um aus der kontrollierten und limitierten Umgebung herausgelassen zu werden.
+-----
+(5) [Turn]: Eine unfreundliche KI wird ihr unfreundliches Ziel erst dann preisgeben, wenn die KI stark genug ist, dass menschliche Opposition ineffektiv ist.

@@ -1,0 +1,18 @@
+<Orthogonality Thesis>
+
+(1) Basic preferences can be irrational.
+(2) The Orthagonality Thesis does not presuppose the Humean theory of motivation.
+(3) Intelligence and final goals are orthogonal: more or less any level of intelligence could in principle be combined with more or less any final goal.
+(4) Intelligent agents may have an enormous range of possible final goals.
+-----
+(5) [Ziele]: Artificial agents can have non-anthropomorphic goals.
+
+
+
+() Die Orthogonality Thesis besagt, dass Intelligenz und Ziele orthogonal sind: Jede Stufe von Intelligenz kann im Prinzip mit jedem Ziel kombiniert werden.
+() Die Humeanische Theorie der Motivation besagt, dass eine Überzeugung alleine nicht genügt, um eine Handlung zu motivieren und dass Wünsche notwendige Komponente zur Erklärung einer Aktion sind.
+() Die Orthogonality Thesis setzt die Humeanische Theorie der Motivation nicht voraus.
+() Grundvoraussetzungen können irrational sein.
+() Eine Superintelligenz kann eine enorme Weite an möglichen Zielen haben.
+-----
+() Eine Superintelligenz kann nicht-anthropomorphe Ziele haben.

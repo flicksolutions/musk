@@ -1,4 +1,37 @@
-## First-mover advantage {isGroup: true}
+# Gefahr {isGroup: true}
+
+[KI-Entwicklung ist gefährlich]
+    + [Extinction]
+    + [High-Speed]
+    + [Insider Trading]
+
+    
+    
+## Extinction {isGroup: true}
+
+<Extinction>
+
+(1) [Zukunft gestalten]
+(2) [Nicht-anthropomorph]
+(3) [Überfülle]
+(4) [Menschliche Resourcen]
+-----
+(5) [Extinction]: Das Resultat kann sein, dass die Menschheit ausgerottet wird.
+
+
+[Extinction]
+    + [Zukunft gestalten]
+    + [Nicht-anthropomorph]
+    + [Menschliche Resourcen]
+    + [Turn]
+    + [Devastation]
+    + [Crisis]
+    + [Maglinant Failure Modes]
+
+
+
+
+### First-mover advantage {isGroup: true}
 
 <Rapide Emergenz>
 
@@ -40,7 +73,7 @@
 (5) [Zukunft gestalten]: Die erste Superintelligenz kann die Zukunft jeden Lebens auf Erden gestalten.
 
 
-## Orthogonal Thesis {isGroup: true}
+### Orthogonal Thesis {isGroup: true}
 
 <Orthogonality Thesis>
 
@@ -53,7 +86,7 @@
 (6) [Nicht-anthropomorph]: Eine Superintelligenz kann nicht-anthropomorphe Ziele haben.
 
 
-## Convergence {isGroup: true}
+### Convergence {isGroup: true}
 
 <Instrumental Convergence Thesis>
 
@@ -65,12 +98,7 @@
 (5) [Menschliche Resourcen]: Eine Superintelligenz kann die Menschen als physikalische Resourcen benützen.
 
 
-## Extinction {isGroup: true}
-
-
-
-
-## Turn {isGroup: true}
+### Turn {isGroup: true}
 
 <The Treacherous Turn>
 
@@ -82,7 +110,13 @@
 (5) [Turn]: Eine unfreundliche KI wird ihr unfreundliches Ziel erst dann preisgeben, wenn die KI stark genug ist, dass menschliche Opposition ineffektiv ist.
 
 
-## Failure {isGroup: true}
+### Failure {isGroup: true}
+
+[Maglinant Failure Modes]
+    + [Global Destruction]
+    + [Überfülle]
+        + [Zukunft gestalten]
+    + [Mind Crime]
 
 <Global Destruction>
 
@@ -107,13 +141,6 @@
 (8) [Überfülle]: An agent transforms large parts of the reachable universe into infrastructure in the service of some goal, with the side effect of preventing the realization of humanity's axiological potential.
 
 
-/* <Perverse Instantiation>
-(1)
-(2)
------
-(3) [Pervers]: voll pervers */
-
-
 <Mind Crime>
 
 (1) We do not regard what is going on inside a computer as having any moral significance.
@@ -122,18 +149,18 @@
 (4) An AI can create trillions of such conscious simulations, in order to improve its understanding of human psychology or sociology.
 (5) Once their informal usefulness has been exhausted, they might be destroyed.
 ----
-(6) [Moralisch Problematisch]: If such practices are applied to beings that have high moral status, the outcome might be equivalent to genocide and thus extremely morally problematic.
-
-
-[Maglinant Failure Modes]
-    + [Global Destruction]
-    + [Überfülle]
-        + [Zukunft gestalten]
-    + [Moralisch Problematisch]
+(6) [Mind Crime]: If such practices are applied to beings that have high moral status, the outcome might be equivalent to genocide and thus extremely morally problematic.
 
 
 
-## Development {isGroup: true}
+/* <Perverse Instantiation>
+(1)
+(2)
+-----
+(3) [Pervers]: voll pervers */
+
+
+### Development {isGroup: true}
 
 <Race Dynamics>
 
@@ -157,29 +184,38 @@
 (4) [Crisis]: Trying to acquire projects close to takeoff might lead to an international crisis.
  
 
-## Extinction {isGroup: true}
+## Stock Trading {isGroup: true}
 
-<Extinction>
+<Insider Trading>
 
-(1) [Zukunft gestalten]
-(2) [Nicht-anthropomorph]
-(3) [Überfülle]
-(4) [Menschliche Resourcen]
+(1) AI algorithms can be designed capable of predicting when a stock will make sudden gains in value.
+(2) The AI algorithms can process large volumes of information, current and historical, to find patterns.
+(3) Innocuous data input combined with publically available information can give the AI algorithms what is considered forbidden insider information.
+(4) Traders don't necessarily understand how the AI algorithms works.
+(5) If the traders don't understand how the AI algorithms works, they can't be accused of insider trading.
+(6) The traders can never be prosecuted and gain unfair advantages.
 -----
-(5) [Extinction]: Das Resultat kann sehr einfach sein, dass die Menschheit ausgerottet wird.
+(7) [Insider Trading]: AI algorithms lead to unfair advantages in stock trading.
 
 
-[Extinction]: The outcome could easily be one in which humanity quickly becomes extinct.
-    + [Zukunft gestalten]
-    + [Nicht-anthropomorph]
-    + [Menschliche Resourcen]
-    + [Maglinant Failure Modes]
-    + [Turn]
-    + [Devastation]
-    + [Crisis]
+<Market Volatility>
+
+(1) AI algorithms are capable of processing large volumes of information and trade at a high speed.
+(2) High-speed trading can lead to market volatility.
+(3) Market volatility can lead to huge losses.
+(4) Huge losses can lead to bankrupcy.
+-----
+(5) [Volatility]: Market volatility can have dangerous results.
 
 
-# Gefahr {isGroup: true}
+<High-Speed Trading>
 
-[KI-Entwicklung ist gefährlich]
-    + [Extinction]
+(1) [Volatility]
+(2) High-speed trading can lead to market volatility.
+(3) AI algorithms are capable of processing large volumes of information and trade at a high speed.
+-----
+(4) [High-Speed]: AI algorithms can have dangerous results for the economy.
+
+
+
+

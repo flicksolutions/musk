@@ -1,0 +1,22 @@
+<Instrumental Convergence Thesis>
+
+(1) We can't assume that a superintelligence with the final goal of calculating the decimals of pi (non-anthromorphic) would limit its activities in such a way as not to infringe on human interests.
+(2) Several instrumental values can be identified which are convergent in the sense that their attainment would increase the chances of the agent's goal being realized.
+(3) Humans constitute physical resources (conveniently located atoms).
+(4) A superintelligence with such a goal would eliminate potential threats.
+-----
+(5) [Resources]: A superintelligence with such a final goal would have a convergent instrumental reason to acquire an unlimited amount of physical resources.
+
+
+(5) Eine Superintelligenz mit solch einem Ziel würde potenzielle Gefahren für das erreichen der Ziele eliminieren.
+
+
+
+(1) [Nicht-anthropomorph]: Eine Superintelligenz kann nicht-anthropomorphe Ziele haben.
+(2) Wir können nicht davon ausgehen, dass eine Superintelligenz mit einem nicht-anthropomorphen Ziel, die Aktivitäten limitiert, dass keine menschlichen Interessen eingeschränkt werden.
+(3) Verschiedene instrumentelle Variablen können identifiziert werden, welche Konvergent im Sinne sind, dass das Erlangen die Chancen des Erreichens des Ziels erhöht.
+(4) Menschen stellen physikalische Resourcen dar (günstig lokalisierte Atome).
+
+-----
+(5) Eine Superintelligenz kann die Menschen als physikalische Resourcen benützen.
+
