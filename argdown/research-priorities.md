@@ -155,6 +155,15 @@ agent.
 to machines, seem particularly pressing.
 > — [@wallachMoralMachinesTeaching2008, p. 9] & [@wallachMoralMachinesTeaching2008, chap. 3]
 
+<Decision Support Tools>
+DST unterstützen Menschen dabei Entscheidungen zu treffen.
+Wenn DST gut funktionieren, fangen Menschen an, ihre Entscheidungen nicht mehr selbst zu treffen, sondern überlassen die Entscheidungen den DST.
+
+-----
+Wenn DST gut funktionieren, kontrollieren sie selbst Entscheidungsprozesse.
+
+
+
 [Cyberattacken]\:
    > As AI systems are used in an increasing number of critical roles, they will take up an increasing proportion of cyberattack surface area. It is also probable that AI and machine-learning techniques will themselves be used in cyberattacks.
 >(...)It is not implausible that cyberattack between states and private actors will be a risk factor for harm from near-future AI systems, motivating research on preventing harmful events.
