@@ -134,16 +134,24 @@ leads to desirable behavior and a beneficial
 agent.
  [@russellResearchPrioritiesRobust2015, p. 108]
  
- [moral decisions sind notwendig]\: 
-> But today’s systems are approaching a level of complexity that, we argue, requires the systems themselves to make moral decisions—to be programmed with “ethical subroutines,” to borrow a phrase from Star Trek.
-[@wallachMoralMachinesTeaching2008, p. 4]
+ [moral decisions von Maschinen]\: Aufgrund Ihrer Komplexität, Vernetztheit und Kompetenzen müssen Systeme selbst ethische Entscheidungen treffen. [@wallachMoralMachinesTeaching2008, p.4]
+ <AI muss Entscheidungen treffen> [@wallachMoralMachinesTeaching2008, p.39]
+ Wenn Systeme aus verschiedenen möglichen Optionen auswählen, treffen sie Entscheidungen.
+ Ob diese Entscheidungen ethisch gut oder schlecht sind, hängt von den Werten ab, die der Ingenieur ihnen beibringt.
+ Weil Systeme modular aufgebaut sind, kann niemand vorhersagen, wie die Systeme mit der Umwelt interagieren.
+ 
+ 
 
-[Vorteile verhindern Moratorium]\:
-> However, it is not often possible to predict accurately the impact of a new technology on society until well after it has been widely adopted. Some critics think, therefore, that humans should err on the side of caution and relinquish the development of potentially dangerous technologies. We believe, however, that market and political forces will prevail and will demand the benefits that these technologies can provide. Thus, it introduction 7 is incumbent on anyone with a stake in this technology to address head-on the task of implementing moral decision making in computers, robots, and virtual “bots” within computer networks.
-> — [@wallachMoralMachinesTeaching2008, p. 6]
+<Vorteile verhindern Moratorium> [@wallachMoralMachinesTeaching2008, p.5, chap. 3]
+(1) Maschinen, die moralisch-relevante Entscheidungen treffen müssen, können grosse Vorteile bringen.
+(2) Der Markt und die Politik verlangen nach diesen Vorteilen.
+(3) Wenn eine Maschine nicht mit moralischen Entscheiden umgehen kann, trifft Sie schlechte moralische Entscheide.
+
+----
+(4) Es ist notwendig, dass man AI mit der Fähigkeit, mit moralischen Entscheidungen umzugehen, entwickelt.
 
 [Abtreten von moralischen Entscheidungen]\: 
->Some concerns, for example whether AMAs will lead humans to abrogate responsibility
+> Some concerns, for example whether AMAs will lead humans to abrogate responsibility
 to machines, seem particularly pressing.
 > — [@wallachMoralMachinesTeaching2008, p. 9] & [@wallachMoralMachinesTeaching2008, chap. 3]
 
