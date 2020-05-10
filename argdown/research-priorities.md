@@ -56,28 +56,57 @@ Hier finden sich vorallem 2 Paper die Gefahren aufzeigen. Es geht dabei vor alle
 
 [GDP ist falsches Messinstrument]\: Why the gloominess of my colleagues? Part of the story is that economists are trained to look at aggregate statistics like GDP per capita and its derivatives such as factor productivity. These measures were designed for a steel-and-wheat economy, not one in which information and data are the most dynamic sector. Many of the new goods and services are expensive to design, but once they work, they can be copied at very low or zero costs. That means they tend to contribute little to measured output even if their impact on consumer welfare is very large. Dealing with altogether new goods and services was not what these numbers were designed for, despite the heroic efforts by BLS statisticians. The aggregative statistics miss much of what is interesting.
 
-[Job loss]\: Another characteristic of many of these goods is the ‘dumbing-down’ of the user; the ingenuity in a piece of modern technology such as a smartphone is fully frontloaded. A few thousand highly skilled and creative hardware engineers and a few tens of thousand software and application writers design it with incredible technical sophistication, so that hundreds of millions can use it without any. For that reason, there are few jobs in the high-technology sector, but those that are there pay well. Modern technology often leads to winner-take-all outcomes, and the inequality implications in terms of income – though not in terms of access to the good itself – are worrisome. What we gain as consumers, citizens, viewers and patients we may lose as workers. The demand for labour ‘hollows out’ and the demand for medium-skilled labour declines unless and until new jobs are created to absorb those replaced by automatons and robots.
-It is impossible to know if such jobs will be created at a sufficient pace.
-
 \## The Second Machine Age: Work, Progress and Prosperity in a Time of Brilliant Technologies  \{isGroup: true\}
 
-[Power Law / Ersetzung]\: Call it talent-biased technical change. In many industries, the difference in payout between number one and second-best has widened into a canyon. (...) Suddenly the top-quality provider can capture the whole market. The next-best provider might be almost as good, but it will not matter. Each time a market becomes more digital, these winner-take-all economics become a little more compelling.
-A shift in the distribution of income to a power-law distribution would have important implications. For instance, Kim Taipale, founder of the Stilwell Center for Advanced Studies in Science and Technology Policy, has argued that, “The era of bell curve distributions that supported a bulging social middle class is over and we are headed for the power-law distribution of economic opportunities. Education per se is not going to make up the difference.” Such a shift disrupts our mental models for understanding the world. Most of us are used to reasoning by reference to a prototypical. Politicians talk about the “average voter” and marketing managers talk about the “typical consumer.”
-Today the employment-to-population ratio is lower than any time in at least 20 years, and the real income of the median worker is lower today than in the 1990s. Meanwhile, like productivity, GDP, corporate investment, and after-tax profits are also at record highs.
-That many Americans face stagnant and falling incomes is bad enough, but it is now combined with decreasing social mobility—an ever lower chance that children born at the bottom end of the spread will escape their circumstances and move upward throughout their lives and careers. Recent research makes it clear that the American Dream of upward mobility, which was real in earlier generations, is greatly diminished today.
-(...) that productivity somehow inevitably leads to job creation, as technology boosters sometimes argue. However, as we saw in figure 11.1, the data also show that, more recently, job growth decoupled from productivity in the late 1990s.
-The better machines can substitute for human workers, the more likely it is that they’ll drive down the wages of humans with similar skills. The lesson from economics and business strategy is that you don’t want to compete against close substitutes, especially if they have a cost advantage.  [@brynjolfssonSecondMachineAge2014, chap. 10 ]
-
-<Power Law>
+<Power Law>[@brynjolfssonSecondMachineAge2014, chap. 10 ] & @mokyrSecularStagnationNot2014
 (1) "Normale" Wirtschaft folgt einer normalen Verteilung, weil die Nachfrage nicht von einem Anbieter befriedigt werden kann.
 (2) Ein Anbieter von digitalen Produkten kann theoretisch die ganze Nachfrage nach einem Produkt befriedigen.
-(3) Durch die Vernetzung der Welt (globaler Markt), können alle bestehenden Produkte verglichen werden, alle Produkte müssen also mit dem Besten konkurrieren.
+(3) Durch die Vernetzung der Welt (globaler Markt), können alle bestehenden Produkte verglichen werden, alle Produkte müssen also mit dem Besten konkurrieren. Dies führt zu einem Potenzgesetz.
+(4) Die Digitalisierung führt zu einer grösseren Vernetzung der Welt.
 (4) Netzwerke und Standards werden wichtiger in einer digitalen Welt.
------
-(5) Die Digitalisierung verändert die ökonomischen Prozesse so, dass die Verteilung des Reichtums einem Potenzgesetz ([Pareto-Verteilung](https://www.youtube.com/watch?v=fCn8zs912OE)) folgt.
------
-(6) Eine einem Potenzgesetz folgende Wirtschaft ist schlecht.
+(5) Netzwerke und Standards fördern ein Potenzgesetz.
 
+-----
+(5) Die Digitalisierung verändert die ökonomischen Prozesse so, dass die Verteilung des Reichtums einem Potenzgesetz ([Pareto-Verteilung](https://www.youtube.com/watch?v=fCn8zs912OE)) folgt und nicht mehr einer Normalverteilung (Glockenkurve).
+(6) Durch die Konzentration von Reichtum wird ein positiver Feedback-Loop in Gang gesetzt, der den Effekt noch verstärkt [@brynjolfssonSecondMachineAge2014, p. 135]
+(7) Durch die Entwicklung von AI werden weitere Märkte vernetzt (globalisiert).
+(8) Durch die Entwicklung von AI werden analoge Produkte/Dienstleistungen zu digitalen. → Somit kann die ganze Nachfrage von einem Anbieter befriedigt werden.
+
+-----
+(9) Die Entwicklung von AI führt dazu, dass die Wirtschaft noch stärker einem Potenzgesetz folgt.
+
+-----
+(10) [Armut]
+
+<Technological Unemployment> [@brynjolfssonSecondMachineAge2014, p. 153] & @mokyrSecularStagnationNot2014
+(1) Technische Entwicklungen führen zu Jobverlusten.
+(2) Jobverluste werden durch nach einer gewissen Zeit *t* ausgeglichen, weil die Technischen Entwicklungen neue Berufsfelder entstehen lassen.
+(3) Durch die Entwicklung von AI wird die technologische Entwicklung derart beschleunigt, dass *t* immer weiter wächst.
+
+-----
+(4) Die Entwicklung von AI führt zu permanenten Jobverlusten.
+
+-----
+(5) [Armut]:Die Entwicklung von AI führt zu extremer Armut bei einem grossen Teil der Bevölkerung.
+
+<Android-Experiment> @brynjolfssonSecondMachineAge2014
+(1) Es gibt Androiden (Menschenähnliche Roboter), die selbst weitere Androiden herstellen können und auch sonst alles tun können, die ein menschlicher Arbeiter tun kann.
+(2) Die Androiden sind günstig herstellbar.
+(3) Es gibt ein unendlich grosses Angebot an Androiden.
+(4) Die Betriebskosten der Androiden sind fast Null
+(5) Die Androiden arbeiten 24/7
+
+-----
+(6) Produktivität und und Produktion steigen extrem.
+(7) Preise für Produkte wären nahe an den Preisen der Rohstoffe.
+(8) Es würden nur noch Androiden und keine Menschen mehr eingestellt.
+
+-----
+(9) Die Besitzer der Androiden, anderer Kapitalanlagen und natürlicher Ressourcen beanspruchen den kompletten Wert der Wirtschaft für sich und sind auch die einzigen Konsumenten.
+(10) Menschen ohne Kapitalanlagen, Androiden und natürliche Ressourcen haben nur Ihre Arbeit anzubieten und diese ist wertlos geworden.
+
+-----
+(11) [Armut]
 
 
 \## Disruptive technologies: Advances that will transform life, business, and the global economy  \{isGroup: true\}
@@ -105,18 +134,35 @@ leads to desirable behavior and a beneficial
 agent.
  [@russellResearchPrioritiesRobust2015, p. 108]
  
- [moral decisions sind notwendig]\: 
-> But today’s systems are approaching a level of complexity that, we argue, requires the systems themselves to make moral decisions—to be programmed with “ethical subroutines,” to borrow a phrase from Star Trek.
-[@wallachMoralMachinesTeaching2008, p. 4]
+ [moral decisions von Maschinen]\: Aufgrund Ihrer Komplexität, Vernetztheit und Kompetenzen müssen Systeme selbst ethische Entscheidungen treffen. [@wallachMoralMachinesTeaching2008, p.4]
+ <AI muss Entscheidungen treffen> [@wallachMoralMachinesTeaching2008, p.39]
+ Wenn Systeme aus verschiedenen möglichen Optionen auswählen, treffen sie Entscheidungen.
+ Ob diese Entscheidungen ethisch gut oder schlecht sind, hängt von den Werten ab, die der Ingenieur ihnen beibringt.
+ Weil Systeme modular aufgebaut sind, kann niemand vorhersagen, wie die Systeme mit der Umwelt interagieren.
+ 
+ 
 
-[Vorteile verhindern Moratorium]\:
-> However, it is not often possible to predict accurately the impact of a new technology on society until well after it has been widely adopted. Some critics think, therefore, that humans should err on the side of caution and relinquish the development of potentially dangerous technologies. We believe, however, that market and political forces will prevail and will demand the benefits that these technologies can provide. Thus, it introduction 7 is incumbent on anyone with a stake in this technology to address head-on the task of implementing moral decision making in computers, robots, and virtual “bots” within computer networks.
-> — [@wallachMoralMachinesTeaching2008, p. 6]
+<Vorteile verhindern Moratorium> [@wallachMoralMachinesTeaching2008, p.5, chap. 3]
+(1) Maschinen, die moralisch-relevante Entscheidungen treffen müssen, können grosse Vorteile bringen.
+(2) Der Markt und die Politik verlangen nach diesen Vorteilen.
+(3) Wenn eine Maschine nicht mit moralischen Entscheiden umgehen kann, trifft Sie schlechte moralische Entscheide.
+
+----
+(4) Es ist notwendig, dass man AI mit der Fähigkeit, mit moralischen Entscheidungen umzugehen, entwickelt.
 
 [Abtreten von moralischen Entscheidungen]\: 
->Some concerns, for example whether AMAs will lead humans to abrogate responsibility
+> Some concerns, for example whether AMAs will lead humans to abrogate responsibility
 to machines, seem particularly pressing.
 > — [@wallachMoralMachinesTeaching2008, p. 9] & [@wallachMoralMachinesTeaching2008, chap. 3]
+
+<Decision Support Tools>
+DST unterstützen Menschen dabei Entscheidungen zu treffen.
+Wenn DST gut funktionieren, fangen Menschen an, ihre Entscheidungen nicht mehr selbst zu treffen, sondern überlassen die Entscheidungen den DST.
+
+-----
+Wenn DST gut funktionieren, kontrollieren sie selbst Entscheidungsprozesse.
+
+
 
 [Cyberattacken]\:
    > As AI systems are used in an increasing number of critical roles, they will take up an increasing proportion of cyberattack surface area. It is also probable that AI and machine-learning techniques will themselves be used in cyberattacks.
