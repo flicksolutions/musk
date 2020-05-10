@@ -63,47 +63,51 @@ Hier finden sich vorallem 2 Paper die Gefahren aufzeigen. Es geht dabei vor alle
 (2) Ein Anbieter von digitalen Produkten kann theoretisch die ganze Nachfrage nach einem Produkt befriedigen.
 (3) Durch die Vernetzung der Welt (globaler Markt), können alle bestehenden Produkte verglichen werden, alle Produkte müssen also mit dem Besten konkurrieren. Dies führt zu einem Potenzgesetz.
 (4) Die Digitalisierung führt zu einer grösseren Vernetzung der Welt.
-(4) Netzwerke und Standards werden wichtiger in einer digitalen Welt.
-(5) Netzwerke und Standards fördern ein Potenzgesetz.
+(5) Netzwerke und Standards werden wichtiger in einer digitalen Welt.
+(6) Netzwerke und Standards fördern ein Potenzgesetz.
 
 -----
-(5) Die Digitalisierung verändert die ökonomischen Prozesse so, dass die Verteilung des Reichtums einem Potenzgesetz ([Pareto-Verteilung](https://www.youtube.com/watch?v=fCn8zs912OE)) folgt und nicht mehr einer Normalverteilung (Glockenkurve).
-(6) Durch die Konzentration von Reichtum wird ein positiver Feedback-Loop in Gang gesetzt, der den Effekt noch verstärkt [@brynjolfssonSecondMachineAge2014, p. 135]
-(7) Durch die Entwicklung von AI werden weitere Märkte vernetzt (globalisiert).
-(8) Durch die Entwicklung von AI werden analoge Produkte/Dienstleistungen zu digitalen. → Somit kann die ganze Nachfrage von einem Anbieter befriedigt werden.
+(7) Die Digitalisierung verändert die ökonomischen Prozesse so, dass die Verteilung des Reichtums einem Potenzgesetz ([Pareto-Verteilung](https://www.youtube.com/watch?v=fCn8zs912OE)) folgt und nicht mehr einer Normalverteilung (Glockenkurve).
+(8) Durch die Konzentration von Reichtum wird ein positiver Feedback-Loop in Gang gesetzt, der den Effekt (Potenzgesetz) noch verstärkt [@brynjolfssonSecondMachineAge2014, p. 135]
+(9) Durch die Entwicklung von AI werden weitere Märkte vernetzt (globalisiert). (z.B. Übersetzung)
+(10) Durch die Entwicklung von AI (Roboter) werden analoge Dienstleistungen zu digitalen. → Somit kann die ganze Nachfrage von einem Anbieter befriedigt werden.
 
 -----
-(9) Die Entwicklung von AI führt dazu, dass die Wirtschaft noch stärker einem Potenzgesetz folgt.
+(11) Die Entwicklung von AI führt dazu, dass die Wirtschaft noch stärker einem Potenzgesetz folgt.
+(x) 
 
 -----
-(10) [Armut]
+(12) [Armut]
 
 <Technological Unemployment> [@brynjolfssonSecondMachineAge2014, p. 153] & @mokyrSecularStagnationNot2014
 (1) Technische Entwicklungen führen zu Jobverlusten.
-(2) Jobverluste werden durch nach einer gewissen Zeit *t* ausgeglichen, weil die Technischen Entwicklungen neue Berufsfelder entstehen lassen.
+(2) Jobverluste werden nach einer gewissen Zeitdauer *t* ausgeglichen, weil die technischen Entwicklungen neue Berufsfelder entstehen lassen.
 (3) Durch die Entwicklung von AI wird die technologische Entwicklung derart beschleunigt, dass *t* immer weiter wächst.
 
 -----
-(4) Die Entwicklung von AI führt zu permanenten Jobverlusten.
+(4) Die Entwicklung von AI führt zu permanenten Jobverlusten. - *t* geht gegen unendlich.
+(5) Das Einkommen eines grossen Teils der Bevölkerung hängt von ihrem Job ab.
 
 -----
-(5) [Armut]:Die Entwicklung von AI führt zu extremer Armut bei einem grossen Teil der Bevölkerung.
+(6) [Armut]: Die Entwicklung von AI führt zu extremer Armut bei einem grossen Teil der Bevölkerung.
 
 <Android-Experiment> @brynjolfssonSecondMachineAge2014
-(1) Es gibt Androiden (Menschenähnliche Roboter), die selbst weitere Androiden herstellen können und auch sonst alles tun können, die ein menschlicher Arbeiter tun kann.
-(2) Die Androiden sind günstig herstellbar.
-(3) Es gibt ein unendlich grosses Angebot an Androiden.
-(4) Die Betriebskosten der Androiden sind fast Null
-(5) Die Androiden arbeiten 24/7
+(1) Es gibt Androiden (Menschenähnliche Roboter)
+(2) Die Androiden können alle Arbeiten eines menschlichen Arbeiters verrichten.
+~(3) Die Androiden können selbst andere Androiden herstellen.~
+(4) Die Androiden sind günstig herstellbar.
+(5) Es gibt ein unendlich grosses Angebot an Androiden.
+(6) Die Betriebskosten der Androiden sind fast Null.
+(7) Die Androiden arbeiten 24/7.
 
 -----
 (6) Produktivität und und Produktion steigen extrem.
-(7) Preise für Produkte wären nahe an den Preisen der Rohstoffe.
-(8) Es würden nur noch Androiden und keine Menschen mehr eingestellt.
+(7) Preise für Produkte in einem kompetitiven Markt sind nahe an den Preisen der Rohstoffe. //follows from up
+(8) Es würden nur noch Androiden und keine Menschen mehr eingestellt. //follows from up
 
 -----
 (9) Die Besitzer der Androiden, anderer Kapitalanlagen und natürlicher Ressourcen beanspruchen den kompletten Wert der Wirtschaft für sich und sind auch die einzigen Konsumenten.
-(10) Menschen ohne Kapitalanlagen, Androiden und natürliche Ressourcen haben nur Ihre Arbeit anzubieten und diese ist wertlos geworden.
+(10) Menschen ohne Kapitalanlagen, Androiden und natürliche Ressourcen haben nur Ihre Arbeit anzubieten und diese ist wertlos geworden. //follows from up
 
 -----
 (11) [Armut]
@@ -148,7 +152,7 @@ agent.
 (3) Wenn eine Maschine nicht mit moralischen Entscheiden umgehen kann, trifft Sie schlechte moralische Entscheide.
 
 ----
-(4) Es ist notwendig, dass man AI mit der Fähigkeit, mit moralischen Entscheidungen umzugehen, entwickelt.
+(4) Es ist ~notwendig~, dass man AI mit der Fähigkeit, mit moralischen Entscheidungen umzugehen, entwickelt.
 
 [Abtreten von moralischen Entscheidungen]\: 
 > Some concerns, for example whether AMAs will lead humans to abrogate responsibility
