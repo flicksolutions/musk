@@ -1,0 +1,21 @@
+(1) An AI would be motivated to take actions to maximize the expectation of its (time-discounted) future reward stream.
+(2) An AI may not even need to sacrifice any significant amount of its time, intelligence, or productivity to indulge its cravings to the fullest.
+(3) This would leave the bulk of its capacities free to be deployed for purposes other than immediate registration of reward.
+(4) All available resources should therefore be devoted to increasing the volume and duration of the reward signal, OR
+(5) reducing the risk of a future disruption.
+(6) There could always be an use for an extra backup system to provide an extra layer of defense.
+(7) If the AI could not think of any further way of directly reducing risks to the maximization of its future reward stream, it could always devote additional resources to expanding its computational hardware, so that it could search more effectively for new risk mitigation ideas.
+-----
+(8) [Überfülle]: An agent transforms large parts of the reachable universe into infrastructure in the service of some goal, with the side effect of preventing the realization of humanity's axiological potential.
+
+
+(1) Eine Superintelligenz ist zu Prozessen motiviert, die Erwartungen seines zukünftigen Profit-Einkommens zu maximieren.
+(2) Es ist nicht nötig, dass die Prozesse einer Superintelligenz eine beachtliche Menge an Zeit, Intelligenz oder Produktivität dazu verwendet, um sich seiner Verlangen hinzugeben.
+(3) Dies ermöglicht es der Superintelligenz, den Grossteil seiner Kapazität für etwas anderes als das unmittelbare Profit-Einkommen einzusetzen.
+(4) Alle verfügbaren Resourcen können zur Vergrösserung des Volumens und der Dauer des Profit-Einkommen verendet werden, ODER
+(5) Alle verfügbaren Resourcen können zum Minimieren eines Risikos zukünftiger Störung verwendet werden.
+(6) Ein zusätzliches Backupsystem kann als zusätzliche Verteidigungsschicht hilfreich sein.
+(7) Wenn die Superintelligenz keine weiteren direkten Pfade zur Risikoreduzierung der Maximierung des zukünftigen Profit-Einkommens findet, kann es die zusätzlichen Resourcen dazu verwenden, seine Hardware zu erweitern, um effizienter nach Ideen zur Minderung zukünftiger Risiken des Profit-Einkommens zu suchen.
+-----
+(8) [Überfülle]: Eine Superintelligenz kann weite Teile des erreichbaren Universums in Infrastruktur im Service eines Zieles umwandeln und dabei das Realisieren menschlichen axiologischen Potentials verhindern.
+

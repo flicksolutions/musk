@@ -1,0 +1,17 @@
+<Global Destruction>
+
+(1) One feature of a malignant failure is that it eliminates the opportunity to try again.
+(2) Only a project that got a great number of things right could succeed in building a machine intelligence powerful enough to pose a risk of malignant failure.
+(3) [Zukunft gestalten]
+(3) If a system has a decisive strategic advantage misbehaves, the damage can easily amount to an existential catastrophe.
+-----
+(4) [Global Destruction]: The damage can amount to a terminal and global destruction of humanity's axiological potential - a future that is mostly void of whatever we have reason to value.
+
+
+
+(1) Eine Eigenschaft eines bösartigen Versagens ist, dass es jegliche Möglichkeit eliminiert, noch einmal von vorne anzufangen.
+(2) Nur ein Projekt, welches eine grosse Menge an Dingen richtig macht, kann erfolgreich eine Superintelligenz entwickeln, welche ein Risiko des bösartigen Versagens darstellt.
+(3) [Strategischer Vorteil]: Die erste Superintelligenz gewinnt einen entscheidenden strategischen Vorteil.
+(4) Wenn eine Superintelligenz, welche einen entscheidenden strategischen Vorteil hat, sich schlecht benimmt, kann der Schaden einer existenziellen Katastrophe gleichzusetzen sein.
+-----
+(5) [Global Destruction]: Der Schaden eines bösartigen Versagens kann zur globalen Zerstörung des menschlichen axiologischen Potentials führen - eine Zukunft, die leer von allem ist, wovon wir Grund zur Wertschätzung haben.

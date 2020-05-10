@@ -1,0 +1,18 @@
+(1) We do not regard what is going on inside a computer as having any moral significance.
+(2) A machine superintelligence could create internal processes that have moral status.
+(3) A very detailed simulation of some actual or hypothetical human mind might be conscious in many ways comparable to an emulation.
+(4) An AI can create trillions of such conscious simulations, in order to improve its understanding of human psychology or sociology.
+(5) Once their informal usefulness has been exhausted, they might be destroyed.
+----
+(6) [Mind Crime]: If such practices are applied to beings that have high moral status, the outcome might be equivalent to genocide and thus extremely morally problematic.
+
+
+
+(1) Was innerhalb einaes Computers passiert, beachten wir nicht als moralische Wichtigkeit.
+(2) Eine Superintelligenz kann interne Prozesse kreieren, welche einen moralischen Status haben.
+(3) Eine detaillierte Simulation eines aktualen oder hypothetischen menschlichen Geist kann ein Bewusstsein vergleichbar mit einer Emulation besitzen.
+(4) Eine Superintelligenz kann Billionen solcher bewusster Simulationen kreieren, um sein Verständnis der menschlichen Psychologie oder Soziologie zu verbessern.
+(5) Nachdem die informelle Nützlichkeit dieser Simulationen erschöpft ist, können sie zerstört werden wie Ratten in einem Labor nach dem Versuchsende.
+(6) Wenn solche Praktiken auf Simulationen mit hohem moralischen Status angewendet werden, kann das Resultat mit einem Genozid gleichgesetzt werden.
+-----
+(7) [Mind Crime]: Die Zerstörung einer Simulation mit hohem moralischen Status ist Genozid.
