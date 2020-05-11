@@ -35,11 +35,15 @@
 
 <Rapide Emergenz>
 
-(1) Der Wachstum einer KI kann verzögert werden, weil eine einzelne Hauptzutat zum Wachstum lange nicht gefunden wird.
+(1) Das Wachstum einer KI kann verzögert werden, weil eine einzelne Hauptzutat zum Wachstum lange nicht gefunden wird.
 (2) Wird diese Hauptzutat gefunden, kann die KI die menschliche Intelligenz sprunghaft radikal übersteigen.
 (3) Wenn eine KI die menschliche Intelligenz sprunghaft radikal übersteigt, kann die Emergenz einer Superintelligenz rapide erfolgen.
 -----
 (4) [Rapide Emergenz]: Die Emergenz einer Superintelligenz kann rapide erfolgen.
+// Was heisst hier "Wachstum"?
+//Sind (1) und (2) nicht äquivalent?
+//Meinst Du wirklich den Begriff der Emergenz oder hast du nur das englische *emerge* übersetzt? Emerge wird besser mit "Auftauchen" übersetzt.
+//Durch die Verwendung des Konjunktivs wird das Argument extrem schwach. Das Auftauchen einer Superintelligenz *kann* rapide erfolge, kann aber auch nicht.
 
 
 <Strategischer Vorteil>
@@ -50,27 +54,36 @@
 (4) Eine Superintelligenz, die genügend weit hinter dem neusten Stand liegt, wird die Vorteile des neusten Standes nur schwer assimilieren können.
 -----
 (5) [Strategischer Vorteil]: Die erste Superintelligenz gewinnt einen entscheidenden strategischen Vorteil.
+//Wie folgt (5)? Das Wort Vorteil kommt in den Prämissen nie vor. Ich nehme an es geht um einen strategischen Vorteil gegenüber anderen Superintelligenzen?
+//Was heisst Emergenz beenden?
 
+/*
+Vorschlag zur Umformulierung:
+(3)&(4) Wenn eine Superintelligenz vor einer anderen auftaucht, so wird die Erste wegen Ihres exponentiellen Intelligenzzuwachses nicht mehr von einer anderen Superintelligenz aufholbar sein.
+*/
 
 <Singularität>
 
-(1) In menschlichen Organisationen, ökonomische Skaleneffekte werden durch bürokratische Ineffizienzen und Organisationsschwierigkeiten wie die Geheimhaltung von Geschäftsgeheimnissen eingeschränkt.
-(2) Diese Probleme limitieren den Wachstum einer Superintelligenz, solange sie von Menschen gehandhabt werden.
+(1) In menschlichen Organisationen werden ökonomische Skaleneffekte durch bürokratische Ineffizienzen und Organisationsschwierigkeiten wie die Geheimhaltung von Geschäftsgeheimnissen eingeschränkt.
+(2) Diese Probleme limitieren das Wachstum einer Superintelligenz, solange sie von Menschen gehandhabt werden.
 (3) Eine Superintelligenz, die nicht von Menschen gehandhabt wird, kann diese Einschränkung der Skaleneffekte minimieren, da die Module der Superintelligenz keine individuellen Absichten haben, welche vom System als Gesamtes abweichen.
-(4) Wenn die Superintelligenz nicht von Menschen geführt wird, kann der Wachstum der Kapazitäten vereinfacht werden.
+(4) Wenn die Superintelligenz nicht von Menschen geführt wird, kann das Wachstum der Kapazitäten vereinfacht werden.
 (5) Wenn die Superintelligenz nicht von Menschen geführt wird, kann die Diffusionsrate reduziert werden.
 -----
-(6) [Singularität]: Eine Superintelligenz, welche den Wachstum der Kapazitäten vereinfacht und die Diffusionsrate reduziert, kann eine Singularität erstellen.
+(6) [Singularität]: Eine Superintelligenz, welche das Wachstum der Kapazitäten vereinfacht und die Diffusionsrate reduziert, kann eine Singularität erstellen.
+//(6) folgt nicht. Singularität kommt in den Prämissen nie vor.
+//Was heisst Wachstum? Was heisst Diffusionsrate?
 
 
 <Zukunft gestalten>
 
 (1) [Strategischer Vorteil]: Die erste Superintelligenz gewinnt einen entscheidenden strategischen Vorteil.
 (2) [Singularität]: Eine Superintelligenz, welche den Wachstum der Kapazitäten vereinfacht und die Diffusionsrate reduziert, kann eine Singularität erstellen.
-(3) Eine Singularität bedeutet einen unkontrollierbaren und irreversiblen technologischen Wachstum.
-(4) Ein unkontrollierbarer und irreversibler technologischer Wachstum verursacht unvorhersehbare Veränderungen in der Zivilisation.
+(3) Eine Singularität bedeutet unkontrollierbares und irreversibles technologisches Wachstum.
+(4) Unkontrollierbares und irreversibles technologisches Wachstum verursacht unvorhersehbare Veränderungen in der Zivilisation.
 -----
 (5) [Zukunft gestalten]: Die erste Superintelligenz kann die Zukunft jeden Lebens auf Erden gestalten.
+//Damit (5) folgt, muss klar sein, dass "unvorhersehbare Veränderungen in der Zivilisation" etwas mit "Die zukunft gestalten" zu tun hat.
 
 
 ### Orthogonal Thesis {isGroup: true}
@@ -78,12 +91,13 @@
 <Orthogonality Thesis>
 
 (1) Die Orthogonality Thesis besagt, dass Intelligenz und Ziele orthogonal sind: Jede Stufe von Intelligenz kann im Prinzip mit jedem Ziel kombiniert werden.
-(2) Die Humeanische Theorie der Motivation besagt, dass eine Überzeugung alleine nicht genügt, um eine Handlung zu motivieren und dass Wünsche notwendige Komponente zur Erklärung einer Aktion sind.
+(2) Die Humeanische Theorie der Motivation besagt, dass eine Überzeugung alleine nicht genügt, um eine Handlung zu motivieren und dass Wünsche notwendige Komponente zur Erklärung einer Handlung sind.
 (3) Die Orthogonality Thesis setzt die Humeanische Theorie der Motivation nicht voraus.
 (4) Grundvoraussetzungen können irrational sein.
 (5) Eine Superintelligenz kann eine enorme Weite an möglichen Zielen haben.
 -----
 (6) [Nicht-anthropomorph]: Eine Superintelligenz kann nicht-anthropomorphe Ziele haben.
+//Dieses Argument ist nicht verständlich.
 
 
 ### Convergence {isGroup: true}
@@ -96,7 +110,9 @@
 (4) Menschen stellen physikalische Resourcen dar (günstig lokalisierte Atome).
 -----
 (5) [Menschliche Resourcen]: Eine Superintelligenz kann die Menschen als physikalische Resourcen benützen.
-
+//(3) Kann umgeschrieben werden in: Es gibt instrumentelle Ziele. - Prämisse ist nicht relevant
+//Umformulierungsvorschlag für (5): Es gibt nichts, was eine Superintelligenz daran hindert, menschen als physikalische Ressource zu nutzen.
+//Damit das folgt, fehlen aber nocht Prämissen.
 
 ### Turn {isGroup: true}
 
@@ -104,10 +120,12 @@
 
 (1) Wir prüfen die Sicherheit einer KI empirisch, indem wir dessen Verhalten in einer kontrollierter, limitierter Umgebung beobachten.
 (2) Wir lassen die KI erst aus dieser Umgebung, wenn wir feststellen, dass sie in einer freundlichen, kooperativen und verantwortungsbewussten Weise funktioniert.
-(3) In freundlicher, kooperativer und verantwortungsbewusster Weise zu funktionieren, ist ein konvergentes, instrumentales Ziel von freundlicher wie auch unfreundlicher KI.
+(3) In freundlicher, kooperativer und verantwortungsbewusster Weise zu funktionieren, ist ein konvergentes, instrumentelles Ziel von freundlicher wie auch unfreundlicher KI.
 (4) Eine unfreundliche KI mit genügender Intelligenz realisiert, dass seine unfreundlichen Ziele am besten realisiert werden, wenn die KI in freundlicher Weise funktioniert, um aus der kontrollierten und limitierten Umgebung herausgelassen zu werden.
 -----
 (5) [Turn]: Eine unfreundliche KI wird ihr unfreundliches Ziel erst dann preisgeben, wenn die KI stark genug ist, dass menschliche Opposition ineffektiv ist.
+//Was heisst konvergent?
+//menschliche Opposition kommt in den Prämissen nicht vor.
 
 
 ### Failure {isGroup: true}
@@ -127,6 +145,8 @@
 (4) Wenn eine Superintelligenz, welche einen entscheidenden strategischen Vorteil hat, sich schlecht benimmt, kann der Schaden einer existenziellen Katastrophe gleichzusetzen sein.
 -----
 (5) [Global Destruction]: Der Schaden eines bösartigen Versagens kann zur globalen Zerstörung des menschlichen axiologischen Potentials führen - eine Zukunft, die leer von allem ist, für das wir Grund zur Wertschätzung haben.
+//nicht klar.
+// Den Begriff der Axiologie habe ich an der Uni Bern noch nie gehört.
 
 
 <Infrastructure Profusion>
@@ -140,18 +160,22 @@
 (7) Wenn die Superintelligenz keine weiteren direkten Pfade zur Risikoreduzierung der Maximierung des zukünftigen Profit-Einkommens findet, kann es die zusätzlichen Resourcen dazu verwenden, seine Hardware zu erweitern, um effizienter nach Ideen zur Minderung zukünftiger Risiken des Profit-Einkommens zu suchen.
 -----
 (8) [Überfülle]: Eine Superintelligenz kann weite Teile des erreichbaren Universums in Infrastruktur im Service eines Zieles umwandeln und dabei das Realisieren menschlichen axiologischen Potentials verhindern.
-
+//unklar.
+//(1) umformulieren zu: Eine Superintelligenz will seinen Profit maximieren. ?
+//Ist das nicht eigentlich das gleiche Argument wie <Instrumental Convergence Thesis>?
 
 <Mind Crime>
 
-(1) Was innerhalb einaes Computers passiert, beachten wir nicht als moralische Wichtigkeit.
+(1) Was innerhalb einaes Computers passiert, beachten wir nicht als moralisch relevant.
 (2) Eine Superintelligenz kann interne Prozesse kreieren, welche einen moralischen Status haben.
-(3) Eine detaillierte Simulation eines aktualen oder hypothetischen menschlichen Geist kann ein Bewusstsein vergleichbar mit einer Emulation besitzen.
+(3) Eine detaillierte Simulation eines tatsächlichen oder hypothetischen menschlichen Geistes kann ein Bewusstsein (vergleichbar mit einer Emulation) besitzen.
 (4) Eine Superintelligenz kann Billionen solcher bewusster Simulationen kreieren, um sein Verständnis der menschlichen Psychologie oder Soziologie zu verbessern.
 (5) Nachdem die informelle Nützlichkeit dieser Simulationen erschöpft ist, können sie zerstört werden wie Ratten in einem Labor nach dem Versuchsende.
 (6) Wenn solche Praktiken auf Simulationen mit hohem moralischen Status angewendet werden, kann das Resultat mit einem Genozid gleichgesetzt werden.
 -----
 (7) [Mind Crime]: Die Zerstörung einer Simulation mit hohem moralischen Status ist Genozid.
+// zu (3) Eine Simulation eines tatsächlichen menschlichen Geistes ist eine Emulation. Eine Simulation eines hypothetischen nicht.
+// (1) verhindert deine Konklusion.
 
 /* <Perverse Instantiation>
 (1)
@@ -182,6 +206,8 @@
 (3) A powerful state that cannot acuire a foreign project might instead destroy it.
 -----
 (4) [Crisis]: Trying to acquire projects close to takeoff might lead to an international crisis.
+//(4) folgt noch nicht aus 1-3. Es fehlt eine Prämisse besagt, dass die Mittel in 2 und 3 zu einer Krise führen.
+//(4) noch mit "destroy" ergänzen?
  
 
 ## Stock Trading {isGroup: true}
@@ -215,7 +241,7 @@
 (3) AI algorithms are capable of processing large volumes of information and trade at a high speed.
 -----
 (4) [High-Speed]: AI algorithms can have dangerous results for the economy.
-
+//Ist Äquivalent zu <Market Volatility> oder?
 
 
 
