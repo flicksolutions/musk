@@ -185,12 +185,13 @@ Vorschlag zur Umformulierung:
 (1) Ein Wettrennen kommt zu Stande, wenn ein Projekt befürchtet von einem anderen überholt zu werden.
 (2) Die Heftigkeit des Wettrennens kommt auf verschiedene Faktoren an.
 (3) Faktoren wie Knappheit der Führung, relative Wichtigkeit von Kapazitäten und Glück, Anzahl der Wettbewerber etc.
-(4) In einem heftigen Wettrennen prioritisieren Wettbewerber Geschwindigkeit über Sicherheit.
-(5) Ein heftiges Wettrennen kann zu Feindseeligkeiten zwischen Wettbewerbern führen.
+(4) In einem heftigen Wettrennen priorisieren Wettbewerber Geschwindigkeit über Sicherheit.
+(5) Ein heftiges Wettrennen kann zu Feindseligkeiten zwischen Wettbewerbern führen.
 (6) Das zurückliegende Projekt könnte versucht sein, eine verzweifelten Angriff auf seine Rivalen auszuführen.
 (7) Das führende Projekt kann dies antizipieren und einen Präventivangriff ausführen.
 -----
 (8) [Devastation]: Die Konsequenzen eines Wettrennens kann zerstörende Auswirkungen haben.
+//Folgt nicht. Was heisst "zerstörend"?
 
 
 <Monitoring>
@@ -203,7 +204,6 @@ Vorschlag zur Umformulierung:
 -----
 (6) Das Einmischen in oder das Zerstören eines ausländischen Projektes, welches Nahe an der Entwicklung einer Superintelligenz ist, kann zu einer internationalen Krise führen.
 //(4) folgt noch nicht aus 1-3. Es fehlt eine Prämisse besagt, dass die Mittel in 2 und 3 zu einer Krise führen.
-//(4) noch mit "destroy" ergänzen?
 
 
 ## Stock Trading {isGroup: true}
@@ -218,7 +218,7 @@ Vorschlag zur Umformulierung:
 (6) Diese Börsenhändler können nie verurteilt werden und haben einen unfairen Vorteil.
 -----
 (7) [Insider Trading]: KI-Algorithmen führen zu unfairen Vorteilen an der Börse.
-
+// 1-3 zusammenfassen zu: KI-Algorithmen bieten illegale Vorteile?
 
 <Market Volatility>
 
@@ -229,6 +229,7 @@ Vorschlag zur Umformulierung:
 (5) Hohe Verluste können zu Konkurs führen.
 -----
 (6) [Volatilität]: KI-Algorithmen können gefährliche Auswirkungen für die Wirtschaft haben.
+//Ich würde hier 2 seperate Argumente machen. Eines mit der Konklusion: AI führt zu Marktvolatilität, ein zweites mit: Markvolatilität ist gefährlich.
 
 /*
 <High-Speed Trading>
