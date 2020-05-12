@@ -1,0 +1,23 @@
+<Race Dynamics>
+
+(1) A race dynamic exists when one project fears being overtaken by another.
+(2) The severity of a race dynamic depends on several factors.
+(3) Factors like closeness of the race, relative importance of capability and luck, number of competitors, etc.
+(4) In a severe race dynamic, competitors prioritize speed over safety.
+(5) A severe race dynamic can lead to hostility between competitors.
+(6) The lagging project might be tempted to launch a desperate strike against its rival.
+(7) The frontrunner might anticipate this possibility and strike preemptively.
+-----
+(8) [Devastation]: The consequences of a race dynamic can have devastating outcome.
+
+
+
+(1) Ein Wettrennen kommt zu Stande, wenn ein Projekt befürchtet von einem anderen überholt zu werden.
+(2) Die Heftigkeit des Wettrennens kommt auf verschiedene Faktoren an.
+(3) Faktoren wie Knappheit der Führung, relative Wichtigkeit von Kapazitäten und Glück, Anzahl der Wettbewerber etc.
+(4) In einem heftigen Wettrennen prioritisieren Wettbewerber Geschwindigkeit über Sicherheit.
+(5) Ein heftiges Wettrennen kann zu Feindseeligkeiten zwischen Wettbewerbern führen.
+(6) Das zurückliegende Projekt könnte versucht sein, eine verzweifelten Angriff auf seine Rivalen auszuführen.
+(7) Das führende Projekt kann dies antizipieren und einen Präventivangriff ausführen.
+-----
+(8) [Devastation]: Die Konsequenzen eines Wettrennens kann zerstörende Auswirkungen haben.

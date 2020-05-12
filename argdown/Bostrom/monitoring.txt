@@ -1,0 +1,20 @@
+<Monitoring>
+
+(1) Governments will seek to nationalize any project on their territory that they thought close to achieving a takeoff.
+(2) A powerful state might also attempt to acquire projects located in other countries through espionage, theft, kidnapping, bribery, threats, military conquest, etc.
+(3) A powerful state that cannot acuire a foreign project might instead destroy it.
+-----
+(4) [Crisis]: Trying to acquire projects close to takeoff might lead to an international crisis.
+//(4) folgt noch nicht aus 1-3. Es fehlt eine Prämisse besagt, dass die Mittel in 2 und 3 zu einer Krise führen.
+//(4) noch mit "destroy" ergänzen?
+
+
+(1) Durch die extremen Sicherheitsimplikationen wird ein mächtiger Staat versuchen, ein Projekt, welches Nahe an der Entwicklung einer Superintelligenz ist, zu verstaatlichen.
+(2) Ein mächtiger Staat kann versuchen, Projekte eines anderen Landes, welche Nahe an der Entwicklung einer Superintelligenz sind, durch Spionage, Diebstahl, Kidnapping, Bestechung, Bedrohung, Militäraktionen, etc. zu akquirieren.
+(3) Ein mächtiger Staat, dem es nicht gelingt, ein ausländisches Projekt zu akquirieren, kann versuchen, es zu zerstören.
+(4) Einmischung in ein ausländisches Projekt kann zu einer internationalen Krise führen.
+(5) Zerstörung eines ausländischen Projektes kann zu einer internationalen Krise führen.
+-----
+(6) Das Einmischen in oder Zerstören eines ausländischen Projektes, welches Nahe an der Entwicklung einer Superintelligenz ist, kann zu einer internationalen Krise führen.
+
+

@@ -2,7 +2,7 @@
 
 [KI-Entwicklung ist gefährlich]
     + [Extinction]
-    + [High-Speed]
+    + [Volatilität]
     + [Insider Trading]
 
     
@@ -166,7 +166,7 @@ Vorschlag zur Umformulierung:
 
 <Mind Crime>
 
-(1) Was innerhalb einaes Computers passiert, beachten wir nicht als moralisch relevant.
+(1) Was innerhalb eines Computers passiert, beachten wir nicht als moralisch relevant.
 (2) Eine Superintelligenz kann interne Prozesse kreieren, welche einen moralischen Status haben.
 (3) Eine detaillierte Simulation eines tatsächlichen oder hypothetischen menschlichen Geistes kann ein Bewusstsein (vergleichbar mit einer Emulation) besitzen.
 (4) Eine Superintelligenz kann Billionen solcher bewusster Simulationen kreieren, um sein Verständnis der menschlichen Psychologie oder Soziologie zu verbessern.
@@ -177,63 +177,58 @@ Vorschlag zur Umformulierung:
 // zu (3) Eine Simulation eines tatsächlichen menschlichen Geistes ist eine Emulation. Eine Simulation eines hypothetischen nicht.
 // (1) verhindert deine Konklusion.
 
-/* <Perverse Instantiation>
-(1)
-(2)
------
-(3) [Pervers]: voll pervers */
-
 
 ### Development {isGroup: true}
 
 <Race Dynamics>
 
-(1) A race dynamic exists when one project fears being overtaken by another.
-(2) The severity of a race dynamic depends on several factors.
-(3) Factors lik closeness of the race, relative importance of capability and luck, number of competitors, etc.
-(4) In a severe race dynamic, competitors prioritize speed over safety.
-(5) A severe race dynamic can lead to hostility between competitors.
-(6) The lagging project might be tempted to launch a desperate strike against its rival.
-(7) The frontrunner might anticipate this possibility and strike preemptively.
+(1) Ein Wettrennen kommt zu Stande, wenn ein Projekt befürchtet von einem anderen überholt zu werden.
+(2) Die Heftigkeit des Wettrennens kommt auf verschiedene Faktoren an.
+(3) Faktoren wie Knappheit der Führung, relative Wichtigkeit von Kapazitäten und Glück, Anzahl der Wettbewerber etc.
+(4) In einem heftigen Wettrennen prioritisieren Wettbewerber Geschwindigkeit über Sicherheit.
+(5) Ein heftiges Wettrennen kann zu Feindseeligkeiten zwischen Wettbewerbern führen.
+(6) Das zurückliegende Projekt könnte versucht sein, eine verzweifelten Angriff auf seine Rivalen auszuführen.
+(7) Das führende Projekt kann dies antizipieren und einen Präventivangriff ausführen.
 -----
-(8) [Devastation]: The consequences of a race dynamic can have devastating outcome.
+(8) [Devastation]: Die Konsequenzen eines Wettrennens kann zerstörende Auswirkungen haben.
 
 
 <Monitoring>
 
-(1) Governments will seek to nationalize any project on their territory that they thought close to achieving a takeoff.
-(2) A powerful state might also attempt to acquire projects located in other countries through espionage, theft, kidnapping, bribery, threats, military conquest, etc.
-(3) A powerful state that cannot acuire a foreign project might instead destroy it.
+(1) Durch die extremen Sicherheitsimplikationen wird ein mächtiger Staat versuchen, ein Projekt, welches Nahe an der Entwicklung einer Superintelligenz ist, zu verstaatlichen.
+(2) Ein mächtiger Staat kann versuchen, Projekte eines anderen Landes, welche Nahe an der Entwicklung einer Superintelligenz sind, durch Spionage, Diebstahl, Kidnapping, Bestechung, Bedrohung, Militäraktionen, etc. zu akquirieren.
+(3) Ein mächtiger Staat, dem es nicht gelingt, ein ausländisches Projekt zu akquirieren, kann versuchen, es zu zerstören.
+(4) Einmischung in ein ausländisches Projekt kann zu einer internationalen Krise führen.
+(5) Zerstörung eines ausländischen Projektes kann zu einer internationalen Krise führen.
 -----
-(4) [Crisis]: Trying to acquire projects close to takeoff might lead to an international crisis.
-//(4) folgt noch nicht aus 1-3. Es fehlt eine Prämisse besagt, dass die Mittel in 2 und 3 zu einer Krise führen.
-//(4) noch mit "destroy" ergänzen?
+(6) Das Einmischen in oder Zerstören eines ausländischen Projektes, welches Nahe an der Entwicklung einer Superintelligenz ist, kann zu einer internationalen Krise führen.
  
 
 ## Stock Trading {isGroup: true}
 
 <Insider Trading>
 
-(1) AI algorithms can be designed capable of predicting when a stock will make sudden gains in value.
-(2) The AI algorithms can process large volumes of information, current and historical, to find patterns.
-(3) Innocuous data input combined with publically available information can give the AI algorithms what is considered forbidden insider information.
-(4) Traders don't necessarily understand how the AI algorithms works.
-(5) If the traders don't understand how the AI algorithms works, they can't be accused of insider trading.
-(6) The traders can never be prosecuted and gain unfair advantages.
+(1) KI-Algorithmen können entwickelt werden, um vorauszusagen, wann ein Aktienkapital schlagartig an Wert gewinnt.
+(2) KI-Algorithmen können grosse Mengen an gegenwärtigen und historischen Informationen abarbeiten, um Muster zu erkennen.
+(3) KI-Algorithmen können durch die Kombination von Input harmloser Daten und öffentlich zugänglichen Informationen zu Insiderinformationen gelangen, welche als verboten deklariert sind.
+(4) Börsenhändler, die KI-Algorithmen verwenden, müssen nicht unbedingt verstehen, wie die KI-Algorithmen funktionieren, 
+(5) Wenn Börsenhändler nicht verstehen, wie die KI-Algorithmen funktionieren, können nicht mit Insiderhandel angeklagt werden.
+(6) Diese Börsenhändler können nie verurteilt werden und haben einen unfairen Vorteil.
 -----
-(7) [Insider Trading]: AI algorithms lead to unfair advantages in stock trading.
+(7) [Insider Trading]: KI-Algorithmen führen zu unfairen Vorteilen an der Börse.
 
 
 <Market Volatility>
 
-(1) AI algorithms are capable of processing large volumes of information and trade at a high speed.
-(2) High-speed trading can lead to market volatility.
-(3) Market volatility can lead to huge losses.
-(4) Huge losses can lead to bankrupcy.
+(1) KI-Algorithmen können grosse Mengen an Informationen abarbeiten.
+(2) KI-Algorithmen können mit hoher Geschwindigkeit Transaktionen durchführen.
+(3) Transaktionen, welche mit hoher Geschwindigkeit durchgeführt werden, erhöhen die Chancen einer Marktvolatilität.
+(4) Marktvolatilität kann zu hohen Verlusten führen.
+(5) Hohe Verluste können zu Konkurs führen.
 -----
-(5) [Volatility]: Market volatility can have dangerous results.
+(6) [Volatilität]: KI-Algorithmen können gefährliche Auswirkungen für die Wirtschaft haben.
 
-
+/*
 <High-Speed Trading>
 
 (1) [Volatility]
@@ -242,6 +237,6 @@ Vorschlag zur Umformulierung:
 -----
 (4) [High-Speed]: AI algorithms can have dangerous results for the economy.
 //Ist Äquivalent zu <Market Volatility> oder?
-
+*/
 
 

@@ -1,0 +1,58 @@
+<Insider Trading>
+
+(1) AI algorithms can be designed capable of predicting when a stock will make sudden gains in value.
+(2) The AI algorithms can process large volumes of information, current and historical, to find patterns.
+(3) Innocuous data input combined with publically available information can give the AI algorithms what is considered forbidden insider information.
+(4) Traders don't necessarily understand how the AI algorithms works.
+(5) If the traders don't understand how the AI algorithms works, they can't be accused of insider trading.
+(6) The traders can never be prosecuted and gain unfair advantages.
+-----
+(7) [Insider Trading]: AI algorithms lead to unfair advantages in stock trading.
+
+
+<Market Volatility>
+
+(1) AI algorithms are capable of processing large volumes of information and trade at a high speed.
+(2) High-speed trading can lead to market volatility.
+(3) Market volatility can lead to huge losses.
+(4) Huge losses can lead to bankrupcy.
+-----
+(5) [Volatility]: Market volatility can have dangerous results.
+
+
+<High-Speed Trading>
+
+(1) [Volatility]
+(2) High-speed trading can lead to market volatility.
+(3) AI algorithms are capable of processing large volumes of information and trade at a high speed.
+-----
+(4) [High-Speed]: AI algorithms can have dangerous results for the economy.
+//Ist Äquivalent zu <Market Volatility> oder?
+
+
+<Insider Trading>
+
+(1) KI-Algorithmen können entwickelt werden, um vorauszusagen, wann ein Aktienkapital schlagartig an Wert gewinnt.
+(2) KI-Algorithmen können grosse Mengen an gegenwärtigen und historischen Informationen abarbeiten, um Muster zu erkennen.
+(3) KI-Algorithmen können durch die Kombination von Input harmloser Daten und öffentlich zugänglichen Informationen zu Insiderinformationen gelangen, welche als verboten deklariert sind.
+(4) Börsenhändler, die KI-Algorithmen verwenden, müssen nicht unbedingt verstehen, wie die KI-Algorithmen funktionieren, 
+(5) Wenn Börsenhändler nicht verstehen, wie die KI-Algorithmen funktionieren, können nicht mit Insiderhandel angeklagt werden.
+(6) Diese Börsenhändler können nie verurteilt werden und haben einen unfairen Vorteil.
+-----
+(7) [Insider Trading]: KI-Algorithmen führen zu unfairen Vorteilen an der Börse.
+
+
+<Market Volatility>
+
+(1) KI-Algorithmen können grosse Mengen an Informationen abarbeiten.
+(2) KI-Algorithmen können mit hoher Geschwindigkeit Transaktionen durchführen.
+(3) Transaktionen, welche mit hoher Geschwindigkeit durchgeführt werden, erhöhen die Chancen einer Marktvolatilität.
+(4) Marktvolatilität kann zu hohen Verlusten führen.
+(5) Hohe Verluste können zu Konkurs führen.
+-----
+(6) [Volatilität]: KI-Algorithmen können gefährliche Auswirkungen für die Wirtschaft haben.
+
+
+<High-Speed Trading>
+
+() 
