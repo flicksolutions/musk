@@ -1,9 +1,6 @@
 ===
-outputPath: "../output/research-priorities"
 model:
     mode: strict
-selection:
-    excludeDisconnected: true
 ===
 
 # Short-Term
@@ -54,9 +51,7 @@ Hier finden sich vorallem 2 Paper die Gefahren aufzeigen. Es geht dabei vor alle
 
 ## The Second Machine Age: Work, Progress and Prosperity in a Time of Brilliant Technologies  {isGroup: true}
 
-<Power Law>{
-Quellen: brynjolfssonSecondMachineAge2014, chap. 10 & mokyrSecularStagnationNot2014
-}
+<Power Law> { Quellen: brynjolfssonSecondMachineAge2014, chap. 10 & mokyrSecularStagnationNot2014 }
 
 (1) "Normale" Wirtschaft folgt einer normalen Verteilung, weil die Nachfrage nicht von einem Anbieter befriedigt werden kann.
 (2) Ein Anbieter von digitalen Produkten kann theoretisch die ganze Nachfrage nach einem Produkt befriedigen.
@@ -75,9 +70,7 @@ Quellen: brynjolfssonSecondMachineAge2014, chap. 10 & mokyrSecularStagnationNot2
 ----
 (12) [Armut]
 
-<Technological Unemployment>{
-Quellen:  brynjolfssonSecondMachineAge2014, p. 153 & mokyrSecularStagnationNot2014
-}
+<Technological Unemployment> { Quellen:  brynjolfssonSecondMachineAge2014, p. 153 & mokyrSecularStagnationNot2014 }
 
 (1) Technische Entwicklungen führen zu Jobverlusten.
 (2) Jobverluste werden nach einer gewissen Zeitdauer *t* ausgeglichen, weil die technischen Entwicklungen neue Berufsfelder entstehen lassen.
@@ -88,9 +81,7 @@ Quellen:  brynjolfssonSecondMachineAge2014, p. 153 & mokyrSecularStagnationNot20
 ----
 (6) [Armut]: Die Entwicklung von AI führt zu extremer Armut bei einem grossen Teil der Bevölkerung.
 
-<Android-Experiment> {
-Quellen: brynjolfssonSecondMachineAge2014
-}
+<Android-Experiment> { Quellen: brynjolfssonSecondMachineAge2014 }
 
 (1) Es gibt Androiden (Menschenähnliche Roboter)
 (2) Die Androiden können alle Arbeiten eines menschlichen Arbeiters verrichten.
@@ -136,9 +127,7 @@ agent.
  russellResearchPrioritiesRobust2015, p. 108
 
 
-<Vorteile verhindern Moratorium>  {
-	Quellen: wallachMoralMachinesTeaching2008, p.5, chap. 3
-    }
+<Vorteile verhindern Moratorium> { Quellen: wallachMoralMachinesTeaching2008, p.5, chap. 3 }
 
 (1) AIs, die moralisch-relevante Entscheidungen treffen müssen, können grosse Vorteile bringen.
 (2) Der Markt und die Politik verlangen nach diesen Vorteilen.
@@ -160,9 +149,7 @@ agent.
 -----
 (3) Es werden AIs entwickelt, die moralisch schlechte Entscheidungen treffen.
 
-<Decision Support Tools> {
-Quellen: wallachMoralMachinesTeaching2008, p. 9 & wallachMoralMachinesTeaching2008, chap. 3
-}
+<Decision Support Tools> { Quellen: wallachMoralMachinesTeaching2008, p. 9 & wallachMoralMachinesTeaching2008, chap. 3 }
 
 (1) DST unterstützen Menschen dabei, wichtige, folgenreiche Entscheidungen zu treffen.
 (2) Wenn DST gut funktionieren, fangen Menschen an, wichtige, folgenreiche Entscheidungen nicht mehr selbst zu treffen, sondern überlassen die Entscheidungen den DST.
@@ -213,5 +200,3 @@ Quellen: wallachMoralMachinesTeaching2008, p. 9 & wallachMoralMachinesTeaching20
 [singularity]: The singularity can change everything we know in a matter of hours (Vinge 1993)
 
 [understanding of nature]: With increasing intelligence may come not merely a quantitative improvement in the ability to attain the same old goals, but a qualitatively different understanding of the nature of reality that reveals the old goals to be misguided, meaningless or even undefined. (Tegmark 2015)
-
-# References  {isGroup: false}

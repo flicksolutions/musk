@@ -1,5 +1,9 @@
 {
   "title": "Argumentationsanalyse AI",
   "author": ["Sebastian Flick", "Claude Aebersold"],
+  "model": {
+    "mode": "strict"
+  },
+  "outputPath": "../output/research-priorities"
 
 }
