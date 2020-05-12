@@ -1,5 +1,7 @@
-@include(_research-priorities_conv.argdown)
+@include(_research-priorities.argdown)
+@include(_argumente_claude_200510.ad)
 
+/*
 Die Entwicklung von Künstlicher Intelligenz bringt grosse Gefahren mit sich
    + [Haftung]
    + [Trolley-Problem]
@@ -36,3 +38,4 @@ Die Entwicklung von Künstlicher Intelligenz bringt grosse Gefahren mit sich
    + [change]
    + [singularity]
    + [understanding of nature]
+*/
