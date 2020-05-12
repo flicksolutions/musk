@@ -133,14 +133,14 @@ agent.
 (2) Der Markt und die Politik verlangen nach diesen Vorteilen.
 (3) Die Forschung beugt sich dem Willen des Marktes und der Politik
 ----
-(4) [moralische AI]: AI, die moralisch relevante Entscheidungen treffen werden entwickelt.
+(4) [moralische AI]: AI, die moralisch relevante Entscheidungen treffen, werden entwickelt.
 
 <schlechte Entscheide>
 
 (1) Wenn bei der Entwicklung von AI die Fähigkeit moralische Entscheidungen vernachlässigt wird, trifft die AI schlechte moralische Entscheide.
 (2) Bei der Entwicklung von AI wird die Fähigkeit moralische Entscheidungen zu treffen vernachlässigt.
 -----
-(3) [schlechte Entscheide]: AI treffen schlechte Entscheidungen.
+(3) [schlechte Entscheide]: AI treffen moralisch schlechte Entscheidungen.
 
 <AI trifft schlechte Entscheide>
 
@@ -161,7 +161,7 @@ agent.
 (1) [DST]
 (2) [schlechte Entscheide]
 ----
-(3) wichtige, folgenreiche Entscheidungen werden schlecht gefällt.
+(3) wichtige, folgenreiche Entscheidungen werden moralisch schlecht gefällt.
 
 [Cyberattacken]:
    > As AI systems are used in an increasing number of critical roles, they will take up an increasing proportion of cyberattack surface area. It is also probable that AI and machine-learning techniques will themselves be used in cyberattacks.
