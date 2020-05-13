@@ -9,14 +9,38 @@ model:
 
 ### Autonomous Weapons
 
-[nicht-verboten]: Der Einsatz autonomer Waffen ist durch kein international bindendes Instrument verboten (Docherty 2012)
-Auf nationaler Ebene existieren keine Gesetze, welche Entwicklung und Einsatz autonomer Waffen verbieten (Docherty 2012)
+<autonomous weapons> { Quelle: @dochertyLosingHumanityCase2012, p.4 }
 
-# Optimizing AI’s Economic Impact
+[kein Mitgefühl]: autonome Waffensysteme haben keine menschlichen Emotionen oder die Fähigkeit zu Mitgefühl.
+[mitgefühl hilft]: menschliche Emotionen und die Fähigkeit zu Mitgefühl vermindern das Töten von Zivilisten.
+----
+Die Entwicklung von autonomen Waffensystemen erhöht die Chance von Zivilisten in einem bewaffneten Konflikt verletzt
+oder getötet zu werden.
+
+<bewaffneter Konflikt wahrscheinlicher> { Quelle: @dochertyLosingHumanityCase2012, p.4 }
+
+(1) Wenn ein verkleinertes Risiko besteht, eigene Truppen zu verlieren, wird ein bewaffneter Konflikt wahrscheindlicher.
+(2) Die Ersetzung von Frontsoldaten durch Roboter verkleinert das Risiko, eigene Truppen zu verlieren.
+----
+(3) Ein bewaffneter Konflikt ist wahrscheindlicher.
+(4) In einem bewaffneten Konflikt gibt es immer auch zivile Verluste.
+----
+(5) [Zivile Verluste]: Zivile Verluste sind wahrscheinlicher.
+
+<Verantwortlichkeit> { Quelle: @dochertyLosingHumanityCase2012, p.4 }
+
+Wenn eine AI ein Gesetz bricht, gibt es drei Möglichkeiten, wer verantwortlich sein kann: Die AI, der Hersteller, der Softwareprogrammierer oder der militärische Befehlshaber.
+Hersteller, Softwareprogrammierer oder militärischen Befehlshaber für Verantwortlich zu erklären, wäre unfair und schwer.
+Die AI ist nicht bestrafbar.
+----
+Die Verantwortung für ein Missverhalten der AI ist ungeklärt oder schwer zurückzuverfolgen.
+Wenn die Verantwortung ungeklärt ist oder schwer zurückzuverfolgen, ist vergeltende Gerechtigkeit nicht möglich und man könnte weniger gut vor Menschenrechtsverletzungen abhalten.
+----
+[retributive Justice]: Vergeltende Gerechtigkeit ist nicht möglich und vor Menschenrechtsverletzungen kann weniger gut abgehalten werden.
+
+# Optimizing AI’s Economic Impact { isGroup: true }
 
 Hier finden sich vorallem 2 Paper die Gefahren aufzeigen. Es geht dabei vor allem darum, dass dem Grossteil der Gesellschaft die Arbeitslosigkeit droht.
-
-## Mokyr, J. 2014. Secular Stagnation? Not in Your Life.
 
 <falsches Messinstrument> { Quelle: @russellResearchPrioritiesRobust2015, p. 107 & @mokyrSecularStagnationNot2014 }
 
@@ -26,8 +50,6 @@ Hier finden sich vorallem 2 Paper die Gefahren aufzeigen. Es geht dabei vor alle
 (4) Wenn falsche Gesetze verabschiedet werden, ist dies eine Gefahr für die Gesellschaft.
 ----
 (5) [KI-Entwicklung ist gefährlich]
-
-## The Second Machine Age: Work, Progress and Prosperity in a Time of Brilliant Technologies
 
 <Power Law> { Quellen: brynjolfssonSecondMachineAge2014, chap. 10 & mokyrSecularStagnationNot2014 }
 
