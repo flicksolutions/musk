@@ -51,24 +51,40 @@ Hier finden sich vorallem 2 Paper die Gefahren aufzeigen. Es geht dabei vor alle
 ----
 (5) [KI-Entwicklung ist gefährlich]
 
+
 <Power Law> { Quellen: brynjolfssonSecondMachineAge2014, chap. 10 & mokyrSecularStagnationNot2014 }
 
-(1) "Normale" Wirtschaft folgt einer normalen Verteilung, weil die Nachfrage nicht von einem Anbieter befriedigt werden kann.
-(2) Ein Anbieter von digitalen Produkten kann theoretisch die ganze Nachfrage nach einem Produkt befriedigen.
-(3) Durch die Vernetzung der Welt (globaler Markt), können alle bestehenden Produkte verglichen werden, alle Produkte müssen also mit dem Besten konkurrieren. Dies führt zu einem Potenzgesetz.
-(4) Die Digitalisierung führt zu einer grösseren Vernetzung der Welt.
-(5) Netzwerke und Standards werden wichtiger in einer digitalen Welt.
+(1) [Potenzgesetz]: Wenn die Nachfrage nach einem Produkt von einem einzelnen Anbieter befriedigt werden kann, folgt die Verteilung des Gewinns an dem Produkt einem Potenzgesetz.
+(2) [dig. Nachfrage]: Ein Anbieter von digitalen Produkten kann theoretisch die ganze Nachfrage nach einem Produkt befriedigen.
+(3) [Vernetzung]: Wenn die Welt mehr vernetzt ist, werden Märkte vergrössert und Produkte haben mehr Konkurrenz.
+(4) [Vernetzung Pot.]: Wenn Märkte grösser werden, erhalten weniger Produkte grössere Gewinnanteile. Die Verteilung des Gewinns folgt also eher einem Potenzgesetz.
+(5) Die Digitalisierung führt zu einer grösseren Vernetzung der Welt.
 (6) Netzwerke und Standards fördern ein Potenzgesetz.
+(7) Die Digitalisierung führt zu mehr Netzwerken und Standards.
 ----
-(7) Die Digitalisierung verändert die ökonomischen Prozesse so, dass die Verteilung des Reichtums einem Potenzgesetz ([Pareto-Verteilung](https://www.youtube.com/watch?v=fCn8zs912OE)) folgt und nicht mehr einer Normalverteilung (Glockenkurve).
-(8) Durch die Konzentration von Reichtum wird ein positiver Feedback-Loop in Gang gesetzt, der den Effekt (Potenzgesetz) noch verstärkt brynjolfssonSecondMachineAge2014, p. 135
-(9) Durch die Entwicklung von AI werden weitere Märkte vernetzt (globalisiert). (z.B. Übersetzung)
-(10) Durch die Entwicklung von AI (Roboter) werden analoge Dienstleistungen zu digitalen. → Somit kann die ganze Nachfrage von einem Anbieter befriedigt werden.
+(8) Die Digitalisierung verändert die ökonomischen Prozesse so, dass die Verteilung des Reichtums einem Potenzgesetz ([Pareto-Verteilung](https://www.youtube.com/watch?v=fCn8zs912OE)) folgt und nicht mehr einer Normalverteilung (Glockenkurve).
+Wenn die Verteilung von Reichtum einem Potenzgesetz folgt, wird Reichtum konzentriert.
+(9) Durch die Konzentration von Reichtum wird ein positiver Feedback-Loop in Gang gesetzt, der den Effekt (Potenzgesetz) noch verstärkt brynjolfssonSecondMachineAge2014, p. 135
 ----
-(11) Die Entwicklung von AI führt dazu, dass die Wirtschaft noch stärker einem Potenzgesetz folgt.
-(x)
+(10) [Wirtschaft folgt Potenzgesetz]: Die Verteilung von Reichtum folgt verstärkt einem Potenzgesetz.
+
+
+<AI macht analog zu digital>
+
+(1) [Potenzgesetz]
+(2) [dig. Nachfrage]
+(3) Durch die Entwicklung von AI (z.B. in Robotern) werden analoge Dienstleistungen zu digitalen. → Somit kann die ganze Nachfrage von einem Anbieter befriedigt werden.
 ----
-(12) [Armut]
+(4) [Wirtschaft folgt Potenzgesetz]
+
+
+<AI vergrössert Märkte>
+
+(1) [Vernetzung]
+(2) [Vernetzung Pot.:]
+(3) Durch die Entwicklung von AI werden weitere Märkte vernetzt (globalisiert). (z.B. Bessere automatische Übersetzung)
+----
+(4) [Wirtschaft folgt Potenzgesetz]
 
 <Technological Unemployment> { Quellen:  brynjolfssonSecondMachineAge2014, p. 153 & mokyrSecularStagnationNot2014 }
 
