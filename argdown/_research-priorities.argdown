@@ -34,7 +34,7 @@ model:
 ----
 (6) [retributive Justice]: Vergeltende Gerechtigkeit ist nicht möglich und vor Menschenrechtsverletzungen kann weniger gut abgehalten werden.
 
-
+/* This is just to connect to node and is therefore in hirarchy.
 <Tod ist Gefahr>
 
 (1) [Zivile Verluste]
@@ -42,7 +42,7 @@ model:
 (3) Wenn mehr Zivilisten in einem bewaffneten Konflikt getötet werden und Menschenrechtsverletzungen weniger gut verhindert werden können, dann ergibt sich eine Gefahr für die Gesellschaft.
 ----
 (4) [KI-Entwicklung ist gefährlich]
-
+*/
 
 # Optimizing AI’s Economic Impact { isGroup: true }
 
@@ -77,14 +77,14 @@ model:
 ----
 (6) [Armut]
 
-
+/*
 <Armut ist Gefahr>
 
 (1) Wenn die Entwicklung von AI zu extremer Armut bei einem grossen Teil der Bevölkerung führt, ist dies eine Gefahr für die Gesellschaft.
 (2) [Armut]
 ----
 (3) [KI-Entwicklung ist gefährlich]
-
+*/
 
 <Power Law> { Quellen: brynjolfssonSecondMachineAge2014, chap. 10 & mokyrSecularStagnationNot2014 }
 
