@@ -1,0 +1,3 @@
+# Hinweise zur Verwendung des Argdown-Ordners
+
+Ich benutze die das [Kommandozeileninterface von Argdown](https://argdown.org/guide/installing-the-commandline-tool.html) um Argdown zu kompilieren. Die Konfiguration findet ihr im [.config.json-File](https://github.com/flicksolutions/musk/blob/master/argdown/argdown.config.json). Desweiteren haben wir unsere beiden Argdown-Codes in seperaten Dateien geschrieben und importieren diese in [research-priorities_hirarchy.argdown](https://github.com/flicksolutions/musk/blob/master/argdown/research-priorities_hirarchy.argdown). Dort werden auch Hierarchien und allenfalls andere globale Dinge gesetzt.
