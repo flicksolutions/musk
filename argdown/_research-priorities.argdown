@@ -9,7 +9,7 @@ model:
 
 ### Autonomous Weapons
 
-<autonomous weapons> { Quelle: @dochertyLosingHumanityCase2012, p.4 }
+<autonomous weapons> { Quelle: dochertyLosingHumanityCase2012, p.4 }
 
 [kein Mitgefühl]: autonome Waffensysteme haben keine menschlichen Emotionen oder die Fähigkeit zu Mitgefühl.
 [mitgefühl hilft]: menschliche Emotionen und die Fähigkeit zu Mitgefühl vermindern das Töten von Zivilisten.
@@ -17,7 +17,7 @@ model:
 Die Entwicklung von autonomen Waffensystemen erhöht die Chance von Zivilisten in einem bewaffneten Konflikt verletzt
 oder getötet zu werden.
 
-<bewaffneter Konflikt wahrscheinlicher> { Quelle: @dochertyLosingHumanityCase2012, p.4 }
+<bewaffneter Konflikt wahrscheinlicher> { Quelle: dochertyLosingHumanityCase2012, p.4 }
 
 (1) Wenn ein verkleinertes Risiko besteht, eigene Truppen zu verlieren, wird ein bewaffneter Konflikt wahrscheindlicher.
 (2) Die Ersetzung von Frontsoldaten durch Roboter verkleinert das Risiko, eigene Truppen zu verlieren.
@@ -27,7 +27,7 @@ oder getötet zu werden.
 ----
 (5) [Zivile Verluste]: Zivile Verluste sind wahrscheinlicher.
 
-<Verantwortlichkeit> { Quelle: @dochertyLosingHumanityCase2012, p.4 }
+<Verantwortlichkeit> { Quelle: dochertyLosingHumanityCase2012, p.4 }
 
 Wenn eine AI ein Gesetz bricht, gibt es drei Möglichkeiten, wer verantwortlich sein kann: Die AI, der Hersteller, der Softwareprogrammierer oder der militärische Befehlshaber.
 Hersteller, Softwareprogrammierer oder militärischen Befehlshaber für Verantwortlich zu erklären, wäre unfair und schwer.
@@ -42,7 +42,7 @@ Wenn die Verantwortung ungeklärt ist oder schwer zurückzuverfolgen, ist vergel
 
 Hier finden sich vorallem 2 Paper die Gefahren aufzeigen. Es geht dabei vor allem darum, dass dem Grossteil der Gesellschaft die Arbeitslosigkeit droht.
 
-<falsches Messinstrument> { Quelle: @russellResearchPrioritiesRobust2015, p. 107 & @mokyrSecularStagnationNot2014 }
+<falsches Messinstrument> { Quelle: russellResearchPrioritiesRobust2015, p. 107 & mokyrSecularStagnationNot2014 }
 
 (1) [moralische AI]: AI wird in den Markt eingeführt.
 (2) Die Messinstrumente können einen Markt mit AI nicht korrekt erfassen.
@@ -50,6 +50,28 @@ Hier finden sich vorallem 2 Paper die Gefahren aufzeigen. Es geht dabei vor alle
 (4) Wenn falsche Gesetze verabschiedet werden, ist dies eine Gefahr für die Gesellschaft.
 ----
 (5) [KI-Entwicklung ist gefährlich]
+
+<Technological Unemployment> { Quellen:  brynjolfssonSecondMachineAge2014, p. 153 & mokyrSecularStagnationNot2014 }
+
+(1) Technische Entwicklungen führen zu Jobverlusten.
+(2) Jobverluste werden nach einer gewissen Zeitdauer *t* ausgeglichen, weil die technischen Entwicklungen neue Berufsfelder entstehen lassen.
+(3) Durch die Entwicklung von AI wird die technologische Entwicklung derart beschleunigt, dass *t* immer weiter wächst.
+----
+(4) Die Entwicklung von AI führt zu permanenten Jobverlusten. - *t* geht gegen unendlich.
+(5) Das Einkommen eines grossen Teils der Bevölkerung hängt von ihrem Job ab.
+----
+(6) [Armut]: Die Entwicklung von AI führt zu extremer Armut bei einem grossen Teil der Bevölkerung.
+
+<Android-Experiment> { Quellen: brynjolfssonSecondMachineAge2014 }
+
+(1) [moralische AI]: Es wird Androiden (AI mit einem Körper) geben.
+(2) Menschen werden nur angestellt, wenn sie Produkte am kosteneffektivsten im Vergleich zu anderen Methoden herstellen können.
+(3) Androiden können Produkte kosteneffektiver herstellen als Menschen.
+----
+(4) Es werden nur noch Androiden und keine Menschen mehr angestellt werden.
+(5) Ein grosser Teil der Bevölkerung erwirtschaftet sein komplettes Einkommen aus ihrer Anstellung.
+----
+(6) [Armut]
 
 
 <Power Law> { Quellen: brynjolfssonSecondMachineAge2014, chap. 10 & mokyrSecularStagnationNot2014 }
@@ -86,27 +108,44 @@ Wenn die Verteilung von Reichtum einem Potenzgesetz folgt, wird Reichtum konzent
 ----
 (4) [Wirtschaft folgt Potenzgesetz]
 
-<Technological Unemployment> { Quellen:  brynjolfssonSecondMachineAge2014, p. 153 & mokyrSecularStagnationNot2014 }
+<strong bounty> { Quellen:  brynjolfssonSecondMachineAge2014, p. 143}
 
-(1) Technische Entwicklungen führen zu Jobverlusten.
-(2) Jobverluste werden nach einer gewissen Zeitdauer *t* ausgeglichen, weil die technischen Entwicklungen neue Berufsfelder entstehen lassen.
-(3) Durch die Entwicklung von AI wird die technologische Entwicklung derart beschleunigt, dass *t* immer weiter wächst.
+(1) [Arme profitieren]: Bei einer Wirtschaft die nach einem Potenzgesetz funktioniert profitieren auch die Teilnehmer der Wirtschaft, die am wenigsten Verdienen.
+(2) [Wirtschaft folgt Potenzgesetz]
+(3) Wenn die Wirtschaft einem Potenzgesetz folgt und auch die Teilnehmer der Wirtschaft, die am wenigsten verdienen, profitieren, dann ist die Wirtschaft nach einem Potenzgesetz richtig.
 ----
-(4) Die Entwicklung von AI führt zu permanenten Jobverlusten. - *t* geht gegen unendlich.
-(5) Das Einkommen eines grossen Teils der Bevölkerung hängt von ihrem Job ab.
-----
-(6) [Armut]: Die Entwicklung von AI führt zu extremer Armut bei einem grossen Teil der Bevölkerung.
+(4) [Potenzgesetz gut]: Die Wirtschaft nach einem Potenzgesetz ist richtig.
 
-<Android-Experiment> { Quellen: brynjolfssonSecondMachineAge2014 }
 
-(1) [moralische AI]: Es wird Androiden (AI mit einem Körper) geben.
-(2) Menschen werden nur angestellt, wenn sie Produkte am kosteneffektivsten im Vergleich zu anderen Methoden herstellen können.
-(3) Androiden können Produkte kosteneffektiver herstellen als Menschen.
+<Potenzgesetz ist schlecht> { Quellen:  brynjolfssonSecondMachineAge2014, p. 144 }
+
+(1) Das bereinigte Median- Einkommen und -Gesamtvermögen in den USA ist heute kleiner als 1999.
+(2) [Einkommen klein, dann kein Profit]: Wenn das bereinigte Median- Einkommen und -Gesamtvermögen in den USA kleiner als 1999 ist, dann profitieren die Teilnehmer der Wirtschaft, die am wenigsten Verdienen nicht von einer Wirtschaft, die nach einem Potenzgesetz funktioniert.
 ----
-(4) Es werden nur noch Androiden und keine Menschen mehr angestellt werden.
-(5) Ein grosser Teil der Bevölkerung erwirtschaftet sein komplettes Einkommen aus ihrer Anstellung.
+(3) [Arme profitieren nicht]: Bei einer Wirtschaft die nach einem Potenzgesetz funktioniert profitieren die Teilnehmer der Wirtschaft, die am wenigsten Verdienen nicht.
+    - [Arme profitieren]
+
+
+<Potenzgesetz ist schlecht2> { Quellen:  brynjolfssonSecondMachineAge2014, p. 146 }
+
+(1) Lebenswichtige Produkte werden teurer. (Miete, Gesundheitsversorgung und Bildungskosten)
+(2) Die hälfte der Amerikaner haben kein finanzielles Polster.
+(3) Die Armutsrate, der Zugang zum Gesundheitssystem und die Rate der Unterbeschäftigten sind hoch.
+(4) Soziale Mobilität ist klein.
+(5) Soziale Mobilität, Armutsrate, Zugang zum Gesundheitssystem, die Rate der Unterbeschäftigten, finanzielle Polster und der Preis lebenswichtiger Produkte sind wichtige Indikatoren für den Zustand der Ärmeren Bevölkerung.
+(6) Wenn die Indikatoren für den Zustand der ärmeren Bevölkerung schlecht sind, dann profitiert die ärmere Bevölkerung nicht von einer Wirtschaft, die einem Powerlaw folgt.
 ----
-(6) [Armut]
+(7) [Arme profitieren nicht]
+
+
+<Bedingung falsch> { Quellen:  brynjolfssonSecondMachineAge2014, p. 146 }
+
+(1) Wenn es andere wichtige Faktoren gibt, von denen die Teilnehmer der Wirtschaft, die am wenigsten Verdienen profitieren als das bereinigte Median- Einkommen und -Gesamtvermögen, dann ist @[Einkommen klein, dann kein Profit] falsch.
+(2) Ungemessene Preisreduktionen und qualitative Verbesserungen sind Faktoren, von denen die Teilnehmer der Wirtschaft, die am wenigsten Verdienen, profitieren.
+----
+(3) [Einkommen klein, dann kein Profit-]: @[Einkommen klein, dann kein Profit] ist falsch.
+    - [Einkommen klein, dann kein Profit]
+
 
 # Computer Science Research for Robust AI
 
