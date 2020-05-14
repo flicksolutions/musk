@@ -3,19 +3,15 @@ model:
     mode: strict
 ===
 
-# Short-Term
-
-## Law and Ethics
-
-### Autonomous Weapons
+# Autonomous Weapons
 
 <autonomous weapons> { Quelle: dochertyLosingHumanityCase2012, p.4 }
 
-[kein Mitgefühl]: autonome Waffensysteme haben keine menschlichen Emotionen oder die Fähigkeit zu Mitgefühl.
-[mitgefühl hilft]: menschliche Emotionen und die Fähigkeit zu Mitgefühl vermindern das Töten von Zivilisten.
+(1) [kein Mitgefühl]: autonome Waffensysteme haben keine menschlichen Emotionen oder die Fähigkeit zu Mitgefühl.
+(2) [Mitgefühl hilft]: menschliche Emotionen und die Fähigkeit zu Mitgefühl vermindern das Töten von Zivilisten.
 ----
-Die Entwicklung von autonomen Waffensystemen erhöht die Chance von Zivilisten in einem bewaffneten Konflikt verletzt
-oder getötet zu werden.
+(3) [Zivile Verluste]: Die Entwicklung von autonomen Waffensystemen erhöht die Chance von Zivilisten in einem bewaffneten Konflikt verletzt oder getötet zu werden.
+
 
 <bewaffneter Konflikt wahrscheinlicher> { Quelle: dochertyLosingHumanityCase2012, p.4 }
 
@@ -25,22 +21,20 @@ oder getötet zu werden.
 (3) Ein bewaffneter Konflikt ist wahrscheindlicher.
 (4) In einem bewaffneten Konflikt gibt es immer auch zivile Verluste.
 ----
-(5) [Zivile Verluste]: Zivile Verluste sind wahrscheinlicher.
+(5) [Zivile Verluste]
 
 <Verantwortlichkeit> { Quelle: dochertyLosingHumanityCase2012, p.4 }
 
-Wenn eine AI ein Gesetz bricht, gibt es drei Möglichkeiten, wer verantwortlich sein kann: Die AI, der Hersteller, der Softwareprogrammierer oder der militärische Befehlshaber.
-Hersteller, Softwareprogrammierer oder militärischen Befehlshaber für Verantwortlich zu erklären, wäre unfair und schwer.
-Die AI ist nicht bestrafbar.
+(1) Wenn eine AI ein Gesetz bricht, gibt es drei Möglichkeiten, wer verantwortlich sein kann: Die AI, der Hersteller, der Softwareprogrammierer oder der militärische Befehlshaber.
+(2) Hersteller, Softwareprogrammierer oder militärischen Befehlshaber für Verantwortlich zu erklären, wäre unfair und schwer.
+(3) Die AI ist nicht bestrafbar.
 ----
-Die Verantwortung für ein Missverhalten der AI ist ungeklärt oder schwer zurückzuverfolgen.
-Wenn die Verantwortung ungeklärt ist oder schwer zurückzuverfolgen, ist vergeltende Gerechtigkeit nicht möglich und man könnte weniger gut vor Menschenrechtsverletzungen abhalten.
+(4) Die Verantwortung für ein Missverhalten der AI ist ungeklärt oder schwer zurückzuverfolgen.
+(5) Wenn die Verantwortung ungeklärt ist oder schwer zurückzuverfolgen, ist vergeltende Gerechtigkeit nicht möglich und man könnte weniger gut vor Menschenrechtsverletzungen abhalten.
 ----
-[retributive Justice]: Vergeltende Gerechtigkeit ist nicht möglich und vor Menschenrechtsverletzungen kann weniger gut abgehalten werden.
+(6) [retributive Justice]: Vergeltende Gerechtigkeit ist nicht möglich und vor Menschenrechtsverletzungen kann weniger gut abgehalten werden.
 
 # Optimizing AI’s Economic Impact { isGroup: true }
-
-Hier finden sich vorallem 2 Paper die Gefahren aufzeigen. Es geht dabei vor allem darum, dass dem Grossteil der Gesellschaft die Arbeitslosigkeit droht.
 
 <falsches Messinstrument> { Quelle: russellResearchPrioritiesRobust2015, p. 107 & mokyrSecularStagnationNot2014 }
 
