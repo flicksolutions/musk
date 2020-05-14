@@ -168,6 +168,31 @@ Wenn die Verteilung von Reichtum einem Potenzgesetz folgt, wird Reichtum konzent
 (7) [Insider Trading]: AI-Algorithmen führen zu unfairen Vorteilen an der Börse.
 
 
+<Market Volatility> { Author: Claude }
+
+(1) AI-Algorithmen können grosse Mengen an Informationen abarbeiten.
+(2) AI-Algorithmen können mit hoher Geschwindigkeit Transaktionen durchführen.
+(3) Transaktionen, welche mit hoher Geschwindigkeit durchgeführt werden, erhöhen die Chancen einer Marktvolatilität.
+-----
+(4) [Stock]: AI-Algorithmen führen zu Marktvolatilität.
+
+
+<Volatilitätsgefahr> { Author: Claude }
+
+(1) [Stock]: AI-Algorithmen an der Börse führen zu Marktvolatilität.
+(2) Marktvolatilität kann zu hohen Verlusten führen.
+(3) Hohe Verluste können zu Konkurs führen.
+-----
+(4) [Volatilität]: AI-Algorithmen an der Börse haben gefährliche Auswirkungen für die Wirtschaft.
+
+
+<Börsengefahr> { Author: Claude }
+
+(1) [Insider Trading]: AI-Algorithmen führen zu unfairen Vorteilen an der Börse.
+(2) [Volatilität]: AI-Algorithmen an der Börse haben gefährliche Auswirkungen für die Wirtschaft.
+(3) Unfaire Vorteile und gefährliche Auswirkungen für die Wirtschaft sind zu vermeiden.
+-----
+(4) [Börse]: Der Gebrauch einer AI an der Börse ist zu vermeiden.
 
 
 # Computer Science Research for Robust AI { isGroup: true }
