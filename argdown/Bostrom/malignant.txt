@@ -15,3 +15,13 @@
 (4) Wenn eine Superintelligenz, welche einen entscheidenden strategischen Vorteil hat, sich schlecht benimmt, kann der Schaden einer existenziellen Katastrophe gleichzusetzen sein.
 -----
 (5) [Global Destruction]: Der Schaden eines bösartigen Versagens kann zur globalen Zerstörung des menschlichen axiologischen Potentials führen - eine Zukunft, die leer von allem ist, wovon wir Grund zur Wertschätzung haben.
+
+
+
+(1) Ein Projekt, welches eine grosse Menge an Dingen richtig macht, kann erfolgreich eine Superintelligenz entwickeln, welche das Risiko einer "Malignant Failure" darstellt.
+(2) Eine Eigenschaft einer "Malignant Failure ist", dass es jegliche Möglichkeit eliminiert Fehler rückgängig zu machen.
+(3) Fehler nicht rückgängig machen zu können ist einer existenziellen Katastrophe gleichzusetzen.
+(4) [Strategischer Vorteil]: Die erste Superintelligenz gewinnt einen entscheidenden strategischen Vorteil.
+(5) Eine Superintelligenz, welche einen entscheidenden strategischen Vorteil hat, kann eine "Malignant Failure" produzieren.
+-----
+(6) [Global Destruction]: Die erste Superintelligenz stellt ein Risiko dar, welches einer existenziellen Katastrophe gleichzusetzen ist.

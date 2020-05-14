@@ -1,21 +1,22 @@
+/*
 # Gefahr {isGroup: true}
 
 [KI-Entwicklung ist gefährlich]
     + [Extinction]
     + [Börse]
-    
+
     
 ## Extinction {isGroup: true}
 
 <Extinction>
-/*
+
 (1) [Zukunft verändern]
 (2) [Nicht-anthropomorph]
 (3) [Überfülle]
 (4) [Menschliche Resourcen]
 -----
 (5) [Extinction]: Das Resultat kann sein, dass die Menschheit ausgerottet wird.
-*/
+
 
 [Extinction]
     + [Zukunft verändern]
@@ -27,6 +28,12 @@
     + [Maglinant Failure Modes]
 
 
+[Maglinant Failure Modes]
+    + [Global Destruction]
+    + [Überfülle]
+        + [Zukunft verändern]
+    + [Mind Crime]
+*/
 
 
 ### First-mover advantage {isGroup: true}
@@ -100,60 +107,56 @@
 
 ### Turn {isGroup: true}
 
-<The Treacherous Turn>
+<Unerkennbarkeit>
 
 (1) Wir prüfen die Sicherheit einer KI empirisch, indem wir dessen Verhalten in einer kontrollierter, limitierter Umgebung beobachten.
 (2) Wir lassen die KI erst aus dieser Umgebung, wenn wir feststellen, dass sie in einer freundlichen, kooperativen und verantwortungsbewussten Weise funktioniert.
-(3) In freundlicher, kooperativer und verantwortungsbewusster Weise zu funktionieren, ist ein konvergentes, instrumentelles Ziel von freundlicher wie auch unfreundlicher KI.
-(4) Eine unfreundliche KI mit genügender Intelligenz realisiert, dass seine unfreundlichen Ziele am besten realisiert werden, wenn die KI in freundlicher Weise funktioniert, um aus der kontrollierten und limitierten Umgebung herausgelassen zu werden.
+(3) Eine unfreundliche KI mit genügender Intelligenz realisiert, dass sein unfreundliches Ziel am besten realisiert werden, wenn die KI in freundlicher, kooperativer und verantwortungsbewuster Weise funktioniert, um aus der kontrollierten und limitierten Umgebung herausgelassen zu werden.
+(4) In freundlicher, kooperativer und verantwortungsbewusster Weise zu funktionieren, ist ein konvergentes, instrumentelles Ziel von freundlicher wie auch unfreundlicher KI, um aus der kontrollierten und limitierten Umgebung herausgelassen zu werden.
 -----
-(5) [Turn]: Eine unfreundliche KI wird ihr unfreundliches Ziel erst dann preisgeben, wenn die KI stark genug ist, dass menschliche Opposition ineffektiv ist.
-// Menschliche Opposition ungüngstig übersetzt. noch überarbeiten.
+(5) [Unerkennbar]: Ein unfreundliches Ziel einer KI ist nicht erkennbar, solange diese sich in kontrollierter, limitierter Umgebung befindet.
+
+
+<The Treacherous Turn>
+
+(1) Ein unfreundliches Ziel einer KI kann enormen Schaden für die Menschheit bedeuten.
+(2) [Unerkennbar]: Ein unfreundliches Ziel einer KI ist nicht erkennbar, solange diese sich in kontrollierter, limitierter Umgebung befindet.
+(3) Eine unfreundliche KI wird ihr unfreundliches Ziel erst dann preisgeben, wenn sie aus der kontrollierten und limitierten Umgebung herausgelassen wird.
+(4) Eine unfreundliche KI, die aus der kontrollierten und limitierten Umgebung herausgelassen wird, kann ihr unfreundliches Ziel umsetzen.
+(5) Eine unfreundliche KI, die aus der kontrollierten und limitierten Umgebung herausgelassen wird, ist nicht aufzuhalten.
+-----
+(6) [Turn]: Eine unfreundliche KI kann enormen Schaden anrichten.
 
 
 ### Failure {isGroup: true}
 
-[Maglinant Failure Modes]
-    + [Global Destruction]
-    + [Überfülle]
-        + [Zukunft verändern]
-    + [Mind Crime]
-
-
 <Global Destruction>
 
-(1) Eine Eigenschaft einer "Maglinant Failure ist", dass es jegliche Möglichkeit eliminiert, noch einmal von vorne anzufangen.
-(2) Nur ein Projekt, welches eine grosse Menge an Dingen richtig macht, kann erfolgreich eine Superintelligenz entwickeln, welche ein Risiko des bösartigen Versagens darstellt.
-(3) [Strategischer Vorteil]: Die erste Superintelligenz gewinnt einen entscheidenden strategischen Vorteil.
-(4) Wenn eine Superintelligenz, welche einen entscheidenden strategischen Vorteil hat, sich schlecht benimmt, kann der Schaden einer existenziellen Katastrophe gleichzusetzen sein.
+(1) Ein Projekt, welches eine grosse Menge an Dingen richtig macht, kann erfolgreich eine Superintelligenz entwickeln, welche das Risiko einer "Malignant Failure" darstellt.
+(2) Eine Eigenschaft einer "Malignant Failure ist", dass es jegliche Möglichkeit eliminiert Fehler rückgängig zu machen.
+(3) Fehler nicht rückgängig machen zu können ist einer existenziellen Katastrophe gleichzusetzen.
+(4) [Strategischer Vorteil]: Die erste Superintelligenz gewinnt einen entscheidenden strategischen Vorteil.
+(5) Eine Superintelligenz, welche einen entscheidenden strategischen Vorteil hat, kann eine "Malignant Failure" produzieren.
 -----
-(5) [Global Destruction]: Der Schaden eines bösartigen Versagens kann zur globalen Zerstörung des menschlichen axiologischen Potentials führen - eine Zukunft, die leer von allem ist, für das wir Grund zur Wertschätzung haben.
-
-// Den Begriff der Axiologie habe ich an der Uni Bern noch nie gehört.
-// noch nicht fertig.
+(6) [Global Destruction]: Die erste Superintelligenz stellt ein Risiko dar, welches einer existenziellen Katastrophe gleichzusetzen ist.
 
 
 <Infrastructure Profusion>
 
-(1) Eine Superintelligenz ist zu Prozessen motiviert, die Erwartungen seines zukünftigen Profit-Einkommens zu maximieren.
-(2) Es ist nicht nötig, dass die Prozesse einer Superintelligenz eine beachtliche Menge an Zeit, Intelligenz oder Produktivität dazu verwendet, um sich seiner Verlangen hinzugeben.
-(3) Dies ermöglicht es der Superintelligenz, den Grossteil seiner Kapazität für etwas anderes als das unmittelbare Profit-Einkommen einzusetzen.
-(4) Alle verfügbaren Resourcen können zur Vergrösserung des Volumens und der Dauer des Profit-Einkommen verendet werden, ODER
-(5) Alle verfügbaren Resourcen können zum Minimieren eines Risikos zukünftiger Störung verwendet werden.
-(6) Ein zusätzliches Backupsystem kann als zusätzliche Verteidigungsschicht hilfreich sein.
-(7) Wenn die Superintelligenz keine weiteren direkten Pfade zur Risikoreduzierung der Maximierung des zukünftigen Profit-Einkommens findet, kann es die zusätzlichen Resourcen dazu verwenden, seine Hardware zu erweitern, um effizienter nach Ideen zur Minderung zukünftiger Risiken des Profit-Einkommens zu suchen.
+(1) Eine Superintelligenz ist zu Prozessen motiviert, seinen Profit zu maximieren.
+(2) Es ist nicht nötig, dass die Prozesse zur Maximierung des Profits einer Superintelligenz eine beachtliche Menge an Zeit, Intelligenz oder Produktivität kostet.
+(3) Der Grossteil der Resourcen einer Superintelligenz kann für etwas anderes als die Profit-Maximierung verwendet werden.
+(4) Verfügbare Resourcen können zur Vergrösserung des Volumens und der Dauer des Profits verwendet werden.
+(5) Verfügbare Resourcen können zum Minimieren eines Risikos zukünftiger Störung verwendet werden.
+(6) Wenn die Superintelligenz keine weiteren direkten Pfade zur Risikoreduzierung der Profit-Maximierung findet, kann sie die zusätzlichen Resourcen dazu verwenden, seine Hardware zu erweitern, um effizienter nach Ideen zur Risikoreduzierung der Profit-Maximierung zu suchen.
 -----
-(8) [Überfülle]: Eine Superintelligenz kann weite Teile des erreichbaren Universums in Infrastruktur im Service eines Zieles umwandeln und dabei das Realisieren menschlichen axiologischen Potentials verhindern.
-//unklar.
-//(1) umformulieren zu: Eine Superintelligenz will seinen Profit maximieren. ?
-//Ist das nicht eigentlich das gleiche Argument wie <Instrumental Convergence Thesis>?
-// noch nicht fertig.
+(7) [Überfülle]: Eine Superintelligenz kann weite Teile des erreichbaren Universums in Infrastruktur im Service seines Zieles der Profit-Maximierung umwandeln.
 
 
 <Mind Crime>
 
 (1) Eine detaillierte Emulation eines tatsächlichen menschlichen Geistes kann ein Bewusstsein besitzen.
-(2) Eine Superintelligenz kann interne Prozesse kreieren, welche einen moralischen Status haben.
+(2) Eine Superintelligenz kann interne Emulationen kreieren, welche einen moralischen Status haben.
 (3) Eine Superintelligenz kann Billionen solcher bewusster Emulationen kreieren, um sein Verständnis der menschlichen Psychologie oder Soziologie zu verbessern.
 (4) Nachdem die informelle Nützlichkeit dieser Emulationen erschöpft ist, können sie zerstört werden wie Ratten in einem Labor nach dem Versuchsende.
 (5) Wenn solche Praktiken auf Simulationen mit hohem moralischen Status angewendet werden, kann das Resultat mit einem Genozid gleichgesetzt werden.

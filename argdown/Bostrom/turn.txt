@@ -15,3 +15,21 @@
 (4) Eine unfreundliche KI mit genügender Intelligenz realisiert, dass seine unfreundlichen Ziele am besten realisiert werden, wenn die KI in freundlicher Weise funktioniert, um aus der kontrollierten und limitierten Umgebung herausgelassen zu werden.
 -----
 (5) [Turn]: Eine unfreundliche KI wird ihr unfreundliches Ziel erst dann preisgeben, wenn die KI stark genug ist, dass menschliche Opposition ineffektiv ist.
+
+
+
+(1) Wir prüfen die Sicherheit einer KI empirisch, indem wir dessen Verhalten in einer kontrollierter, limitierter Umgebung beobachten.
+(2) Wir lassen die KI erst aus dieser Umgebung, wenn wir feststellen, dass sie in einer freundlichen, kooperativen und verantwortungsbewussten Weise funktioniert.
+(3) Eine unfreundliche KI mit genügender Intelligenz realisiert, dass sein unfreundliches Ziel am besten realisiert werden, wenn die KI in freundlicher, kooperativer und verantwortungsbewuster Weise funktioniert, um aus der kontrollierten und limitierten Umgebung herausgelassen zu werden.
+(4) In freundlicher, kooperativer und verantwortungsbewusster Weise zu funktionieren, ist ein konvergentes, instrumentelles Ziel von freundlicher wie auch unfreundlicher KI, um aus der kontrollierten und limitierten Umgebung herausgelassen zu werden.
+-----
+(5) [Unerkennbar]: Ein unfreundliches Ziel einer KI ist nicht erkennbar, solange diese sich in kontrollierter, limitierter Umgebung befindet.
+
+
+(1) Ein unfreundliches Ziel einer KI kann enormen Schaden für die Menschheit bedeuten.
+(2) [Unerkennbar]: Ein unfreundliches Ziel einer KI ist nicht erkennbar, solange diese sich in kontrollierter, limitierter Umgebung befindet.
+(3) Eine unfreundliche KI wird ihr unfreundliches Ziel erst dann preisgeben, wenn die KI aus der kontrollierten und limitierten Umgebung herausgelassen wird.
+(4) Eine unfreundliche KI, die aus der kontrollierten und limitierten Umgebung herausgelassen wird, kann ihr unfreundliches Ziel umsetzen.
+(5) Eine unfreundliche KI, die aus der kontrollierten und limitierten Umgebung herausgelassen wird, ist nicht aufzuhalten.
+-----
+(6) [Turn]: Eine unfreundliche KI kann enormen Schaden anrichten.

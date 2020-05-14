@@ -19,3 +19,17 @@
 -----
 (8) [Überfülle]: Eine Superintelligenz kann weite Teile des erreichbaren Universums in Infrastruktur im Service eines Zieles umwandeln und dabei das Realisieren menschlichen axiologischen Potentials verhindern.
 
+
+(1) Eine Superintelligenz ist zu Prozessen motiviert, seinen Profit zu maximieren.
+(2) Es ist nicht nötig, dass die Prozesse zur Maximierung des Profits einer Superintelligenz eine beachtliche Menge an Zeit, Intelligenz oder Produktivität kostet.
+(3) Der Grossteil der Resourcen einer Superintelligenz kann für etwas anderes als die Profit-Maximierung verwendet werden.
+(4) Verfügbare Resourcen können zur Vergrösserung des Volumens und der Dauer des Profits verwendet werden.
+(5) Verfügbare Resourcen können zum Minimieren eines Risikos zukünftiger Störung verwendet werden.
+(6) Wenn die Superintelligenz keine weiteren direkten Pfade zur Risikoreduzierung der Profit-Maximierung findet, kann sie die zusätzlichen Resourcen dazu verwenden, seine Hardware zu erweitern, um effizienter nach Ideen zur Risikoreduzierung der Profit-Maximierung zu suchen.
+-----
+(7) [Überfülle]: Eine Superintelligenz kann weite Teile des erreichbaren Universums in Infrastruktur im Service seines Zieles der Profit-Maximierung umwandeln.
+
+//unklar.
+//(1) umformulieren zu: Eine Superintelligenz will seinen Profit maximieren. ?
+//Ist das nicht eigentlich das gleiche Argument wie <Instrumental Convergence Thesis>?
+// noch nicht fertig.
