@@ -1,8 +1,3 @@
-===
-model:
-    mode: strict
-===
-
 # Autonomous Weapons { isGroup: true }
 
 <autonomous weapons> { Quelle: dochertyLosingHumanityCase2012, p.4 }
@@ -44,7 +39,7 @@ model:
 (4) [AI-Entwicklung ist gefährlich]
 */
 
-# Optimizing AI’s Economic Impact { isGroup: true }
+# AI’s Economic Impact { isGroup: true }
 
 <falsches Messinstrument> { Quelle: russellResearchPrioritiesRobust2015, p. 107 & mokyrSecularStagnationNot2014 }
 
@@ -122,7 +117,7 @@ Wenn die Verteilung von Reichtum einem Potenzgesetz folgt, wird Reichtum konzent
 
 <strong bounty> { Quellen:  brynjolfssonSecondMachineAge2014, p. 143}
 
-(1) [Arme profitieren]: Bei einer Wirtschaft die nach einem Potenzgesetz funktioniert profitieren auch die Teilnehmer der Wirtschaft, die am wenigsten Verdienen.
+(1) [Arme profitieren]: Bei einer Wirtschaft die nach einem Potenzgesetz funktioniert profitieren auch die Teilnehmer der Wirtschaft, die am wenigsten Verdienen. {rank: "r1"}
 (2) [Wirtschaft folgt Potenzgesetz]
 (3) Wenn die Wirtschaft einem Potenzgesetz folgt und auch die Teilnehmer der Wirtschaft, die am wenigsten verdienen, profitieren, dann ist die Wirtschaft nach einem Potenzgesetz richtig.
 ----
@@ -132,9 +127,9 @@ Wenn die Verteilung von Reichtum einem Potenzgesetz folgt, wird Reichtum konzent
 <Potenzgesetz ist schlecht> { Quellen:  brynjolfssonSecondMachineAge2014, p. 144 }
 
 (1) Das bereinigte Median- Einkommen und -Gesamtvermögen in den USA ist heute kleiner als 1999.
-(2) [Einkommen klein, dann kein Profit]: Wenn das bereinigte Median- Einkommen und -Gesamtvermögen in den USA kleiner als 1999 ist, dann profitieren die Teilnehmer der Wirtschaft, die am wenigsten Verdienen nicht von einer Wirtschaft, die nach einem Potenzgesetz funktioniert.
+(2) [Einkommen klein, dann kein Profit]: Wenn das bereinigte Median- Einkommen und -Gesamtvermögen in den USA kleiner als 1999 ist, dann profitieren die Teilnehmer der Wirtschaft, die am wenigsten Verdienen nicht von einer Wirtschaft, die nach einem Potenzgesetz funktioniert. {rank: "r2"}
 ----
-(3) [Arme profitieren nicht]: Bei einer Wirtschaft die nach einem Potenzgesetz funktioniert profitieren die Teilnehmer der Wirtschaft, die am wenigsten Verdienen nicht.
+(3) [Arme profitieren nicht]: Bei einer Wirtschaft die nach einem Potenzgesetz funktioniert profitieren die Teilnehmer der Wirtschaft, die am wenigsten Verdienen nicht. {rank: "r1"}
     - [Arme profitieren]
 
 
@@ -155,11 +150,79 @@ Wenn die Verteilung von Reichtum einem Potenzgesetz folgt, wird Reichtum konzent
 (1) Wenn es andere wichtige Faktoren gibt, von denen die Teilnehmer der Wirtschaft, die am wenigsten Verdienen profitieren als das bereinigte Median- Einkommen und -Gesamtvermögen, dann ist @[Einkommen klein, dann kein Profit] falsch.
 (2) Ungemessene Preisreduktionen und qualitative Verbesserungen sind Faktoren, von denen die Teilnehmer der Wirtschaft, die am wenigsten Verdienen, profitieren.
 ----
-(3) [Einkommen klein, dann kein Profit-]: @[Einkommen klein, dann kein Profit] ist falsch.
+(3) [Einkommen klein, dann kein Profit-]: @[Einkommen klein, dann kein Profit] ist falsch.  {rank: "r2"}
     - [Einkommen klein, dann kein Profit]
 
 
-# Computer Science Research for Robust AI
+## Stock Trading {isGroup: true}
+
+<Insider Trading> { Author: Claude }
+
+(1) AI-Algorithmen können entwickelt werden, um vorauszusagen, wann ein Aktienkapital schlagartig an Wert gewinnt.
+(2) AI-Algorithmen können grosse Mengen an gegenwärtigen und historischen Informationen abarbeiten, um Muster zu erkennen.
+(3) AI-Algorithmen können durch die Kombination von Input harmloser Daten und öffentlich zugänglichen Informationen zu Insiderinformationen gelangen, welche als verboten deklariert sind.
+(4) Börsenhändler, die AI-Algorithmen verwenden, müssen nicht unbedingt verstehen, wie die AI-Algorithmen funktionieren.
+(5) Wenn Börsenhändler nicht verstehen, wie die AI-Algorithmen funktionieren, können sie nicht mit Insiderhandel angeklagt werden.
+(6) Diese Börsenhändler können nie verurteilt werden und haben einen unfairen Vorteil.
+-----
+(7) [Insider Trading]: AI-Algorithmen führen zu unfairen Vorteilen an der Börse.
+
+
+
+
+# Computer Science Research for Robust AI { isGroup: true }
+
+
+<Vorteile verhindern Moratorium> { Quellen: wallachMoralMachinesTeaching2008, p.5, chap. 3 }
+
+(1) AIs, die moralisch-relevante Entscheidungen treffen müssen, können grosse Vorteile bringen.
+(2) Der Markt und die Politik verlangen nach diesen Vorteilen.
+(3) Die Forschung beugt sich dem Willen des Marktes und der Politik
+----
+(4) [moralische AI]: AI, die moralisch relevante Entscheidungen treffen, werden entwickelt.
+
+
+<schlechte Entscheide>
+
+(1) Wenn bei der Entwicklung von AI die Fähigkeit moralische Entscheidungen vernachlässigt wird, trifft die AI schlechte moralische Entscheide.
+(2) Bei der Entwicklung von AI wird die Fähigkeit moralische Entscheidungen zu treffen vernachlässigt.
+-----
+(3) [schlechte Entscheide]: AI treffen moralisch schlechte Entscheidungen.
+
+
+<AI trifft schlechte Entscheide>
+
+(1) [moralische AI]
+(2) [schlechte Entscheide]
+-----
+(3) Es werden AIs entwickelt, die moralisch schlechte Entscheidungen treffen.
+
+
+<Decision Support Tools> { Quellen: wallachMoralMachinesTeaching2008, p. 9 & wallachMoralMachinesTeaching2008, chap. 3 }
+
+(1) DST unterstützen Menschen dabei, wichtige, folgenreiche Entscheidungen zu treffen.
+(2) Wenn DST gut funktionieren, fangen Menschen an, wichtige, folgenreiche Entscheidungen nicht mehr selbst zu treffen, sondern überlassen die Entscheidungen den DST.
+----
+(3) [DST]: Wenn DST gut funktionieren, kontrollieren sie selbst Entscheidungsprozesse.
+
+<schlecht und weitreichend>
+
+(1) [DST]
+(2) [schlechte Entscheide]
+----
+(3) wichtige, folgenreiche Entscheidungen werden moralisch schlecht gefällt.
+
+
+<Cyberattacken> { Quellen: russellResearchPrioritiesRobust2015, p. 109 }
+
+(1) AI wird Sicherheitsrelevante Aufgaben übernehmen.
+(2) Wenn etwas sicherheitsrelevante Aufgaben übernimmt, bietet es Angriffsfläche für Cyberattacken.
+(3) AI wird in Cyberattacken eingesetzt.
+----
+(4) AI sind sowohl Ziel als auch Ursprung von Cyberattacken.
+(5) Cyberattacken sind eine Gefahr für die Gesellschaft.
+----
+(6) [AI-Entwicklung ist gefährlich]
 
 [Robustheit]: AI ist nicht robust und deshalb nicht sicher russellResearchPrioritiesRobust2015, p. 107
 
@@ -180,50 +243,7 @@ leads to desirable behavior and a beneficial
 agent.
  russellResearchPrioritiesRobust2015, p. 108
 
+# Dummygroup
 
-<Vorteile verhindern Moratorium> { Quellen: wallachMoralMachinesTeaching2008, p.5, chap. 3 }
 
-(1) AIs, die moralisch-relevante Entscheidungen treffen müssen, können grosse Vorteile bringen.
-(2) Der Markt und die Politik verlangen nach diesen Vorteilen.
-(3) Die Forschung beugt sich dem Willen des Marktes und der Politik
-----
-(4) [moralische AI]: AI, die moralisch relevante Entscheidungen treffen, werden entwickelt.
 
-<schlechte Entscheide>
-
-(1) Wenn bei der Entwicklung von AI die Fähigkeit moralische Entscheidungen vernachlässigt wird, trifft die AI schlechte moralische Entscheide.
-(2) Bei der Entwicklung von AI wird die Fähigkeit moralische Entscheidungen zu treffen vernachlässigt.
------
-(3) [schlechte Entscheide]: AI treffen moralisch schlechte Entscheidungen.
-
-<AI trifft schlechte Entscheide>
-
-(1) [moralische AI]
-(2) [schlechte Entscheide]
------
-(3) Es werden AIs entwickelt, die moralisch schlechte Entscheidungen treffen.
-
-<Decision Support Tools> { Quellen: wallachMoralMachinesTeaching2008, p. 9 & wallachMoralMachinesTeaching2008, chap. 3 }
-
-(1) DST unterstützen Menschen dabei, wichtige, folgenreiche Entscheidungen zu treffen.
-(2) Wenn DST gut funktionieren, fangen Menschen an, wichtige, folgenreiche Entscheidungen nicht mehr selbst zu treffen, sondern überlassen die Entscheidungen den DST.
-----
-(3) [DST]: Wenn DST gut funktionieren, kontrollieren sie selbst Entscheidungsprozesse.
-
-<schlecht und weitreichend>
-
-(1) [DST]
-(2) [schlechte Entscheide]
-----
-(3) wichtige, folgenreiche Entscheidungen werden moralisch schlecht gefällt.
-
-<Cyberattacken> { Quellen: russellResearchPrioritiesRobust2015, p. 109 }
-
-(1) AI wird Sicherheitsrelevante Aufgaben übernehmen.
-(2) Wenn etwas sicherheitsrelevante Aufgaben übernimmt, bietet es Angriffsfläche für Cyberattacken.
-(3) AI wird in Cyberattacken eingesetzt.
-----
-(4) AI sind sowohl Ziel als auch Ursprung von Cyberattacken.
-(5) Cyberattacken sind eine Gefahr für die Gesellschaft.
-----
-(6) [AI-Entwicklung ist gefährlich]: AI ist eine Gefahr für die Gesellschaft.

@@ -4,6 +4,16 @@
   "model": {
     "mode": "strict"
   },
-  "outputPath": "../output/research-priorities"
-
+  "outputPath": "../output/research-priorities",
+  "dot": {
+    "graphVizSettings": {
+      "newrank": true
+    }
+  },
+  "selection": {
+    "statementSelectionMode": "with-title"
+  },
+  "color": {
+    "colorScheme": "colorbrewer-category10"
+  }
 }

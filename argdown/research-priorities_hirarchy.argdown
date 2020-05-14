@@ -1,8 +1,20 @@
-@include(_research-priorities.argdown)
-@include(_argumente_claude_200510.ad)
 
-[AI-Entwicklung ist gefährlich]
+[AI-Entwicklung ist gefährlich]: AI ist eine Gefahr für die Gesellschaft. {color: "#e83b07"}
     <+ <schlecht und weitreichend>
     <+ [Armut]
     <+ [Zivile Verluste]
     <+ [retributive Justice]
+    <+ [Börse]
+    <+ [Zukunft verändern]
+    <+ [Mind Crime]
+    <+ [Überfülle]
+    <+ [Global Destruction]
+    <+ [Menschliche Resourcen]
+    <+ [Turn]
+    <+ [Crisis]
+    <+ [Devastation]
+
+
+@include(_research-priorities.argdown)
+@include(_argumente_claude_200510.ad)
+
