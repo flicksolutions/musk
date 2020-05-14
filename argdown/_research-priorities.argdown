@@ -3,7 +3,7 @@ model:
     mode: strict
 ===
 
-# Autonomous Weapons
+# Autonomous Weapons { isGroup: true }
 
 <autonomous weapons> { Quelle: dochertyLosingHumanityCase2012, p.4 }
 
@@ -18,7 +18,7 @@ model:
 (1) Wenn ein verkleinertes Risiko besteht, eigene Truppen zu verlieren, wird ein bewaffneter Konflikt wahrscheindlicher.
 (2) Die Ersetzung von Frontsoldaten durch Roboter verkleinert das Risiko, eigene Truppen zu verlieren.
 ----
-(3) Ein bewaffneter Konflikt ist wahrscheindlicher.
+(3) Ein bewaffneter Konflikt ist wahrscheinlicher.
 (4) In einem bewaffneten Konflikt gibt es immer auch zivile Verluste.
 ----
 (5) [Zivile Verluste]
@@ -33,6 +33,16 @@ model:
 (5) Wenn die Verantwortung ungeklärt ist oder schwer zurückzuverfolgen, ist vergeltende Gerechtigkeit nicht möglich und man könnte weniger gut vor Menschenrechtsverletzungen abhalten.
 ----
 (6) [retributive Justice]: Vergeltende Gerechtigkeit ist nicht möglich und vor Menschenrechtsverletzungen kann weniger gut abgehalten werden.
+
+
+<Tod ist Gefahr>
+
+(1) [Zivile Verluste]
+(2) [retributive Justice]
+(3) Wenn mehr Zivilisten in einem bewaffneten Konflikt getötet werden und Menschenrechtsverletzungen weniger gut verhindert werden können, dann ergibt sich eine Gefahr für die Gesellschaft.
+----
+(4) [KI-Entwicklung ist gefährlich]
+
 
 # Optimizing AI’s Economic Impact { isGroup: true }
 
