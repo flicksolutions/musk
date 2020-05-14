@@ -78,6 +78,14 @@ model:
 (6) [Armut]
 
 
+<Armut ist Gefahr>
+
+(1) Wenn die Entwicklung von AI zu extremer Armut bei einem grossen Teil der Bevölkerung führt, ist dies eine Gefahr für die Gesellschaft.
+(2) [Armut]
+----
+(3) [KI-Entwicklung ist gefährlich]
+
+
 <Power Law> { Quellen: brynjolfssonSecondMachineAge2014, chap. 10 & mokyrSecularStagnationNot2014 }
 
 (1) [Potenzgesetz]: Wenn die Nachfrage nach einem Produkt von einem einzelnen Anbieter befriedigt werden kann, folgt die Verteilung des Gewinns an dem Produkt einem Potenzgesetz.
