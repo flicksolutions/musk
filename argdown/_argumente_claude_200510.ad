@@ -35,9 +35,9 @@
     + [Mind Crime]
 */
 
-## Superintelligenz
+# Superintelligenz
 
-### First-mover advantage {isGroup: true}
+## First-mover advantage {isGroup: true}
 
 <Rapide Emergenz>
 
@@ -79,7 +79,7 @@
 (5) [Zukunft verändern]: Die erste Superintelligenz kann die Zukunft jeden Lebens auf Erden verändern.
 
 
-### Orthogonal Thesis {isGroup: true}
+## Orthogonal Thesis {isGroup: true}
 
 <Orthogonality Thesis>
 
@@ -93,7 +93,7 @@
 // komplett überarbeiten
 
 
-### Convergence {isGroup: true}
+## Convergence {isGroup: true}
 
 <Instrumental Convergence Thesis>
 
@@ -106,7 +106,7 @@
 (5) [Menschliche Resourcen]: Eine Superintelligenz kann die Menschen als instrumentelle Resourcen benützen.
 
 
-### Turn {isGroup: true}
+## Turn {isGroup: true}
 
 <Unerkennbarkeit>
 
@@ -129,7 +129,7 @@
 (6) [Turn]: Eine unfreundliche AI kann enormen Schaden anrichten.
 
 
-### Failure {isGroup: true}
+## Failure {isGroup: true}
 
 <Global Destruction>
 
@@ -165,7 +165,7 @@
 (6) [Mind Crime]: Die Zerstörung einer Emulation mit hohem moralischen Status ist Genozid.
 
 
-## Development {isGroup: true}
+# Development {isGroup: true}
 
 <Race Dynamics>
 
