@@ -12,12 +12,12 @@ Systematisch: Fragen an den Text herantragen
 ![8a5294db72462823ac6cbc0e7f9429b2.png](res/8a5294db72462823ac6cbc0e7f9429b2.png)
 
 ![hermeneutisches Kleeblatt.png](res/hermeneutisches Kleeblatt.png)
--------------—
+-------------
 Praktischer Syllogismus:
 Ist nicht deduktiv gültig.
 
 
-------------------—
+------------------
 
 
 

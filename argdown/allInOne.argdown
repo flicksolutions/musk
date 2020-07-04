@@ -1,3 +1,33 @@
+===
+title: Argumentationsanalyse AI
+author: Sebastian Flick, Claude Aebersold
+model:
+  mode: strict
+outputPath: ../output/research-priorities
+dot:
+    graphVizSettings:
+      newrank: true
+selection:
+  statementSelectionMode: with-title
+color:
+  colorScheme: colorbrewer-category10
+===
+
+[AI-Entwicklung ist gefährlich]: AI ist eine Gefahr für die Gesellschaft. {color: "#e83b07"}
+    <+ <schlecht und weitreichend>
+    <+ [Armut]
+    <+ [Zivile Verluste]
+    <+ [retributive Justice]
+    <+ [Börse]
+    <+ [Zukunft verändern]
+    <+ [Mind Crime]
+    <+ [Überfülle]
+    <+ [Global Destruction]
+    <+ [Menschliche Resourcen]
+    <+ [Turn]
+    <+ [Crisis]
+    <+ [Devastation]
+    
 # Autonomous Weapons { isGroup: true }
 
 <autonomous weapons> { Quelle: dochertyLosingHumanityCase2012, p.4 }
@@ -268,7 +298,196 @@ leads to desirable behavior and a beneficial
 agent.
  russellResearchPrioritiesRobust2015, p. 108
 
+/*
+# Gefahr {isGroup: true}
+
+[AI-Entwicklung ist gefährlich]
+    + [Extinction]
+    + [Börse]
+
+    
+## Extinction {isGroup: true}
+
+<Extinction>
+
+(1) [Zukunft verändern]
+(2) [Nicht-anthropomorph]
+(3) [Überfülle]
+(4) [Menschliche Resourcen]
+-----
+(5) [Extinction]: Das Resultat kann sein, dass die Menschheit ausgerottet wird.
 
 
+[Extinction]
+    + [Zukunft verändern]
+    + [Nicht-anthropomorph]
+    + [Menschliche Resourcen]
+    + [Turn]
+    + [Devastation]
+    + [Crisis]
+    + [Maglinant Failure Modes]
 
+
+[Maglinant Failure Modes]
+    + [Global Destruction]
+    + [Überfülle]
+        + [Zukunft verändern]
+    + [Mind Crime]
+*/
+
+# Superintelligenz
+
+## First-mover advantage {isGroup: true}
+
+<Rapide Emergenz>
+
+(1) Das Wachstum der Intelligenzkapazität einer AI kann verzögert werden, weil eine einzelne Hauptzutat zum Wachstum lange nicht gefunden wird.
+(2) Wird diese Hauptzutat gefunden, kann die AI die menschliche Intelligenz sprunghaft radikal übersteigen.
+(3) Wenn eine AI die menschliche Intelligenz sprunghaft radikal übersteigt, kann die Entstehung einer Superintelligenz rapide erfolgen.
+-----
+(4) [Rapide Emergenz]: Die Entstehung einer Superintelligenz kann rapide erfolgen.
+
+
+<Strategischer Vorteil>
+
+(1) [Rapide Emergenz]: Die Entstehung einer Superintelligenz kann rapide erfolgen.
+(2) Wenn die Entstehung einer Superintelligenz rapide erfolgt, dann ist es unwahrscheinlich, dass zwei unabhängige Superintelligenzen zur gleichen Zeit auftauchen.
+(3) Wenn eine Superintelligenz vor einer anderen auftaucht, so wird die Erste wegen Ihres exponentiellen Intelligenzzuwachses nicht mehr von einer anderen Superintelligenz aufholbar sein.
+-----
+(4) [Strategischer Vorteil]: Die erste Superintelligenz wird nicht aufholbar sein und gewinnt einen entscheidenden strategischen Vorteil.
+
+
+<Singularität>
+
+(1) In menschlichen Organisationen werden ökonomische Skaleneffekte durch bürokratische Ineffizienzen und Organisationsschwierigkeiten wie die Geheimhaltung von Geschäftsgeheimnissen diffundiert.
+(2) Diese Probleme limitieren das Wachstum der Kapazitäten einer Superintelligenz, solange sie von Menschen gehandhabt werden.
+(3) Eine Superintelligenz, die nicht von Menschen gehandhabt wird, kann diese Einschränkung des Wachstums der Kapazitäten minimieren, da die Module der Superintelligenz keine individuellen Absichten haben, welche vom System als Gesamtes abweichen.
+(4) Wenn die Superintelligenz nicht von Menschen geführt wird, kann das Wachstum der Kapazitäten vereinfacht werden.
+(5) Wenn die Superintelligenz nicht von Menschen geführt wird, kann die Diffusionsrate der Skaleneffekte reduziert werden.
+(6) Eine Superintelligenz, welche das Wachstum der Kapazitäten vereinfacht und die Diffusionsrate der Skaleneffekte reduziert, kann eine Singularität erstellen.
+-----
+(7) [Singularität]: Eine Singularität kann entstehen.
+
+
+<Zukunft verändern>
+
+(1) [Strategischer Vorteil]: Die erste Superintelligenz gewinnt einen entscheidenden strategischen Vorteil.
+(2) [Singularität]: Eine Singularität kann entstehen.
+(3) Eine Singularität bedeutet unkontrollierbares und irreversibles technologisches Wachstum.
+(4) Unkontrollierbares und irreversibles technologisches Wachstum verursacht unvorhersehbare Veränderungen in der Zivilisation.
+-----
+(5) [Zukunft verändern]: Die erste Superintelligenz kann die Zukunft jeden Lebens auf Erden verändern.
+
+
+## Orthogonal Thesis {isGroup: true}
+
+<Orthogonality Thesis>
+
+(1) Die Orthogonality Thesis besagt, dass Intelligenz und Ziele orthogonal sind: Jede Stufe von Intelligenz kann im Prinzip mit jedem Ziel kombiniert werden.
+(2) Die Humeanische Theorie der Motivation besagt, dass eine Überzeugung alleine nicht genügt, um eine Handlung zu motivieren und dass Wünsche notwendige Komponente zur Erklärung einer Handlung sind.
+(3) Die Orthogonality Thesis setzt die Humeanische Theorie der Motivation nicht voraus.
+(4) Grundvoraussetzungen können irrational sein.
+(5) Eine Superintelligenz kann eine enorme Weite an möglichen Zielen haben.
+-----
+(6) [Nicht-anthropomorph]: Eine Superintelligenz kann nicht-anthropomorphe Ziele haben.
+// komplett überarbeiten
+
+
+## Convergence {isGroup: true}
+
+<Instrumental Convergence Thesis>
+
+(1) [Nicht-anthropomorph]: Eine Superintelligenz kann nicht-anthropomorphe Ziele haben.
+(2) Wir können nicht davon ausgehen, dass eine Superintelligenz mit einem nicht-anthropomorphen Ziel die Aktivitäten limitiert, so dass keine menschlichen Interessen eingeschränkt werden.
+(3) Verschiedene instrumentelle Variablen können identifiziert werden, welche Konvergent im Sinne sind, dass das Erlangen die Chancen des Erreichens des Ziels erhöht.
+(4) Menschen stellen instrumentelle Resourcen dar (günstig lokalisierte Atome).
+(5) Menschen sind eine instrumentelle Resource einer Superintelligenz mit nicht-antropomorphen Zielen.
+-----
+(5) [Menschliche Resourcen]: Eine Superintelligenz kann die Menschen als instrumentelle Resourcen benützen.
+
+
+## Turn {isGroup: true}
+
+<Unerkennbarkeit>
+
+(1) Wir prüfen die Sicherheit einer AI empirisch, indem wir dessen Verhalten in einer kontrollierter, limitierter Umgebung beobachten.
+(2) Wir lassen die AI erst aus dieser Umgebung, wenn wir feststellen, dass sie in einer freundlichen, kooperativen und verantwortungsbewussten Weise funktioniert.
+(3) Eine unfreundliche AI mit genügender Intelligenz realisiert, dass sein unfreundliches Ziel am besten realisiert werden, wenn die AI in freundlicher, kooperativer und verantwortungsbewuster Weise funktioniert, um aus der kontrollierten und limitierten Umgebung herausgelassen zu werden.
+(4) In freundlicher, kooperativer und verantwortungsbewusster Weise zu funktionieren, ist ein konvergentes, instrumentelles Ziel von freundlicher wie auch unfreundlicher AI, um aus der kontrollierten und limitierten Umgebung herausgelassen zu werden.
+-----
+(5) [Unerkennbar]: Ein unfreundliches Ziel einer AI ist nicht erkennbar, solange diese sich in kontrollierter, limitierter Umgebung befindet.
+
+
+<The Treacherous Turn>
+
+(1) Ein unfreundliches Ziel einer AI kann enormen Schaden für die Menschheit bedeuten.
+(2) [Unerkennbar]: Ein unfreundliches Ziel einer AI ist nicht erkennbar, solange diese sich in kontrollierter, limitierter Umgebung befindet.
+(3) Eine unfreundliche AI wird ihr unfreundliches Ziel erst dann preisgeben, wenn sie aus der kontrollierten und limitierten Umgebung herausgelassen wird.
+(4) Eine unfreundliche AI, die aus der kontrollierten und limitierten Umgebung herausgelassen wird, kann ihr unfreundliches Ziel umsetzen.
+(5) Eine unfreundliche AI, die aus der kontrollierten und limitierten Umgebung herausgelassen wird, ist nicht aufzuhalten.
+-----
+(6) [Turn]: Eine unfreundliche AI kann enormen Schaden anrichten.
+
+
+## Failure {isGroup: true}
+
+<Global Destruction>
+
+(1) Ein Projekt, welches eine grosse Menge an Dingen richtig macht, kann erfolgreich eine Superintelligenz entwickeln, welche das Risiko einer "Malignant Failure" darstellt.
+(2) Eine Eigenschaft einer "Malignant Failure ist", dass es jegliche Möglichkeit eliminiert Fehler rückgängig zu machen.
+(3) Fehler nicht rückgängig machen zu können ist einer existenziellen Katastrophe gleichzusetzen.
+(4) [Strategischer Vorteil]: Die erste Superintelligenz gewinnt einen entscheidenden strategischen Vorteil.
+(5) Eine Superintelligenz, welche einen entscheidenden strategischen Vorteil hat, kann eine "Malignant Failure" produzieren.
+-----
+(6) [Global Destruction]: Die erste Superintelligenz stellt ein Risiko dar, welches einer existenziellen Katastrophe gleichzusetzen ist.
+
+
+<Infrastructure Profusion>
+
+(1) Eine Superintelligenz ist zu Prozessen motiviert, seinen Profit zu maximieren.
+(2) Es ist nicht nötig, dass die Prozesse zur Maximierung des Profits einer Superintelligenz eine beachtliche Menge an Zeit, Intelligenz oder Produktivität kostet.
+(3) Der Grossteil der Resourcen einer Superintelligenz kann für etwas anderes als die Profit-Maximierung verwendet werden.
+(4) Verfügbare Resourcen können zur Vergrösserung des Volumens und der Dauer des Profits verwendet werden.
+(5) Verfügbare Resourcen können zum Minimieren eines Risikos zukünftiger Störung verwendet werden.
+(6) Wenn die Superintelligenz keine weiteren direkten Pfade zur Risikoreduzierung der Profit-Maximierung findet, kann sie die zusätzlichen Resourcen dazu verwenden, seine Hardware zu erweitern, um effizienter nach Ideen zur Risikoreduzierung der Profit-Maximierung zu suchen.
+-----
+(7) [Überfülle]: Eine Superintelligenz kann weite Teile des erreichbaren Universums in Infrastruktur im Service seines Zieles der Profit-Maximierung umwandeln.
+
+
+<Mind Crime>
+
+(1) Eine detaillierte Emulation eines tatsächlichen menschlichen Geistes kann ein Bewusstsein besitzen.
+(2) Eine Superintelligenz kann interne Emulationen kreieren, welche einen moralischen Status haben.
+(3) Eine Superintelligenz kann Billionen solcher bewusster Emulationen kreieren, um sein Verständnis der menschlichen Psychologie oder Soziologie zu verbessern.
+(4) Nachdem die informelle Nützlichkeit dieser Emulationen erschöpft ist, können sie zerstört werden wie Ratten in einem Labor nach dem Versuchsende.
+(5) Wenn solche Praktiken auf Simulationen mit hohem moralischen Status angewendet werden, kann das Resultat mit einem Genozid gleichgesetzt werden.
+-----
+(6) [Mind Crime]: Die Zerstörung einer Emulation mit hohem moralischen Status ist Genozid.
+
+
+# Development {isGroup: true}
+
+<Race Dynamics>
+
+(1) Ein Wettrennen kommt zu Stande, wenn ein Projekt befürchtet von einem anderen überholt zu werden.
+(2) Die Heftigkeit des Wettrennens kommt auf verschiedene Faktoren an.
+(3) Faktoren wie Knappheit der Führung, relative Wichtigkeit von Kapazitäten und Glück, Anzahl der Wettbewerber etc.
+(4) In einem heftigen Wettrennen priorisieren Wettbewerber Geschwindigkeit über Sicherheit.
+(5) Ein heftiges Wettrennen kann zu Feindseligkeiten zwischen Wettbewerbern führen.
+(6) Das zurückliegende Projekt könnte versucht sein, eine verzweifelten Angriff auf seine Rivalen auszuführen.
+(7) Das führende Projekt kann dies antizipieren und einen Präventivangriff ausführen.
+(8) Verzweifelte Angriffe und Präventivangriffe haben zerstörende Auswirkungen.
+-----
+(9) [Devastation]: Die Konsequenzen eines Wettrennens kann zerstörende Auswirkungen haben.
+
+
+<Monitoring>
+
+(1) Durch die extremen Sicherheitsimplikationen wird ein mächtiger Staat versuchen, ein Projekt, welches Nahe an der Entwicklung einer Superintelligenz ist, zu verstaatlichen.
+(2) Ein mächtiger Staat kann versuchen, Projekte eines anderen Landes, welche Nahe an der Entwicklung einer Superintelligenz sind, durch Spionage, Diebstahl, Kidnapping, Bestechung, Bedrohung, Militäraktionen, etc. zu akquirieren.
+(3) Ein mächtiger Staat, dem es nicht gelingt, ein ausländisches Projekt zu akquirieren, kann versuchen, es zu zerstören.
+(4) Einmischung in ein ausländisches Projekt kann zu einer internationalen Krise führen.
+(5) Zerstörung eines ausländischen Projektes kann zu einer internationalen Krise führen.
+-----
+(6) [Crisis]: Das Einmischen in oder das Zerstören eines ausländischen Projektes, welches Nahe an der Entwicklung einer Superintelligenz ist, kann zu einer internationalen Krise führen.
 
