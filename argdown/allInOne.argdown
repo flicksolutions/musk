@@ -270,14 +270,28 @@ Wenn die Verteilung von Reichtum einem Potenzgesetz folgt, wird Reichtum konzent
 
 <Cyberattacken> { Quellen: russellResearchPrioritiesRobust2015, p. 109 }
 
-(1) AI wird Sicherheitsrelevante Aufgaben übernehmen.
+(1) AI wird in Zukunft Sicherheitsrelevante Aufgaben übernehmen.
 (2) Wenn etwas sicherheitsrelevante Aufgaben übernimmt, bietet es Angriffsfläche für Cyberattacken.
-(3) AI wird in Cyberattacken eingesetzt.
+(3) AI wird in Zukunft in Cyberattacken eingesetzt werden.
 ----
-(4) AI sind sowohl Ziel als auch Ursprung von Cyberattacken.
-(5) Cyberattacken sind eine Gefahr für die Gesellschaft.
+(4) [AI in Cyberattacken]: AI werden sowohl Ziel als auch Ursprung von Cyberattacken sein.
+
+
+<Cyberattacken in Wirtschaft>
+
+(1) [AI in Cyberattacken]
+(2) Cyberattacken gefährden Unternehmen.
 ----
-(6) [AI-Entwicklung ist gefährlich]
+(3) [Unternehmensgefährdung Zukunft]: Der Einsatz von AI wird in Zukunft Unternehmen gefährden.
+
+
+<Cyberattacken in Sicherheit>
+
+(1) [AI in Cyberattacken]
+(2) Cyberattacken gefährden die nationale Sicherheit.
+----
+(3) [nationale Sicherheit Zukunft]: Der Einsatz von AI wird in Zukunft Unternehmen gefährden.
+
 
 [Robustheit]: AI ist nicht robust und deshalb nicht sicher russellResearchPrioritiesRobust2015, p. 107
 
