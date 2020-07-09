@@ -6,7 +6,7 @@ model:
 outputPath: ../output/research-priorities
 dot:
     graphVizSettings:
-      newrank: true
+        newrank: true
 selection:
   statementSelectionMode: with-title
 color:
@@ -14,7 +14,6 @@ color:
 ===
 
 [AI-Entwicklung ist gefährlich]: AI ist eine Gefahr für die Gesellschaft. {color: "#e83b07"}
-    <+ <schlecht und weitreichend>
     <+ [Armut]
     <+ [Zivile Verluste]
     <+ [retributive Justice]
@@ -234,7 +233,7 @@ Wenn die Verteilung von Reichtum einem Potenzgesetz folgt, wird Reichtum konzent
 (2) Der Markt und die Politik verlangen nach diesen Vorteilen.
 (3) Die Forschung beugt sich dem Willen des Marktes und der Politik
 ----
-(4) [moralische AI]: AI, die moralisch relevante Entscheidungen treffen, werden entwickelt.
+(4) [moralische AI]: AI, die moralisch relevante Entscheidungen treffen, werden tatsächlich entwickelt werden.
 
 
 <schlechte Entscheide>
@@ -245,27 +244,20 @@ Wenn die Verteilung von Reichtum einem Potenzgesetz folgt, wird Reichtum konzent
 (3) [schlechte Entscheide]: AI treffen moralisch schlechte Entscheidungen.
 
 
-<AI trifft schlechte Entscheide>
-
-(1) [moralische AI]
-(2) [schlechte Entscheide]
------
-(3) Es werden AIs entwickelt, die moralisch schlechte Entscheidungen treffen.
-
-
 <Decision Support Tools> { Quellen: wallachMoralMachinesTeaching2008, p. 9 & wallachMoralMachinesTeaching2008, chap. 3 }
 
-(1) DST unterstützen Menschen dabei, wichtige, folgenreiche Entscheidungen zu treffen.
-(2) Wenn DST gut funktionieren, fangen Menschen an, wichtige, folgenreiche Entscheidungen nicht mehr selbst zu treffen, sondern überlassen die Entscheidungen den DST.
+(1) DST können Menschen dabeiunterstützen, wichtige, folgenreiche Entscheidungen (in den verschiedensten Bereichen) zu treffen.
+(2) [moralische AI]
+(3) Wenn ein Unterstützungssystem gut funktioniert, werden Menschen in Zukunft anfangen, wichtige, folgenreiche Entscheidungen nicht mehr selbst zu treffen, sondern überlassen die Entscheidungen dem Unterstützungssystem.
 ----
-(3) [DST]: Wenn DST gut funktionieren, kontrollieren sie selbst Entscheidungsprozesse.
+(4) [DST]: Wenn DST gut funktionieren, kontrollieren sie in Zukunft selbst Entscheidungsprozesse.
 
 <schlecht und weitreichend>
 
 (1) [DST]
 (2) [schlechte Entscheide]
 ----
-(3) wichtige, folgenreiche Entscheidungen werden moralisch schlecht gefällt.
+(3) [Ethik leidet]: wichtige, folgenreiche Entscheidungen (in den verschiedensten Bereichen) werden in Zukunft moralisch schlecht gefällt werden. {rank: "r2", color: "#e83b07"}
 
 
 <Cyberattacken> { Quellen: russellResearchPrioritiesRobust2015, p. 109 }
@@ -282,7 +274,7 @@ Wenn die Verteilung von Reichtum einem Potenzgesetz folgt, wird Reichtum konzent
 (1) [AI in Cyberattacken]
 (2) Cyberattacken gefährden Unternehmen.
 ----
-(3) [Unternehmensgefährdung Zukunft]: Der Einsatz von AI wird in Zukunft Unternehmen gefährden.
+(3) [Unternehmensgefährdung Zukunft]: Der Einsatz von AI wird in Zukunft Unternehmen gefährden. {rank: "r2", color: "#e83b07"}
 
 
 <Cyberattacken in Sicherheit>
@@ -290,7 +282,7 @@ Wenn die Verteilung von Reichtum einem Potenzgesetz folgt, wird Reichtum konzent
 (1) [AI in Cyberattacken]
 (2) Cyberattacken gefährden die nationale Sicherheit.
 ----
-(3) [nationale Sicherheit Zukunft]: Der Einsatz von AI wird in Zukunft Unternehmen gefährden.
+(3) [nationale Sicherheit Zukunft]: Der Einsatz von AI wird in Zukunft Unternehmen gefährden. {rank: "r2", color: "#e83b07"}
 
 
 [Robustheit]: AI ist nicht robust und deshalb nicht sicher russellResearchPrioritiesRobust2015, p. 107
