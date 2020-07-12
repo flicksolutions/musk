@@ -16,3 +16,17 @@
 () Eine Superintelligenz kann eine enorme Weite an möglichen Zielen haben.
 -----
 () Eine Superintelligenz kann nicht-anthropomorphe Ziele haben.
+
+
+
+(1) Die Orthogonality Thesis besagt, dass Intelligenz und Ziele orthogonal sind: Jede Stufe von Intelligenz kann im Prinzip mit jedem Ziel kombiniert werden.
+(2) Die Humeanische Theorie der Motivation besagt, dass eine Überzeugung alleine nicht genügt, um eine Handlung zu motivieren und dass Wünsche notwendige Komponente zur Erklärung einer Handlung sind.
+(3) Die Orthogonality Thesis setzt die Humeanische Theorie der Motivation nicht voraus.
+(4) Grundvoraussetzungen können irrational sein.
+(5) Eine Superintelligenz kann eine enorme Weite an möglichen Zielen haben.
+() Eine Superintelligenz kann nicht-anthropomorphe Ziele haben.
+
+
+-----
+(6) [Nicht-anthropomorph]: Eine Superintelligenz kann nicht-anthropomorphe Ziele haben.
+// komplett überarbeiten

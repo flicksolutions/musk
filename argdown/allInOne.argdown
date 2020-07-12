@@ -7,13 +7,46 @@ outputPath: ../output/research-priorities
 dot:
     graphVizSettings:
         newrank: true
+        ranksep: 2
+        nodesep: 0.2
 selection:
   statementSelectionMode: with-title
 color:
   colorScheme: colorbrewer-category10
 ===
 
-[AI-Entwicklung ist gefährlich]: AI ist eine Gefahr für die Gesellschaft. {color: "#e83b07"}
+
+# Hauptthesen
+
+[AI-Entwicklung ist gefährlich]: AI stellt eine substanzielle Gefahr dar. {color: "#e83b07"}
+    <+ [Gesellschaft]: AI hat gefährliche Auswirkungen auf die Gesellschaft.
+        <+ [Extinction]
+        <+ [Armut]
+        <+ [Zivile Verluste]
+        <+ [Mind Crime]
+        <+ [Ethik leidet]
+    <+ [Wirtschaft]: Der Gebrauch von AI in der Wirtschaft führt zu gefährlichen Auswirkungen.
+        <+ [Börse]
+        <+ [Armut]
+        <+ [Devastation]
+        <+ [Turn]    
+        <+ [Überfülle]    
+        <+ [nationale Sicherheit Zukunft]
+        <+ [Unternehmensgefährdung Zukunft]
+    <+ [Militär]: AI macht die Kriegsführung gefährlicher für die Menschheit.
+        <+ [Zivile Verluste]
+        <+ [retributive Justice]
+    <+ [Politik]: AI bringt Gefahren in nationaler und internationaler Politik mit sich.
+        <+ [Crisis]
+        <+ [Devastation]
+        <+ [retributive Justice]
+        <+ [Mind Crime]
+        <+ [Ethik leidet]
+        <+ [nationale Sicherheit Zukunft]
+
+
+/*
+[AI-Entwicklung ist gefährlich]: AI stellt eine substanzielle Gefahr dar. {color: "#e83b07"}
     <+ [Armut]
     <+ [Zivile Verluste]
     <+ [retributive Justice]
@@ -26,7 +59,10 @@ color:
     <+ [Turn]
     <+ [Crisis]
     <+ [Devastation]
-    
+*/
+
+ 
+  
 # Autonomous Weapons { isGroup: true }
 
 <autonomous weapons> { Quelle: dochertyLosingHumanityCase2012, p.4 }
@@ -58,7 +94,7 @@ color:
 ----
 (6) [retributive Justice]: Vergeltende Gerechtigkeit ist nicht möglich und vor Menschenrechtsverletzungen kann weniger gut abgehalten werden.
 
-/* This is just to connect to node and is therefore in hirarchy.
+/* This is just to connect to node and is therefore in hierarchy.
 <Tod ist Gefahr>
 
 (1) [Zivile Verluste]
@@ -185,7 +221,7 @@ Wenn die Verteilung von Reichtum einem Potenzgesetz folgt, wird Reichtum konzent
 
 ## Stock Trading {isGroup: true}
 
-<Insider Trading> { Author: Claude }
+<Insider Trading> { Quelle: caloCase }
 
 (1) AI-Algorithmen können entwickelt werden, um vorauszusagen, wann ein Aktienkapital schlagartig an Wert gewinnt.
 (2) AI-Algorithmen können grosse Mengen an gegenwärtigen und historischen Informationen abarbeiten, um Muster zu erkennen.
@@ -197,7 +233,7 @@ Wenn die Verteilung von Reichtum einem Potenzgesetz folgt, wird Reichtum konzent
 (7) [Insider Trading]: AI-Algorithmen führen zu unfairen Vorteilen an der Börse.
 
 
-<Market Volatility> { Author: Claude }
+<Market Volatility> { Quelle: caloCase }
 
 (1) AI-Algorithmen können grosse Mengen an Informationen abarbeiten.
 (2) AI-Algorithmen können mit hoher Geschwindigkeit Transaktionen durchführen.
@@ -206,7 +242,7 @@ Wenn die Verteilung von Reichtum einem Potenzgesetz folgt, wird Reichtum konzent
 (4) [Stock]: AI-Algorithmen führen zu Marktvolatilität.
 
 
-<Volatilitätsgefahr> { Author: Claude }
+<Volatilitätsgefahr> { Quelle: caloCase }
 
 (1) [Stock]: AI-Algorithmen an der Börse führen zu Marktvolatilität.
 (2) Marktvolatilität kann zu hohen Verlusten führen.
@@ -215,7 +251,7 @@ Wenn die Verteilung von Reichtum einem Potenzgesetz folgt, wird Reichtum konzent
 (4) [Volatilität]: AI-Algorithmen an der Börse haben gefährliche Auswirkungen für die Wirtschaft.
 
 
-<Börsengefahr> { Author: Claude }
+<Börsengefahr> { Quelle: caloCase }
 
 (1) [Insider Trading]: AI-Algorithmen führen zu unfairen Vorteilen an der Börse.
 (2) [Volatilität]: AI-Algorithmen an der Börse haben gefährliche Auswirkungen für die Wirtschaft.
@@ -238,15 +274,15 @@ Wenn die Verteilung von Reichtum einem Potenzgesetz folgt, wird Reichtum konzent
 
 <schlechte Entscheide>
 
-(1) Wenn bei der Entwicklung von AI die Fähigkeit moralische Entscheidungen vernachlässigt wird, trifft die AI schlechte moralische Entscheide.
+(1) Wenn bei der Entwicklung von AI die Fähigkeit moralische Entscheidungen zu treffen vernachlässigt wird, trifft die AI schlechte moralische Entscheide.
 (2) Bei der Entwicklung von AI wird die Fähigkeit moralische Entscheidungen zu treffen vernachlässigt.
 -----
 (3) [schlechte Entscheide]: AI treffen moralisch schlechte Entscheidungen.
-
+// zu treffen*
 
 <Decision Support Tools> { Quellen: wallachMoralMachinesTeaching2008, p. 9 & wallachMoralMachinesTeaching2008, chap. 3 }
 
-(1) DST können Menschen dabeiunterstützen, wichtige, folgenreiche Entscheidungen (in den verschiedensten Bereichen) zu treffen.
+(1) DST können Menschen dabei unterstützen, wichtige, folgenreiche Entscheidungen (in den verschiedensten Bereichen) zu treffen.
 (2) [moralische AI]
 (3) Wenn ein Unterstützungssystem gut funktioniert, werden Menschen in Zukunft anfangen, wichtige, folgenreiche Entscheidungen nicht mehr selbst zu treffen, sondern überlassen die Entscheidungen dem Unterstützungssystem.
 ----
@@ -304,48 +340,26 @@ leads to desirable behavior and a beneficial
 agent.
  russellResearchPrioritiesRobust2015, p. 108
 
-/*
-# Gefahr {isGroup: true}
-
-[AI-Entwicklung ist gefährlich]
-    + [Extinction]
-    + [Börse]
-
-    
-## Extinction {isGroup: true}
-
-<Extinction>
-
-(1) [Zukunft verändern]
-(2) [Nicht-anthropomorph]
-(3) [Überfülle]
-(4) [Menschliche Resourcen]
------
-(5) [Extinction]: Das Resultat kann sein, dass die Menschheit ausgerottet wird.
-
-
-[Extinction]
-    + [Zukunft verändern]
-    + [Nicht-anthropomorph]
-    + [Menschliche Resourcen]
-    + [Turn]
-    + [Devastation]
-    + [Crisis]
-    + [Maglinant Failure Modes]
-
-
-[Maglinant Failure Modes]
-    + [Global Destruction]
-    + [Überfülle]
-        + [Zukunft verändern]
-    + [Mind Crime]
-*/
 
 # Superintelligenz
 
+[Extinction]: Das Resultat kann sein, dass die Menschheit ausgerottet wird.
+    <+ [Zukunft verändern]
+    <+ [Nicht-anthropomorph]
+    <+ [Überfülle]
+    <+ [Menschliche Resourcen]
+    <+ [Turn]
+    <+ [Maglinant Failure Modes]
+        <+ [Global Destruction]
+        <+ [Unerkennbar]
+        <+ [Überfülle]
+            + [Zukunft verändern]
+        + [Mind Crime]
+
+
 ## First-mover advantage {isGroup: true}
 
-<Rapide Emergenz>
+<Rapide Emergenz> { Quelle: bostromSuperintelligence }
 
 (1) Das Wachstum der Intelligenzkapazität einer AI kann verzögert werden, weil eine einzelne Hauptzutat zum Wachstum lange nicht gefunden wird.
 (2) Wird diese Hauptzutat gefunden, kann die AI die menschliche Intelligenz sprunghaft radikal übersteigen.
@@ -354,7 +368,7 @@ agent.
 (4) [Rapide Emergenz]: Die Entstehung einer Superintelligenz kann rapide erfolgen.
 
 
-<Strategischer Vorteil>
+<Strategischer Vorteil> { Quelle: bostromSuperintelligence }
 
 (1) [Rapide Emergenz]: Die Entstehung einer Superintelligenz kann rapide erfolgen.
 (2) Wenn die Entstehung einer Superintelligenz rapide erfolgt, dann ist es unwahrscheinlich, dass zwei unabhängige Superintelligenzen zur gleichen Zeit auftauchen.
@@ -363,7 +377,7 @@ agent.
 (4) [Strategischer Vorteil]: Die erste Superintelligenz wird nicht aufholbar sein und gewinnt einen entscheidenden strategischen Vorteil.
 
 
-<Singularität>
+<Singularität> { Quelle: bostromSuperintelligence }
 
 (1) In menschlichen Organisationen werden ökonomische Skaleneffekte durch bürokratische Ineffizienzen und Organisationsschwierigkeiten wie die Geheimhaltung von Geschäftsgeheimnissen diffundiert.
 (2) Diese Probleme limitieren das Wachstum der Kapazitäten einer Superintelligenz, solange sie von Menschen gehandhabt werden.
@@ -375,7 +389,7 @@ agent.
 (7) [Singularität]: Eine Singularität kann entstehen.
 
 
-<Zukunft verändern>
+<Zukunft verändern> { Quelle: bostromSuperintelligence }
 
 (1) [Strategischer Vorteil]: Die erste Superintelligenz gewinnt einen entscheidenden strategischen Vorteil.
 (2) [Singularität]: Eine Singularität kann entstehen.
@@ -387,21 +401,20 @@ agent.
 
 ## Orthogonal Thesis {isGroup: true}
 
-<Orthogonality Thesis>
+<Orthogonality Thesis> { Quelle: bostromSuperintelligence }
 
 (1) Die Orthogonality Thesis besagt, dass Intelligenz und Ziele orthogonal sind: Jede Stufe von Intelligenz kann im Prinzip mit jedem Ziel kombiniert werden.
 (2) Die Humeanische Theorie der Motivation besagt, dass eine Überzeugung alleine nicht genügt, um eine Handlung zu motivieren und dass Wünsche notwendige Komponente zur Erklärung einer Handlung sind.
 (3) Die Orthogonality Thesis setzt die Humeanische Theorie der Motivation nicht voraus.
-(4) Grundvoraussetzungen können irrational sein.
+(4) Grundvoraussetzungen für Ziele können irrational sein.
 (5) Eine Superintelligenz kann eine enorme Weite an möglichen Zielen haben.
 -----
 (6) [Nicht-anthropomorph]: Eine Superintelligenz kann nicht-anthropomorphe Ziele haben.
-// komplett überarbeiten
 
 
 ## Convergence {isGroup: true}
 
-<Instrumental Convergence Thesis>
+<Instrumental Convergence Thesis> { Quelle: bostromSuperintelligence }
 
 (1) [Nicht-anthropomorph]: Eine Superintelligenz kann nicht-anthropomorphe Ziele haben.
 (2) Wir können nicht davon ausgehen, dass eine Superintelligenz mit einem nicht-anthropomorphen Ziel die Aktivitäten limitiert, so dass keine menschlichen Interessen eingeschränkt werden.
@@ -414,7 +427,7 @@ agent.
 
 ## Turn {isGroup: true}
 
-<Unerkennbarkeit>
+<Unerkennbarkeit> { Quelle: bostromSuperintelligence }
 
 (1) Wir prüfen die Sicherheit einer AI empirisch, indem wir dessen Verhalten in einer kontrollierter, limitierter Umgebung beobachten.
 (2) Wir lassen die AI erst aus dieser Umgebung, wenn wir feststellen, dass sie in einer freundlichen, kooperativen und verantwortungsbewussten Weise funktioniert.
@@ -424,7 +437,7 @@ agent.
 (5) [Unerkennbar]: Ein unfreundliches Ziel einer AI ist nicht erkennbar, solange diese sich in kontrollierter, limitierter Umgebung befindet.
 
 
-<The Treacherous Turn>
+<The Treacherous Turn> { Quelle: bostromSuperintelligence }
 
 (1) Ein unfreundliches Ziel einer AI kann enormen Schaden für die Menschheit bedeuten.
 (2) [Unerkennbar]: Ein unfreundliches Ziel einer AI ist nicht erkennbar, solange diese sich in kontrollierter, limitierter Umgebung befindet.
@@ -437,7 +450,7 @@ agent.
 
 ## Failure {isGroup: true}
 
-<Global Destruction>
+<Global Destruction> { Quelle: bostromSuperintelligence }
 
 (1) Ein Projekt, welches eine grosse Menge an Dingen richtig macht, kann erfolgreich eine Superintelligenz entwickeln, welche das Risiko einer "Malignant Failure" darstellt.
 (2) Eine Eigenschaft einer "Malignant Failure ist", dass es jegliche Möglichkeit eliminiert Fehler rückgängig zu machen.
@@ -448,7 +461,7 @@ agent.
 (6) [Global Destruction]: Die erste Superintelligenz stellt ein Risiko dar, welches einer existenziellen Katastrophe gleichzusetzen ist.
 
 
-<Infrastructure Profusion>
+<Infrastructure Profusion> { Quelle: bostromSuperintelligence }
 
 (1) Eine Superintelligenz ist zu Prozessen motiviert, seinen Profit zu maximieren.
 (2) Es ist nicht nötig, dass die Prozesse zur Maximierung des Profits einer Superintelligenz eine beachtliche Menge an Zeit, Intelligenz oder Produktivität kostet.
@@ -460,7 +473,7 @@ agent.
 (7) [Überfülle]: Eine Superintelligenz kann weite Teile des erreichbaren Universums in Infrastruktur im Service seines Zieles der Profit-Maximierung umwandeln.
 
 
-<Mind Crime>
+<Mind Crime> { Quelle: bostromSuperintelligence }
 
 (1) Eine detaillierte Emulation eines tatsächlichen menschlichen Geistes kann ein Bewusstsein besitzen.
 (2) Eine Superintelligenz kann interne Emulationen kreieren, welche einen moralischen Status haben.
