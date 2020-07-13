@@ -343,7 +343,7 @@ agent.
 
 # Superintelligenz
 
-[Extinction]: Das Resultat kann sein, dass die Menschheit ausgerottet wird.
+[Extinction]: Das Resultat kann sein, dass die Menschheit ausgerottet wird. {rank: "r2", color: "#e83b07"}
     <+ [Zukunft verändern]
     <+ [Nicht-anthropomorph]
     <+ [Überfülle]
