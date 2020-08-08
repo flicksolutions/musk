@@ -16,7 +16,6 @@ color:
 ===
 
 [AI-Entwicklung ist gefährlich]: AI ist eine Gefahr für die Gesellschaft. {color: "#e83b07"}
-    <+ [Armut]
     <+ [Zivile Verluste]
     <+ [retributive Justice]
     <+ [Börse]
@@ -74,7 +73,7 @@ color:
 
 <falsches Messinstrument> { Quelle: russellResearchPrioritiesRobust2015, p. 107 & mokyrSecularStagnationNot2014 }
 
-(1) [moralische AI]: AI wird in den Markt eingeführt.
+(1) [moralische AI]: AI wird in den Markt eingeführt. {isInGroup: false}
 (2) Die Messinstrumente können einen Markt mit AI nicht korrekt erfassen.
 (3) Wenn die Messinstrumente einen Markt nicht erfassen können, werden falsche Gesetze verabschiedet.
 (4) Wenn falsche Gesetze verabschiedet werden, ist dies eine Gefahr für die Gesellschaft.
@@ -90,18 +89,18 @@ color:
 (4) Die Entwicklung von AI führt zu permanenten Jobverlusten. - *t* geht gegen unendlich.
 (5) Das Einkommen eines grossen Teils der Bevölkerung hängt von ihrem Job ab.
 ----
-(6) [Armut]: Die Entwicklung von AI führt zu extremer Armut bei einem grossen Teil der Bevölkerung.
+(6) [Armut Zukunft]: Die Entwicklung von AI führt zu extremer Armut bei einem grossen Teil der Bevölkerung.  {rank: "r2", color: "#e83b07"}
 
 <Android-Experiment> { Quellen: brynjolfssonSecondMachineAge2014 }
 
-(1) [moralische AI]: Es wird Androiden (AI mit einem Körper) geben.
+(1) [moralische AI]: Es wird Androiden (AI mit einem Körper) geben. {isInGroup: false}
 (2) Menschen werden nur angestellt, wenn sie Produkte am kosteneffektivsten im Vergleich zu anderen Methoden herstellen können.
 (3) Androiden können Produkte kosteneffektiver herstellen als Menschen.
 ----
 (4) Es werden nur noch Androiden und keine Menschen mehr angestellt werden.
 (5) Ein grosser Teil der Bevölkerung erwirtschaftet sein komplettes Einkommen aus ihrer Anstellung.
 ----
-(6) [Armut]
+(6) [Armut Zukunft]
 
 /*
 <Armut ist Gefahr>
@@ -148,7 +147,7 @@ Wenn die Verteilung von Reichtum einem Potenzgesetz folgt, wird Reichtum konzent
 
 <strong bounty> { Quellen:  brynjolfssonSecondMachineAge2014, p. 143}
 
-(1) [Arme profitieren]: Bei einer Wirtschaft die nach einem Potenzgesetz funktioniert profitieren auch die Teilnehmer der Wirtschaft, die am wenigsten Verdienen. {rank: "r1"}
+(1) [Arme profitieren]: Bei einer Wirtschaft die nach einem Potenzgesetz funktioniert profitieren auch die Teilnehmer der Wirtschaft, die am wenigsten Verdienen. {rank: "r1", isInMap: false}
 (2) Wenn auch die Teilnehmer der Wirtschaft, die am wenigsten verdienen, von einer Wirtschaft, die nach einem Potenzgesetz funktioniert profitieren, dann ist die Wirtschaft nach einem Potenzgesetz keine Gefahr.
 ----
 (3) [Potenzgesetz keine Gefahr]: Die Wirtschaft nach einem Potenzgesetz ist keine Gefahr.
@@ -158,15 +157,15 @@ Wenn die Verteilung von Reichtum einem Potenzgesetz folgt, wird Reichtum konzent
 (1) [Wirtschaft folgt Potenzgesetz]
 (2) Wenn die Wirtschaft einem Potenzgesetz folgt, wird ökonomische Macht konzentriert.
 ----
-(3) [Machtkonzentration Aktuell]: Der Einsatz von AI führt dazu, dass ökonomische Kräfte gebündelt werden und somit ein labileres Wirtschaftssystem entsteht.
+(3) [Machtkonzentration Aktuell]: Der Einsatz von AI führt dazu, dass ökonomische Kräfte gebündelt werden und somit ein labileres Wirtschaftssystem entsteht. {rank: "r2", color: "#e83b07"}
     - [Potenzgesetz keine Gefahr]
 
 <Potenzgesetz ist schlecht für die Armen> { Quellen:  brynjolfssonSecondMachineAge2014, p. 144 }
 
 (1) Das bereinigte Median- Einkommen und -Gesamtvermögen in den USA ist heute kleiner als 1999.
-(2) [Einkommen klein, dann kein Profit]: Wenn das bereinigte Median- Einkommen und -Gesamtvermögen in den USA kleiner als 1999 ist, dann profitieren die Teilnehmer der Wirtschaft, die am wenigsten Verdienen nicht von einer Wirtschaft, die nach einem Potenzgesetz funktioniert. {rank: "r2"}
+(2) [Einkommen klein, dann kein Profit]: Wenn das bereinigte Median- Einkommen und -Gesamtvermögen in den USA kleiner als 1999 ist, dann profitieren die Teilnehmer der Wirtschaft, die am wenigsten Verdienen nicht von einer Wirtschaft, die nach einem Potenzgesetz funktioniert. {isInMap: false }
 ----
-(3) [Arme profitieren nicht]: Bei einer Wirtschaft die nach einem Potenzgesetz funktioniert profitieren die Teilnehmer der Wirtschaft, die am wenigsten Verdienen nicht. {rank: "r1"}
+(3) [Arme profitieren nicht]: Bei einer Wirtschaft die nach einem Potenzgesetz funktioniert profitieren die Teilnehmer der Wirtschaft, die am wenigsten Verdienen nicht. {rank: "r1", isInMap: false}
     - [Arme profitieren]
 
 
@@ -187,7 +186,7 @@ Wenn die Verteilung von Reichtum einem Potenzgesetz folgt, wird Reichtum konzent
 (1) Wenn es andere wichtige Faktoren gibt, von denen die Teilnehmer der Wirtschaft, die am wenigsten Verdienen profitieren als das bereinigte Median- Einkommen und -Gesamtvermögen, dann ist @[Einkommen klein, dann kein Profit] falsch.
 (2) Ungemessene Preisreduktionen und qualitative Verbesserungen sind Faktoren, von denen die Teilnehmer der Wirtschaft, die am wenigsten Verdienen, profitieren.
 ----
-(3) [Einkommen klein, dann kein Profit-]: @[Einkommen klein, dann kein Profit] ist falsch.  {rank: "r2"}
+(3) [Einkommen klein, dann kein Profit-]: @[Einkommen klein, dann kein Profit] ist falsch.  {isInMap: false}
     - [Einkommen klein, dann kein Profit]
 
 
