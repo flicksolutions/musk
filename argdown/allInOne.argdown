@@ -7,6 +7,8 @@ outputPath: ../output/research-priorities
 dot:
     graphVizSettings:
         newrank: true
+        ranksep: 1.5
+        nodesep: 0.1
 selection:
   statementSelectionMode: with-title
 color:
