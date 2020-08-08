@@ -149,13 +149,19 @@ Wenn die Verteilung von Reichtum einem Potenzgesetz folgt, wird Reichtum konzent
 <strong bounty> { Quellen:  brynjolfssonSecondMachineAge2014, p. 143}
 
 (1) [Arme profitieren]: Bei einer Wirtschaft die nach einem Potenzgesetz funktioniert profitieren auch die Teilnehmer der Wirtschaft, die am wenigsten Verdienen. {rank: "r1"}
-(2) [Wirtschaft folgt Potenzgesetz]
-(3) Wenn die Wirtschaft einem Potenzgesetz folgt und auch die Teilnehmer der Wirtschaft, die am wenigsten verdienen, profitieren, dann ist die Wirtschaft nach einem Potenzgesetz richtig.
+(2) Wenn auch die Teilnehmer der Wirtschaft, die am wenigsten verdienen, von einer Wirtschaft, die nach einem Potenzgesetz funktioniert profitieren, dann ist die Wirtschaft nach einem Potenzgesetz keine Gefahr.
 ----
-(4) [Potenzgesetz gut]: Die Wirtschaft nach einem Potenzgesetz ist richtig.
+(3) [Potenzgesetz keine Gefahr]: Die Wirtschaft nach einem Potenzgesetz ist keine Gefahr.
 
+<Powerlaw konzentriert Macht>
 
-<Potenzgesetz ist schlecht> { Quellen:  brynjolfssonSecondMachineAge2014, p. 144 }
+(1) [Wirtschaft folgt Potenzgesetz]
+(2) Wenn die Wirtschaft einem Potenzgesetz folgt, wird ökonomische Macht konzentriert.
+----
+(3) [Machtkonzentration Aktuell]: Der Einsatz von AI führt dazu, dass ökonomische Kräfte gebündelt werden und somit ein labileres Wirtschaftssystem entsteht.
+    - [Potenzgesetz keine Gefahr]
+
+<Potenzgesetz ist schlecht für die Armen> { Quellen:  brynjolfssonSecondMachineAge2014, p. 144 }
 
 (1) Das bereinigte Median- Einkommen und -Gesamtvermögen in den USA ist heute kleiner als 1999.
 (2) [Einkommen klein, dann kein Profit]: Wenn das bereinigte Median- Einkommen und -Gesamtvermögen in den USA kleiner als 1999 ist, dann profitieren die Teilnehmer der Wirtschaft, die am wenigsten Verdienen nicht von einer Wirtschaft, die nach einem Potenzgesetz funktioniert. {rank: "r2"}
@@ -164,7 +170,7 @@ Wenn die Verteilung von Reichtum einem Potenzgesetz folgt, wird Reichtum konzent
     - [Arme profitieren]
 
 
-<Potenzgesetz ist schlecht2> { Quellen:  brynjolfssonSecondMachineAge2014, p. 146 }
+<Potenzgesetz ist schlecht für die Armen2> { Quellen:  brynjolfssonSecondMachineAge2014, p. 146 }
 
 (1) Lebenswichtige Produkte werden teurer. (Miete, Gesundheitsversorgung und Bildungskosten)
 (2) Die hälfte der Amerikaner haben kein finanzielles Polster.
