@@ -5,8 +5,10 @@ model:
   mode: strict
 outputPath: ../output/research-priorities
 dot:
+    sameRank:
+        - {arguments: [], statements: ["Machtkonzentration Aktuell", "Armut Zukunft", "Unternehmensgefährdung Zukunft", "nationale Sicherheit Zukunft", "Ethik leidet", "Gefahr für Leib und Leben Zukunft", "Existenzielle Gefahr für alles Leben Zukunft"]}
     graphVizSettings:
-        newrank: true
+        newrank: false
         ranksep: 1.5
         nodesep: 0.1
 selection:
@@ -15,13 +17,17 @@ color:
   colorScheme: colorbrewer-category10
 ===
 
-[AI-Entwicklung ist gefährlich]: AI ist eine Gefahr für die Gesellschaft. {color: "#e83b07"}
+# Main Points
+
+[AI-Entwicklung ist gefährlich]: AI ist schon heute eine Gefahr für die Gesellschaft und wird in Zukunft zu einer existenziellen Bedrohung. {color: "#e83b07"}
     <+ [Turn]
-    
-
-[Gefahr für Leib und Leben Zukunft]: AI gefährdet die Gesundheit von einzelnen Menschen konkret in der Zukunft. {rank: "r2", color: "#e83b07"}
-
-[Existenzielle Gefahr für alles Leben Zukunft]: AI gefährdet alles existierende Leben in der Zukunft. {rank: "r2", color: "#e83b07"}
+    <+ [Gefahr für Leib und Leben Zukunft]: AI gefährdet die Gesundheit von einzelnen Menschen konkret in der Zukunft. {color: "#e83b07"}
+    <+ [Existenzielle Gefahr für alles Leben Zukunft]: AI gefährdet alles existierende Leben in der Zukunft. {color: "#e83b07"}
+    <+ [Machtkonzentration Aktuell]: Der Einsatz von AI führt dazu, dass ökonomische Kräfte gebündelt werden und somit ein labileres Wirtschaftssystem entsteht. {color: "#e83b07"}
+    <+ [Armut Zukunft]: Die Entwicklung von AI führt zu extremer Armut bei einem grossen Teil der Bevölkerung.  {color: "#e83b07"}
+    <+ [Unternehmensgefährdung Zukunft]: Der Einsatz von AI wird in Zukunft Unternehmen gefährden. {color: "#e83b07"}
+    <+ [nationale Sicherheit Zukunft]: Der Einsatz von AI wird in Zukunft die Sicherheit eines Nationalstaats oder einer Gruppe von Nationalstaaten gefährden. {color: "#e83b07"}
+    <+ [Ethik leidet]: wichtige, folgenreiche Entscheidungen (in den verschiedensten Bereichen) werden in Zukunft moralisch schlecht gefällt werden. {color: "#e83b07"}
 
 # Autonomous Weapons { isGroup: true }
 
@@ -86,7 +92,7 @@ color:
 (4) Die Entwicklung von AI führt zu permanenten Jobverlusten. - *t* geht gegen unendlich.
 (5) Das Einkommen eines grossen Teils der Bevölkerung hängt von ihrem Job ab.
 ----
-(6) [Armut Zukunft]: Die Entwicklung von AI führt zu extremer Armut bei einem grossen Teil der Bevölkerung.  {rank: "r2", color: "#e83b07"}
+(6) [Armut Zukunft]
 
 <Android-Experiment> { Quellen: brynjolfssonSecondMachineAge2014 }
 
@@ -142,20 +148,13 @@ Wenn die Verteilung von Reichtum einem Potenzgesetz folgt, wird Reichtum konzent
 ----
 (4) [Wirtschaft folgt Potenzgesetz]
 
-<strong bounty> { Quellen:  brynjolfssonSecondMachineAge2014, p. 143}
-
-(1) [Arme profitieren]: Bei einer Wirtschaft die nach einem Potenzgesetz funktioniert profitieren auch die Teilnehmer der Wirtschaft, die am wenigsten Verdienen. {isInMap: false}
-(2) Wenn auch die Teilnehmer der Wirtschaft, die am wenigsten verdienen, von einer Wirtschaft, die nach einem Potenzgesetz funktioniert profitieren, dann ist die Wirtschaft nach einem Potenzgesetz keine Gefahr.
-----
-(3) [Potenzgesetz keine Gefahr]: Die Wirtschaft nach einem Potenzgesetz ist keine Gefahr.
 
 <Powerlaw konzentriert Macht>
 
 (1) [Wirtschaft folgt Potenzgesetz]
 (2) Wenn die Wirtschaft einem Potenzgesetz folgt, wird ökonomische Macht konzentriert.
 ----
-(3) [Machtkonzentration Aktuell]: Der Einsatz von AI führt dazu, dass ökonomische Kräfte gebündelt werden und somit ein labileres Wirtschaftssystem entsteht. {rank: "r2", color: "#e83b07"}
-    >< [Potenzgesetz keine Gefahr]
+(3) [Machtkonzentration Aktuell]
 
 <Potenzgesetz ist schlecht für die Armen> { Quellen:  brynjolfssonSecondMachineAge2014, p. 144 }
 
@@ -185,6 +184,14 @@ Wenn die Verteilung von Reichtum einem Potenzgesetz folgt, wird Reichtum konzent
 ----
 (3) [Einkommen klein, dann kein Profit-]: @[Einkommen klein, dann kein Profit] ist falsch.  {isInMap: false}
     >< [Einkommen klein, dann kein Profit]
+
+<strong bounty> { Quellen:  brynjolfssonSecondMachineAge2014, p. 143}
+
+(1) [Arme profitieren]: Bei einer Wirtschaft die nach einem Potenzgesetz funktioniert profitieren auch die Teilnehmer der Wirtschaft, die am wenigsten Verdienen. {isInMap: false}
+(2) Wenn auch die Teilnehmer der Wirtschaft, die am wenigsten verdienen, von einer Wirtschaft, die nach einem Potenzgesetz funktioniert profitieren, dann ist die Wirtschaft nach einem Potenzgesetz keine Gefahr.
+----
+(3) [Potenzgesetz keine Gefahr]: Die Wirtschaft nach einem Potenzgesetz ist keine Gefahr.
+    >< [Machtkonzentration Aktuell]
 
 
 ## Stock Trading {isGroup: true}
@@ -264,7 +271,7 @@ Ausgeklammert weil wir nicht versuchen Handlungsanweisungen zu geben, sondern ei
 (1) [DST]
 (2) [schlechte Entscheide]
 ----
-(3) [Ethik leidet]: wichtige, folgenreiche Entscheidungen (in den verschiedensten Bereichen) werden in Zukunft moralisch schlecht gefällt werden. {rank: "r2", color: "#e83b07"}
+(3) [Ethik leidet]
 
 
 <Cyberattacken> { Quellen: russellResearchPrioritiesRobust2015, p. 109 }
@@ -281,7 +288,7 @@ Ausgeklammert weil wir nicht versuchen Handlungsanweisungen zu geben, sondern ei
 (1) [AI in Cyberattacken]
 (2) Cyberattacken gefährden Unternehmen.
 ----
-(3) [Unternehmensgefährdung Zukunft]: Der Einsatz von AI wird in Zukunft Unternehmen gefährden. {rank: "r2", color: "#e83b07"}
+(3) [Unternehmensgefährdung Zukunft]
 
 
 <Cyberattacken in Sicherheit>
@@ -289,7 +296,7 @@ Ausgeklammert weil wir nicht versuchen Handlungsanweisungen zu geben, sondern ei
 (1) [AI in Cyberattacken]
 (2) Cyberattacken gefährden die nationale Sicherheit.
 ----
-(3) [nationale Sicherheit Zukunft]: Der Einsatz von AI wird in Zukunft die Sicherheit eines Nationalstaats oder einer Gruppe von Nationalstaaten gefährden. {rank: "r2", color: "#e83b07"}
+(3) [nationale Sicherheit Zukunft]
 
 
 [Robustheit]: AI ist nicht robust und deshalb nicht sicher russellResearchPrioritiesRobust2015, p. 107
