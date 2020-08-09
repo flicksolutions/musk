@@ -73,12 +73,12 @@ color:
 
 <falsches Messinstrument> { Quelle: russellResearchPrioritiesRobust2015, p. 107 & mokyrSecularStagnationNot2014 }
 
-(1) [moralische AI]: AI wird in den Markt eingeführt. {isInGroup: false}
+(1) [moralische AI]: AI wird in den Markt eingeführt werden. {isInGroup: false}
 (2) Die Messinstrumente können einen Markt mit AI nicht korrekt erfassen.
 (3) Wenn die Messinstrumente einen Markt nicht erfassen können, werden falsche Gesetze verabschiedet.
-(4) Wenn falsche Gesetze verabschiedet werden, ist dies eine Gefahr für die Gesellschaft.
+(4) Wenn falsche Gesetze verabschiedet werden, ist dies eine Gefahr für Unternehmen.
 ----
-(5) [AI-Entwicklung ist gefährlich]
+(5) [Unternehmensgefährdung Zukunft]
 
 <Technological Unemployment> { Quellen:  brynjolfssonSecondMachineAge2014, p. 153 & mokyrSecularStagnationNot2014 }
 
