@@ -321,6 +321,7 @@ agent.
 
 # Superintelligenz
 
+/* Ausgeblendet weil identisch mit [Existenzielle Gefahr für alles Leben Zukunft]?
 [Extinction]: Das Resultat kann sein, dass die Menschheit ausgerottet wird. {rank: "r2", color: "#e83b07"}
     <+ [Zukunft verändern]
     <+ [Nicht-anthropomorph]
@@ -333,7 +334,7 @@ agent.
         <+ [Überfülle]
             + [Zukunft verändern]
         + [Mind Crime]
-
+*/
 
 ## First-mover advantage {isGroup: true}
 
