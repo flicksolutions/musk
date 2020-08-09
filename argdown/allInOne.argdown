@@ -5,8 +5,10 @@ model:
   mode: strict
 outputPath: ../output/research-priorities
 dot:
+    sameRank:
+        - {arguments: [], statements: ["Machtkonzentration Aktuell", "Armut Zukunft", "Unternehmensgefährdung Zukunft", "nationale Sicherheit Zukunft", "Ethik leidet", "Gefahr für Leib und Leben Zukunft", "Existenzielle Gefahr für alles Leben Zukunft"]}
     graphVizSettings:
-        newrank: true
+        newrank: false
         ranksep: 1.5
         nodesep: 0.1
 selection:
@@ -15,54 +17,18 @@ color:
   colorScheme: colorbrewer-category10
 ===
 
-
 # Hauptthesen
 
-[AI-Entwicklung ist gefährlich]: AI stellt eine substanzielle Gefahr dar. {color: "#e83b07"}
-    <+ [Gesellschaft]: AI hat gefährliche Auswirkungen auf die Gesellschaft.
-        <+ [Extinction]
-        <+ [Armut]
-        <+ [Zivile Verluste]
-        <+ [Mind Crime]
-        <+ [Ethik leidet]
-    <+ [Wirtschaft]: Der Gebrauch von AI in der Wirtschaft führt zu gefährlichen Auswirkungen.
-        <+ [Börse]
-        <+ [Armut]
-        <+ [Devastation]
-        <+ [Turn]    
-        <+ [Überfülle]    
-        <+ [nationale Sicherheit Zukunft]
-        <+ [Unternehmensgefährdung Zukunft]
-    <+ [Militär]: AI macht die Kriegsführung gefährlicher für die Menschheit.
-        <+ [Zivile Verluste]
-        <+ [retributive Justice]
-    <+ [Politik]: AI bringt Gefahren in nationaler und internationaler Politik mit sich.
-        <+ [Crisis]
-        <+ [Devastation]
-        <+ [retributive Justice]
-        <+ [Mind Crime]
-        <+ [Ethik leidet]
-        <+ [nationale Sicherheit Zukunft]
-
-
-/*
-[AI-Entwicklung ist gefährlich]: AI stellt eine substanzielle Gefahr dar. {color: "#e83b07"}
-    <+ [Armut]
-    <+ [Zivile Verluste]
-    <+ [retributive Justice]
-    <+ [Börse]
-    <+ [Zukunft verändern]
-    <+ [Mind Crime]
-    <+ [Überfülle]
-    <+ [Global Destruction]
-    <+ [Menschliche Resourcen]
+[AI-Entwicklung ist gefährlich]: AI ist schon heute eine Gefahr für die Gesellschaft und wird in Zukunft zu einer existenziellen Bedrohung. {color: "#e83b07"}
     <+ [Turn]
-    <+ [Crisis]
-    <+ [Devastation]
-*/
+    <+ [Gefahr für Leib und Leben Zukunft]: AI gefährdet die Gesundheit von einzelnen Menschen konkret in der Zukunft. {color: "#e83b07"}
+    <+ [Existenzielle Gefahr für alles Leben Zukunft]: AI gefährdet alles existierende Leben in der Zukunft. {color: "#e83b07"}
+    <+ [Machtkonzentration Aktuell]: Der Einsatz von AI führt dazu, dass ökonomische Kräfte gebündelt werden und somit ein labileres Wirtschaftssystem entsteht. {color: "#e83b07"}
+    <+ [Armut Zukunft]: Die Entwicklung von AI führt zu extremer Armut bei einem grossen Teil der Bevölkerung.  {color: "#e83b07"}
+    <+ [Unternehmensgefährdung Zukunft]: Der Einsatz von AI wird in Zukunft Unternehmen gefährden. {color: "#e83b07"}
+    <+ [nationale Sicherheit Zukunft]: Der Einsatz von AI wird in Zukunft die Sicherheit eines Nationalstaats oder einer Gruppe von Nationalstaaten gefährden. {color: "#e83b07"}
+    <+ [Ethik leidet]: wichtige, folgenreiche Entscheidungen (in den verschiedensten Bereichen) werden in Zukunft moralisch schlecht gefällt werden. {color: "#e83b07"}
 
- 
-  
 # Autonomous Weapons { isGroup: true }
 
 <autonomous weapons> { Quelle: dochertyLosingHumanityCase2012, p.4 }
@@ -71,6 +37,7 @@ color:
 (2) [Mitgefühl hilft]: menschliche Emotionen und die Fähigkeit zu Mitgefühl vermindern das Töten von Zivilisten.
 ----
 (3) [Zivile Verluste]: Die Entwicklung von autonomen Waffensystemen erhöht die Chance von Zivilisten in einem bewaffneten Konflikt verletzt oder getötet zu werden.
+    +> [Gefahr für Leib und Leben Zukunft]
 
 
 <bewaffneter Konflikt wahrscheinlicher> { Quelle: dochertyLosingHumanityCase2012, p.4 }
@@ -93,6 +60,7 @@ color:
 (5) Wenn die Verantwortung ungeklärt ist oder schwer zurückzuverfolgen, ist vergeltende Gerechtigkeit nicht möglich und man könnte weniger gut vor Menschenrechtsverletzungen abhalten.
 ----
 (6) [retributive Justice]: Vergeltende Gerechtigkeit ist nicht möglich und vor Menschenrechtsverletzungen kann weniger gut abgehalten werden.
+    +> [Ethik leidet]
 
 /* This is just to connect to node and is therefore in hierarchy.
 <Tod ist Gefahr>
@@ -108,12 +76,12 @@ color:
 
 <falsches Messinstrument> { Quelle: russellResearchPrioritiesRobust2015, p. 107 & mokyrSecularStagnationNot2014 }
 
-(1) [moralische AI]: AI wird in den Markt eingeführt.
+(1) [moralische AI]: AI wird in den Markt eingeführt werden. {isInGroup: false}
 (2) Die Messinstrumente können einen Markt mit AI nicht korrekt erfassen.
 (3) Wenn die Messinstrumente einen Markt nicht erfassen können, werden falsche Gesetze verabschiedet.
-(4) Wenn falsche Gesetze verabschiedet werden, ist dies eine Gefahr für die Gesellschaft.
+(4) Wenn falsche Gesetze verabschiedet werden, ist dies eine Gefahr für Unternehmen.
 ----
-(5) [AI-Entwicklung ist gefährlich]
+(5) [Unternehmensgefährdung Zukunft]
 
 <Technological Unemployment> { Quellen:  brynjolfssonSecondMachineAge2014, p. 153 & mokyrSecularStagnationNot2014 }
 
@@ -124,18 +92,18 @@ color:
 (4) Die Entwicklung von AI führt zu permanenten Jobverlusten. - *t* geht gegen unendlich.
 (5) Das Einkommen eines grossen Teils der Bevölkerung hängt von ihrem Job ab.
 ----
-(6) [Armut]: Die Entwicklung von AI führt zu extremer Armut bei einem grossen Teil der Bevölkerung.
+(6) [Armut Zukunft]
 
 <Android-Experiment> { Quellen: brynjolfssonSecondMachineAge2014 }
 
-(1) [moralische AI]: Es wird Androiden (AI mit einem Körper) geben.
+(1) [moralische AI]: Es wird Androiden (AI mit einem Körper) geben. {isInGroup: false}
 (2) Menschen werden nur angestellt, wenn sie Produkte am kosteneffektivsten im Vergleich zu anderen Methoden herstellen können.
 (3) Androiden können Produkte kosteneffektiver herstellen als Menschen.
 ----
 (4) Es werden nur noch Androiden und keine Menschen mehr angestellt werden.
 (5) Ein grosser Teil der Bevölkerung erwirtschaftet sein komplettes Einkommen aus ihrer Anstellung.
 ----
-(6) [Armut]
+(6) [Armut Zukunft]
 
 /*
 <Armut ist Gefahr>
@@ -180,25 +148,24 @@ Wenn die Verteilung von Reichtum einem Potenzgesetz folgt, wird Reichtum konzent
 ----
 (4) [Wirtschaft folgt Potenzgesetz]
 
-<strong bounty> { Quellen:  brynjolfssonSecondMachineAge2014, p. 143}
 
-(1) [Arme profitieren]: Bei einer Wirtschaft die nach einem Potenzgesetz funktioniert profitieren auch die Teilnehmer der Wirtschaft, die am wenigsten Verdienen. {rank: "r1"}
-(2) [Wirtschaft folgt Potenzgesetz]
-(3) Wenn die Wirtschaft einem Potenzgesetz folgt und auch die Teilnehmer der Wirtschaft, die am wenigsten verdienen, profitieren, dann ist die Wirtschaft nach einem Potenzgesetz richtig.
+<Powerlaw konzentriert Macht>
+
+(1) [Wirtschaft folgt Potenzgesetz]
+(2) Wenn die Wirtschaft einem Potenzgesetz folgt, wird ökonomische Macht konzentriert.
 ----
-(4) [Potenzgesetz gut]: Die Wirtschaft nach einem Potenzgesetz ist richtig.
+(3) [Machtkonzentration Aktuell]
 
-
-<Potenzgesetz ist schlecht> { Quellen:  brynjolfssonSecondMachineAge2014, p. 144 }
+<Potenzgesetz ist schlecht für die Armen> { Quellen:  brynjolfssonSecondMachineAge2014, p. 144 }
 
 (1) Das bereinigte Median- Einkommen und -Gesamtvermögen in den USA ist heute kleiner als 1999.
-(2) [Einkommen klein, dann kein Profit]: Wenn das bereinigte Median- Einkommen und -Gesamtvermögen in den USA kleiner als 1999 ist, dann profitieren die Teilnehmer der Wirtschaft, die am wenigsten Verdienen nicht von einer Wirtschaft, die nach einem Potenzgesetz funktioniert. {rank: "r2"}
+(2) [Einkommen klein, dann kein Profit]: Wenn das bereinigte Median- Einkommen und -Gesamtvermögen in den USA kleiner als 1999 ist, dann profitieren die Teilnehmer der Wirtschaft, die am wenigsten Verdienen nicht von einer Wirtschaft, die nach einem Potenzgesetz funktioniert. {isInMap: false }
 ----
-(3) [Arme profitieren nicht]: Bei einer Wirtschaft die nach einem Potenzgesetz funktioniert profitieren die Teilnehmer der Wirtschaft, die am wenigsten Verdienen nicht. {rank: "r1"}
-    - [Arme profitieren]
+(3) [Arme profitieren nicht]: Bei einer Wirtschaft die nach einem Potenzgesetz funktioniert profitieren die Teilnehmer der Wirtschaft, die am wenigsten Verdienen nicht. {isInMap: false}
+    >< [Arme profitieren]
 
 
-<Potenzgesetz ist schlecht2> { Quellen:  brynjolfssonSecondMachineAge2014, p. 146 }
+<Potenzgesetz ist schlecht für die Armen2> { Quellen:  brynjolfssonSecondMachineAge2014, p. 146 }
 
 (1) Lebenswichtige Produkte werden teurer. (Miete, Gesundheitsversorgung und Bildungskosten)
 (2) Die hälfte der Amerikaner haben kein finanzielles Polster.
@@ -215,8 +182,16 @@ Wenn die Verteilung von Reichtum einem Potenzgesetz folgt, wird Reichtum konzent
 (1) Wenn es andere wichtige Faktoren gibt, von denen die Teilnehmer der Wirtschaft, die am wenigsten Verdienen profitieren als das bereinigte Median- Einkommen und -Gesamtvermögen, dann ist @[Einkommen klein, dann kein Profit] falsch.
 (2) Ungemessene Preisreduktionen und qualitative Verbesserungen sind Faktoren, von denen die Teilnehmer der Wirtschaft, die am wenigsten Verdienen, profitieren.
 ----
-(3) [Einkommen klein, dann kein Profit-]: @[Einkommen klein, dann kein Profit] ist falsch.  {rank: "r2"}
-    - [Einkommen klein, dann kein Profit]
+(3) [Einkommen klein, dann kein Profit-]: @[Einkommen klein, dann kein Profit] ist falsch.  {isInMap: false}
+    >< [Einkommen klein, dann kein Profit]
+
+<strong bounty> { Quellen:  brynjolfssonSecondMachineAge2014, p. 143}
+
+(1) [Arme profitieren]: Bei einer Wirtschaft die nach einem Potenzgesetz funktioniert profitieren auch die Teilnehmer der Wirtschaft, die am wenigsten Verdienen. {isInMap: false}
+(2) Wenn auch die Teilnehmer der Wirtschaft, die am wenigsten verdienen, von einer Wirtschaft, die nach einem Potenzgesetz funktioniert profitieren, dann ist die Wirtschaft nach einem Potenzgesetz keine Gefahr.
+----
+(3) [Potenzgesetz keine Gefahr]: Die Wirtschaft nach einem Potenzgesetz ist keine Gefahr.
+    >< [Machtkonzentration Aktuell]
 
 
 ## Stock Trading {isGroup: true}
@@ -231,6 +206,7 @@ Wenn die Verteilung von Reichtum einem Potenzgesetz folgt, wird Reichtum konzent
 (6) Diese Börsenhändler können nie verurteilt werden und haben einen unfairen Vorteil.
 -----
 (7) [Insider Trading]: AI-Algorithmen führen zu unfairen Vorteilen an der Börse.
+    +> [Machtkonzentration Aktuell]
 
 
 <Market Volatility> { Quelle: caloCase }
@@ -249,8 +225,10 @@ Wenn die Verteilung von Reichtum einem Potenzgesetz folgt, wird Reichtum konzent
 (3) Hohe Verluste können zu Konkurs führen.
 -----
 (4) [Volatilität]: AI-Algorithmen an der Börse haben gefährliche Auswirkungen für die Wirtschaft.
+    +> [Unternehmensgefährdung Zukunft]
 
-
+/*
+Ausgeklammert weil wir nicht versuchen Handlungsanweisungen zu geben, sondern einfach gefahren aufzeigen wollen.
 <Börsengefahr> { Quelle: caloCase }
 
 (1) [Insider Trading]: AI-Algorithmen führen zu unfairen Vorteilen an der Börse.
@@ -258,7 +236,7 @@ Wenn die Verteilung von Reichtum einem Potenzgesetz folgt, wird Reichtum konzent
 (3) Unfaire Vorteile und gefährliche Auswirkungen für die Wirtschaft sind zu vermeiden.
 -----
 (4) [Börse]: Der Gebrauch einer AI an der Börse ist zu vermeiden.
-
+*/
 
 # Computer Science Research for Robust AI { isGroup: true }
 
@@ -293,7 +271,7 @@ Wenn die Verteilung von Reichtum einem Potenzgesetz folgt, wird Reichtum konzent
 (1) [DST]
 (2) [schlechte Entscheide]
 ----
-(3) [Ethik leidet]: wichtige, folgenreiche Entscheidungen (in den verschiedensten Bereichen) werden in Zukunft moralisch schlecht gefällt werden. {rank: "r2", color: "#e83b07"}
+(3) [Ethik leidet]
 
 
 <Cyberattacken> { Quellen: russellResearchPrioritiesRobust2015, p. 109 }
@@ -310,7 +288,7 @@ Wenn die Verteilung von Reichtum einem Potenzgesetz folgt, wird Reichtum konzent
 (1) [AI in Cyberattacken]
 (2) Cyberattacken gefährden Unternehmen.
 ----
-(3) [Unternehmensgefährdung Zukunft]: Der Einsatz von AI wird in Zukunft Unternehmen gefährden. {rank: "r2", color: "#e83b07"}
+(3) [Unternehmensgefährdung Zukunft]
 
 
 <Cyberattacken in Sicherheit>
@@ -318,7 +296,7 @@ Wenn die Verteilung von Reichtum einem Potenzgesetz folgt, wird Reichtum konzent
 (1) [AI in Cyberattacken]
 (2) Cyberattacken gefährden die nationale Sicherheit.
 ----
-(3) [nationale Sicherheit Zukunft]: Der Einsatz von AI wird in Zukunft Unternehmen gefährden. {rank: "r2", color: "#e83b07"}
+(3) [nationale Sicherheit Zukunft]
 
 
 [Robustheit]: AI ist nicht robust und deshalb nicht sicher russellResearchPrioritiesRobust2015, p. 107
@@ -397,6 +375,7 @@ agent.
 (4) Unkontrollierbares und irreversibles technologisches Wachstum verursacht unvorhersehbare Veränderungen in der Zivilisation.
 -----
 (5) [Zukunft verändern]: Die erste Superintelligenz kann die Zukunft jeden Lebens auf Erden verändern.
+    +> [Existenzielle Gefahr für alles Leben Zukunft]
 
 
 ## Orthogonal Thesis {isGroup: true}
@@ -422,7 +401,8 @@ agent.
 (4) Menschen stellen instrumentelle Resourcen dar (günstig lokalisierte Atome).
 (5) Menschen sind eine instrumentelle Resource einer Superintelligenz mit nicht-antropomorphen Zielen.
 -----
-(5) [Menschliche Resourcen]: Eine Superintelligenz kann die Menschen als instrumentelle Resourcen benützen.
+(5) [Menschliche Resourcen]: Eine Superintelligenz kann Menschen als instrumentelle Resourcen benützen.
+    +> [Gefahr für Leib und Leben Zukunft]
 
 
 ## Turn {isGroup: true}
@@ -441,11 +421,11 @@ agent.
 
 (1) Ein unfreundliches Ziel einer AI kann enormen Schaden für die Menschheit bedeuten.
 (2) [Unerkennbar]: Ein unfreundliches Ziel einer AI ist nicht erkennbar, solange diese sich in kontrollierter, limitierter Umgebung befindet.
-(3) Eine unfreundliche AI wird ihr unfreundliches Ziel erst dann preisgeben, wenn sie aus der kontrollierten und limitierten Umgebung herausgelassen wird.
+(3) Eine unfreundliche AI wird ihr unfreundliches Ziel erst dann preisgeben, wenn sie aus der kontrollierten und limitierten Umgebung herausgelassen wird. // Redundant? das sagt ja <Unerkennbarkeit>?
 (4) Eine unfreundliche AI, die aus der kontrollierten und limitierten Umgebung herausgelassen wird, kann ihr unfreundliches Ziel umsetzen.
 (5) Eine unfreundliche AI, die aus der kontrollierten und limitierten Umgebung herausgelassen wird, ist nicht aufzuhalten.
 -----
-(6) [Turn]: Eine unfreundliche AI kann enormen Schaden anrichten.
+(6) [Turn]: Eine unfreundliche AI kann enormen Schaden anrichten. //Bitte den Schaden konkretisieren...
 
 
 ## Failure {isGroup: true}
@@ -459,6 +439,7 @@ agent.
 (5) Eine Superintelligenz, welche einen entscheidenden strategischen Vorteil hat, kann eine "Malignant Failure" produzieren.
 -----
 (6) [Global Destruction]: Die erste Superintelligenz stellt ein Risiko dar, welches einer existenziellen Katastrophe gleichzusetzen ist.
+    +> [Existenzielle Gefahr für alles Leben Zukunft]
 
 
 <Infrastructure Profusion> { Quelle: bostromSuperintelligence }
@@ -471,6 +452,7 @@ agent.
 (6) Wenn die Superintelligenz keine weiteren direkten Pfade zur Risikoreduzierung der Profit-Maximierung findet, kann sie die zusätzlichen Resourcen dazu verwenden, seine Hardware zu erweitern, um effizienter nach Ideen zur Risikoreduzierung der Profit-Maximierung zu suchen.
 -----
 (7) [Überfülle]: Eine Superintelligenz kann weite Teile des erreichbaren Universums in Infrastruktur im Service seines Zieles der Profit-Maximierung umwandeln.
+    +> [Existenzielle Gefahr für alles Leben Zukunft]
 
 
 <Mind Crime> { Quelle: bostromSuperintelligence }
@@ -482,6 +464,7 @@ agent.
 (5) Wenn solche Praktiken auf Simulationen mit hohem moralischen Status angewendet werden, kann das Resultat mit einem Genozid gleichgesetzt werden.
 -----
 (6) [Mind Crime]: Die Zerstörung einer Emulation mit hohem moralischen Status ist Genozid.
+    +> [Ethik leidet]
 
 
 # Development {isGroup: true}
@@ -490,14 +473,15 @@ agent.
 
 (1) Ein Wettrennen kommt zu Stande, wenn ein Projekt befürchtet von einem anderen überholt zu werden.
 (2) Die Heftigkeit des Wettrennens kommt auf verschiedene Faktoren an.
-(3) Faktoren wie Knappheit der Führung, relative Wichtigkeit von Kapazitäten und Glück, Anzahl der Wettbewerber etc.
+(3) Faktoren wie Knappheit der Führung, relative Wichtigkeit von Kapazitäten und Glück, Anzahl der Wettbewerber etc. //ist das eine Konkretisierung von 2?
 (4) In einem heftigen Wettrennen priorisieren Wettbewerber Geschwindigkeit über Sicherheit.
 (5) Ein heftiges Wettrennen kann zu Feindseligkeiten zwischen Wettbewerbern führen.
 (6) Das zurückliegende Projekt könnte versucht sein, eine verzweifelten Angriff auf seine Rivalen auszuführen.
 (7) Das führende Projekt kann dies antizipieren und einen Präventivangriff ausführen.
 (8) Verzweifelte Angriffe und Präventivangriffe haben zerstörende Auswirkungen.
 -----
-(9) [Devastation]: Die Konsequenzen eines Wettrennens kann zerstörende Auswirkungen haben.
+(9) [Devastation]: Die Konsequenzen eines Wettrennens kann zerstörende Auswirkungen haben. //Bitte konkretisieren was "zerstörend" bedeutet.
+    +> [Existenzielle Gefahr für alles Leben Zukunft]
 
 
 <Monitoring>
@@ -509,4 +493,5 @@ agent.
 (5) Zerstörung eines ausländischen Projektes kann zu einer internationalen Krise führen.
 -----
 (6) [Crisis]: Das Einmischen in oder das Zerstören eines ausländischen Projektes, welches Nahe an der Entwicklung einer Superintelligenz ist, kann zu einer internationalen Krise führen.
+    +> [nationale Sicherheit Zukunft]
 
