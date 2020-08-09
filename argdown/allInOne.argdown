@@ -16,17 +16,12 @@ color:
 ===
 
 [AI-Entwicklung ist gefährlich]: AI ist eine Gefahr für die Gesellschaft. {color: "#e83b07"}
-    <+ [Zukunft verändern]
-    <+ [Mind Crime]
-    <+ [Überfülle]
-    <+ [Global Destruction]
-    <+ [Menschliche Resourcen]
     <+ [Turn]
-    <+ [Crisis]
-    <+ [Devastation]
     
 
 [Gefahr für Leib und Leben Zukunft]: AI gefährdet die Gesundheit von einzelnen Menschen konkret in der Zukunft. {rank: "r2", color: "#e83b07"}
+
+[Existenzielle Gefahr für alles Leben Zukunft]: AI gefährdet alles existierende Leben in der Zukunft. {rank: "r2", color: "#e83b07"}
 
 # Autonomous Weapons { isGroup: true }
 
@@ -149,7 +144,7 @@ Wenn die Verteilung von Reichtum einem Potenzgesetz folgt, wird Reichtum konzent
 
 <strong bounty> { Quellen:  brynjolfssonSecondMachineAge2014, p. 143}
 
-(1) [Arme profitieren]: Bei einer Wirtschaft die nach einem Potenzgesetz funktioniert profitieren auch die Teilnehmer der Wirtschaft, die am wenigsten Verdienen. {rank: "r1", isInMap: false}
+(1) [Arme profitieren]: Bei einer Wirtschaft die nach einem Potenzgesetz funktioniert profitieren auch die Teilnehmer der Wirtschaft, die am wenigsten Verdienen. {isInMap: false}
 (2) Wenn auch die Teilnehmer der Wirtschaft, die am wenigsten verdienen, von einer Wirtschaft, die nach einem Potenzgesetz funktioniert profitieren, dann ist die Wirtschaft nach einem Potenzgesetz keine Gefahr.
 ----
 (3) [Potenzgesetz keine Gefahr]: Die Wirtschaft nach einem Potenzgesetz ist keine Gefahr.
@@ -167,7 +162,7 @@ Wenn die Verteilung von Reichtum einem Potenzgesetz folgt, wird Reichtum konzent
 (1) Das bereinigte Median- Einkommen und -Gesamtvermögen in den USA ist heute kleiner als 1999.
 (2) [Einkommen klein, dann kein Profit]: Wenn das bereinigte Median- Einkommen und -Gesamtvermögen in den USA kleiner als 1999 ist, dann profitieren die Teilnehmer der Wirtschaft, die am wenigsten Verdienen nicht von einer Wirtschaft, die nach einem Potenzgesetz funktioniert. {isInMap: false }
 ----
-(3) [Arme profitieren nicht]: Bei einer Wirtschaft die nach einem Potenzgesetz funktioniert profitieren die Teilnehmer der Wirtschaft, die am wenigsten Verdienen nicht. {rank: "r1", isInMap: false}
+(3) [Arme profitieren nicht]: Bei einer Wirtschaft die nach einem Potenzgesetz funktioniert profitieren die Teilnehmer der Wirtschaft, die am wenigsten Verdienen nicht. {isInMap: false}
     >< [Arme profitieren]
 
 
@@ -395,6 +390,7 @@ agent.
 (4) Unkontrollierbares und irreversibles technologisches Wachstum verursacht unvorhersehbare Veränderungen in der Zivilisation.
 -----
 (5) [Zukunft verändern]: Die erste Superintelligenz kann die Zukunft jeden Lebens auf Erden verändern.
+    +> [Existenzielle Gefahr für alles Leben Zukunft]
 
 
 ## Orthogonal Thesis {isGroup: true}
@@ -421,7 +417,8 @@ agent.
 (4) Menschen stellen instrumentelle Resourcen dar (günstig lokalisierte Atome).
 (5) Menschen sind eine instrumentelle Resource einer Superintelligenz mit nicht-antropomorphen Zielen.
 -----
-(5) [Menschliche Resourcen]: Eine Superintelligenz kann die Menschen als instrumentelle Resourcen benützen.
+(5) [Menschliche Resourcen]: Eine Superintelligenz kann Menschen als instrumentelle Resourcen benützen.
+    +> [Gefahr für Leib und Leben Zukunft]
 
 
 ## Turn {isGroup: true}
@@ -440,11 +437,11 @@ agent.
 
 (1) Ein unfreundliches Ziel einer AI kann enormen Schaden für die Menschheit bedeuten.
 (2) [Unerkennbar]: Ein unfreundliches Ziel einer AI ist nicht erkennbar, solange diese sich in kontrollierter, limitierter Umgebung befindet.
-(3) Eine unfreundliche AI wird ihr unfreundliches Ziel erst dann preisgeben, wenn sie aus der kontrollierten und limitierten Umgebung herausgelassen wird.
+(3) Eine unfreundliche AI wird ihr unfreundliches Ziel erst dann preisgeben, wenn sie aus der kontrollierten und limitierten Umgebung herausgelassen wird. // Redundant? das sagt ja <Unerkennbarkeit>?
 (4) Eine unfreundliche AI, die aus der kontrollierten und limitierten Umgebung herausgelassen wird, kann ihr unfreundliches Ziel umsetzen.
 (5) Eine unfreundliche AI, die aus der kontrollierten und limitierten Umgebung herausgelassen wird, ist nicht aufzuhalten.
 -----
-(6) [Turn]: Eine unfreundliche AI kann enormen Schaden anrichten.
+(6) [Turn]: Eine unfreundliche AI kann enormen Schaden anrichten. //Bitte den Schaden konkretisieren...
 
 
 ## Failure {isGroup: true}
@@ -458,6 +455,7 @@ agent.
 (5) Eine Superintelligenz, welche einen entscheidenden strategischen Vorteil hat, kann eine "Malignant Failure" produzieren.
 -----
 (6) [Global Destruction]: Die erste Superintelligenz stellt ein Risiko dar, welches einer existenziellen Katastrophe gleichzusetzen ist.
+    +> [Existenzielle Gefahr für alles Leben Zukunft]
 
 
 <Infrastructure Profusion>
@@ -470,6 +468,7 @@ agent.
 (6) Wenn die Superintelligenz keine weiteren direkten Pfade zur Risikoreduzierung der Profit-Maximierung findet, kann sie die zusätzlichen Resourcen dazu verwenden, seine Hardware zu erweitern, um effizienter nach Ideen zur Risikoreduzierung der Profit-Maximierung zu suchen.
 -----
 (7) [Überfülle]: Eine Superintelligenz kann weite Teile des erreichbaren Universums in Infrastruktur im Service seines Zieles der Profit-Maximierung umwandeln.
+    +> [Existenzielle Gefahr für alles Leben Zukunft]
 
 
 <Mind Crime>
@@ -481,6 +480,7 @@ agent.
 (5) Wenn solche Praktiken auf Simulationen mit hohem moralischen Status angewendet werden, kann das Resultat mit einem Genozid gleichgesetzt werden.
 -----
 (6) [Mind Crime]: Die Zerstörung einer Emulation mit hohem moralischen Status ist Genozid.
+    +> [Ethik leidet]
 
 
 # Development {isGroup: true}
@@ -489,14 +489,15 @@ agent.
 
 (1) Ein Wettrennen kommt zu Stande, wenn ein Projekt befürchtet von einem anderen überholt zu werden.
 (2) Die Heftigkeit des Wettrennens kommt auf verschiedene Faktoren an.
-(3) Faktoren wie Knappheit der Führung, relative Wichtigkeit von Kapazitäten und Glück, Anzahl der Wettbewerber etc.
+(3) Faktoren wie Knappheit der Führung, relative Wichtigkeit von Kapazitäten und Glück, Anzahl der Wettbewerber etc. //ist das eine Konkretisierung von 2?
 (4) In einem heftigen Wettrennen priorisieren Wettbewerber Geschwindigkeit über Sicherheit.
 (5) Ein heftiges Wettrennen kann zu Feindseligkeiten zwischen Wettbewerbern führen.
 (6) Das zurückliegende Projekt könnte versucht sein, eine verzweifelten Angriff auf seine Rivalen auszuführen.
 (7) Das führende Projekt kann dies antizipieren und einen Präventivangriff ausführen.
 (8) Verzweifelte Angriffe und Präventivangriffe haben zerstörende Auswirkungen.
 -----
-(9) [Devastation]: Die Konsequenzen eines Wettrennens kann zerstörende Auswirkungen haben.
+(9) [Devastation]: Die Konsequenzen eines Wettrennens kann zerstörende Auswirkungen haben. //Bitte konkretisieren was "zerstörend" bedeutet.
+    +> [Existenzielle Gefahr für alles Leben Zukunft]
 
 
 <Monitoring>
@@ -508,4 +509,5 @@ agent.
 (5) Zerstörung eines ausländischen Projektes kann zu einer internationalen Krise führen.
 -----
 (6) [Crisis]: Das Einmischen in oder das Zerstören eines ausländischen Projektes, welches Nahe an der Entwicklung einer Superintelligenz ist, kann zu einer internationalen Krise führen.
+    +> [nationale Sicherheit Zukunft]
 
