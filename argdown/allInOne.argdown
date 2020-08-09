@@ -16,9 +16,6 @@ color:
 ===
 
 [AI-Entwicklung ist gefährlich]: AI ist eine Gefahr für die Gesellschaft. {color: "#e83b07"}
-    <+ [Zivile Verluste]
-    <+ [retributive Justice]
-    <+ [Börse]
     <+ [Zukunft verändern]
     <+ [Mind Crime]
     <+ [Überfülle]
@@ -28,6 +25,9 @@ color:
     <+ [Crisis]
     <+ [Devastation]
     
+
+[Gefahr für Leib und Leben Zukunft]: AI gefährdet die Gesundheit von einzelnen Menschen konkret in der Zukunft. {rank: "r2", color: "#e83b07"}
+
 # Autonomous Weapons { isGroup: true }
 
 <autonomous weapons> { Quelle: dochertyLosingHumanityCase2012, p.4 }
@@ -36,6 +36,7 @@ color:
 (2) [Mitgefühl hilft]: menschliche Emotionen und die Fähigkeit zu Mitgefühl vermindern das Töten von Zivilisten.
 ----
 (3) [Zivile Verluste]: Die Entwicklung von autonomen Waffensystemen erhöht die Chance von Zivilisten in einem bewaffneten Konflikt verletzt oder getötet zu werden.
+    +> [Gefahr für Leib und Leben Zukunft]
 
 
 <bewaffneter Konflikt wahrscheinlicher> { Quelle: dochertyLosingHumanityCase2012, p.4 }
@@ -58,6 +59,7 @@ color:
 (5) Wenn die Verantwortung ungeklärt ist oder schwer zurückzuverfolgen, ist vergeltende Gerechtigkeit nicht möglich und man könnte weniger gut vor Menschenrechtsverletzungen abhalten.
 ----
 (6) [retributive Justice]: Vergeltende Gerechtigkeit ist nicht möglich und vor Menschenrechtsverletzungen kann weniger gut abgehalten werden.
+    +> [Ethik leidet]
 
 /* This is just to connect to node and is therefore in hirarchy.
 <Tod ist Gefahr>
@@ -202,7 +204,7 @@ Wenn die Verteilung von Reichtum einem Potenzgesetz folgt, wird Reichtum konzent
 (6) Diese Börsenhändler können nie verurteilt werden und haben einen unfairen Vorteil.
 -----
 (7) [Insider Trading]: AI-Algorithmen führen zu unfairen Vorteilen an der Börse.
-    + [Machtkonzentration Aktuell]
+    +> [Machtkonzentration Aktuell]
 
 
 <Market Volatility> { Author: Claude }
@@ -221,10 +223,10 @@ Wenn die Verteilung von Reichtum einem Potenzgesetz folgt, wird Reichtum konzent
 (3) Hohe Verluste können zu Konkurs führen.
 -----
 (4) [Volatilität]: AI-Algorithmen an der Börse haben gefährliche Auswirkungen für die Wirtschaft.
-    + [Unternehmensgefährdung Zukunft]
+    +> [Unternehmensgefährdung Zukunft]
 
 /*
-Ausgeklammert weil wir nicht versuchen handlungsanweisungen zu geben, sondern einfach gefahren aufzeigen wollen.
+Ausgeklammert weil wir nicht versuchen Handlungsanweisungen zu geben, sondern einfach gefahren aufzeigen wollen.
 <Börsengefahr> { Author: Claude }
 
 (1) [Insider Trading]: AI-Algorithmen führen zu unfairen Vorteilen an der Börse.
@@ -292,7 +294,7 @@ Ausgeklammert weil wir nicht versuchen handlungsanweisungen zu geben, sondern ei
 (1) [AI in Cyberattacken]
 (2) Cyberattacken gefährden die nationale Sicherheit.
 ----
-(3) [nationale Sicherheit Zukunft]: Der Einsatz von AI wird in Zukunft Unternehmen gefährden. {rank: "r2", color: "#e83b07"}
+(3) [nationale Sicherheit Zukunft]: Der Einsatz von AI wird in Zukunft die Sicherheit eines Nationalstaats oder einer Gruppe von Nationalstaaten gefährden. {rank: "r2", color: "#e83b07"}
 
 
 [Robustheit]: AI ist nicht robust und deshalb nicht sicher russellResearchPrioritiesRobust2015, p. 107
