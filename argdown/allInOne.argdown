@@ -20,7 +20,6 @@ color:
 # Hauptthesen
 
 [AI-Entwicklung ist gefährlich]: AI ist schon heute eine Gefahr für die Gesellschaft und wird in Zukunft zu einer existenziellen Bedrohung. {color: "#e83b07"}
-    <+ [Turn]
     <+ [Gefahr für Leib und Leben Zukunft]: AI gefährdet die Gesundheit von einzelnen Menschen konkret in der Zukunft. {color: "#e83b07"}
     <+ [Existenzielle Gefahr für alles Leben Zukunft]: AI gefährdet alles existierende Leben in der Zukunft. {color: "#e83b07"}
     <+ [Machtkonzentration Aktuell]: Der Einsatz von AI führt dazu, dass ökonomische Kräfte gebündelt werden und somit ein labileres Wirtschaftssystem entsteht. {color: "#e83b07"}
@@ -420,26 +419,27 @@ agent.
 
 <The Treacherous Turn> { Quelle: bostromSuperintelligence }
 
-(1) Ein unfreundliches Ziel einer AI kann enormen Schaden für die Menschheit bedeuten.
+(1) Ein unfreundliches Ziel einer AI kann kann ein existenzielles Risiko für alles Leben bedeuten.
 (2) [Unerkennbar]: Ein unfreundliches Ziel einer AI ist nicht erkennbar, solange diese sich in kontrollierter, limitierter Umgebung befindet.
 (3) Eine unfreundliche AI wird ihr unfreundliches Ziel erst dann preisgeben, wenn sie aus der kontrollierten und limitierten Umgebung herausgelassen wird. // Redundant? das sagt ja <Unerkennbarkeit>?
 (4) Eine unfreundliche AI, die aus der kontrollierten und limitierten Umgebung herausgelassen wird, kann ihr unfreundliches Ziel umsetzen.
 (5) Eine unfreundliche AI, die aus der kontrollierten und limitierten Umgebung herausgelassen wird, ist nicht aufzuhalten.
 -----
-(6) [Turn]: Eine unfreundliche AI kann enormen Schaden anrichten. //Bitte den Schaden konkretisieren...
+(6) [Turn]: Eine unfreundliche AI kann die Existenz allen Lebens gefährden.
 
 
 ## Failure {isGroup: true}
 
 <Global Destruction> { Quelle: bostromSuperintelligence }
 
-(1) Ein Projekt, welches eine grosse Menge an Dingen richtig macht, kann erfolgreich eine Superintelligenz entwickeln, welche das Risiko einer "Malignant Failure" darstellt.
-(2) Eine Eigenschaft einer "Malignant Failure ist", dass es jegliche Möglichkeit eliminiert Fehler rückgängig zu machen.
+(1) Ein Projekt, welches eine grosse Menge an Dingen richtig macht, kann erfolgreich eine Superintelligenz entwickeln, welche das Risiko eines "bösartigen Versagens" darstellt.
+(2) Eine Eigenschaft einer "bösartigen Versagens" ist, dass es jegliche Möglichkeit eliminiert Fehler rückgängig zu machen.
 (3) Fehler nicht rückgängig machen zu können ist einer existenziellen Katastrophe gleichzusetzen.
 (4) [Strategischer Vorteil]: Die erste Superintelligenz gewinnt einen entscheidenden strategischen Vorteil.
-(5) Eine Superintelligenz, welche einen entscheidenden strategischen Vorteil hat, kann eine "Malignant Failure" produzieren.
+(5) [Turn]: Eine unfreundliche AI kann die Existenz allen Lebens gefährden.
+(6) Eine Superintelligenz, welche einen entscheidenden strategischen Vorteil hat, kann ein "bösartiges Versagen" produzieren.
 -----
-(6) [Global Destruction]: Die erste Superintelligenz stellt ein Risiko dar, welches einer existenziellen Katastrophe gleichzusetzen ist.
+(7) [Global Destruction]: Die erste Superintelligenz stellt ein Risiko dar, welches einer existenziellen Katastrophe gleichzusetzen ist.
     +> [Existenzielle Gefahr für alles Leben Zukunft]
 
 
