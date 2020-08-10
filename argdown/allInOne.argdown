@@ -35,16 +35,6 @@ color:
         <+ [Existenzielle Gefahr für alles Leben Zukunft]: AI gefährdet alles existierende Leben in der Zukunft. {color: "#e83b07"}
 
 
-/*
-[AI-Entwicklung ist gefährlich]: AI ist schon heute eine Gefahr für die Gesellschaft und wird in Zukunft zu einer existenziellen Bedrohung. {color: "#e83b07"}
-    <+ [Gefahr für Leib und Leben Zukunft]: AI gefährdet die Gesundheit von einzelnen Menschen konkret in der Zukunft. {color: "#e83b07"}
-    <+ [Existenzielle Gefahr für alles Leben Zukunft]: AI gefährdet alles existierende Leben in der Zukunft. {color: "#e83b07"}
-    <+ [Machtkonzentration Aktuell]: Der Einsatz von AI führt dazu, dass ökonomische Kräfte gebündelt werden und somit ein labileres Wirtschaftssystem entsteht. {color: "#e83b07"}
-    <+ [Armut Zukunft]: Die Entwicklung von AI führt zu extremer Armut bei einem grossen Teil der Bevölkerung.  {color: "#e83b07"}
-    <+ [Unternehmensgefährdung Zukunft]: Der Einsatz von AI wird in Zukunft Unternehmen gefährden. {color: "#e83b07"}
-    <+ [nationale Sicherheit Zukunft]: Der Einsatz von AI wird in Zukunft die Sicherheit eines Nationalstaats oder einer Gruppe von Nationalstaaten gefährden. {color: "#e83b07"}
-    <+ [Ethik leidet]: wichtige, folgenreiche Entscheidungen (in den verschiedensten Bereichen) werden in Zukunft moralisch schlecht gefällt werden. {color: "#e83b07"}
-*/
 
 # Autonomous Weapons { isGroup: true }
 
@@ -79,15 +69,6 @@ color:
 (6) [retributive Justice]: Vergeltende Gerechtigkeit ist nicht möglich und vor Menschenrechtsverletzungen kann weniger gut abgehalten werden.
     +> [Ethik leidet]
 
-/* This is just to connect to node and is therefore in hierarchy.
-<Tod ist Gefahr>
-
-(1) [Zivile Verluste]
-(2) [retributive Justice]
-(3) Wenn mehr Zivilisten in einem bewaffneten Konflikt getötet werden und Menschenrechtsverletzungen weniger gut verhindert werden können, dann ergibt sich eine Gefahr für die Gesellschaft.
-----
-(4) [AI-Entwicklung ist gefährlich]
-*/
 
 # AI’s Economic Impact { isGroup: true }
 
@@ -122,14 +103,6 @@ color:
 ----
 (6) [Armut Zukunft]
 
-/*
-<Armut ist Gefahr>
-
-(1) Wenn die Entwicklung von AI zu extremer Armut bei einem grossen Teil der Bevölkerung führt, ist dies eine Gefahr für die Gesellschaft.
-(2) [Armut]
-----
-(3) [AI-Entwicklung ist gefährlich]
-*/
 
 <Power Law> { Quellen: brynjolfssonSecondMachineAge2014, chap. 10 & mokyrSecularStagnationNot2014 }
 
@@ -244,16 +217,6 @@ Wenn die Verteilung von Reichtum einem Potenzgesetz folgt, wird Reichtum konzent
 (4) [Volatilität]: AI-Algorithmen an der Börse haben gefährliche Auswirkungen für die Wirtschaft.
     +> [Unternehmensgefährdung Zukunft]
 
-/*
-Ausgeklammert weil wir nicht versuchen Handlungsanweisungen zu geben, sondern einfach gefahren aufzeigen wollen.
-<Börsengefahr> { Quelle: caloCase }
-
-(1) [Insider Trading]: AI-Algorithmen führen zu unfairen Vorteilen an der Börse.
-(2) [Volatilität]: AI-Algorithmen an der Börse haben gefährliche Auswirkungen für die Wirtschaft.
-(3) Unfaire Vorteile und gefährliche Auswirkungen für die Wirtschaft sind zu vermeiden.
------
-(4) [Börse]: Der Gebrauch einer AI an der Börse ist zu vermeiden.
-*/
 
 # Computer Science Research for Robust AI { isGroup: true }
 
@@ -338,20 +301,6 @@ agent.
 
 # Superintelligenz
 
-/* Ausgeblendet weil identisch mit [Existenzielle Gefahr für alles Leben Zukunft]?
-[Extinction]: Das Resultat kann sein, dass die Menschheit ausgerottet wird. {rank: "r2", color: "#e83b07"}
-    <+ [Zukunft verändern]
-    <+ [Nicht-anthropomorph]
-    <+ [Überfülle]
-    <+ [Menschliche Resourcen]
-    <+ [Turn]
-    <+ [Malignant Failure Modes]
-        <+ [Global Destruction]
-        <+ [Unerkennbar]
-        <+ [Überfülle]
-            + [Zukunft verändern]
-        + [Mind Crime]
-*/
 
 ## First-mover advantage {isGroup: true}
 
@@ -513,4 +462,3 @@ agent.
 -----
 (6) [Crisis]: Das Einmischen in oder das Zerstören eines ausländischen Projektes, welches Nahe an der Entwicklung einer Superintelligenz ist, kann zu einer internationalen Krise führen.
     +> [nationale Sicherheit Zukunft]
-
