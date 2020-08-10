@@ -22,6 +22,7 @@ color:
 [AI-Entwicklung ist gefährlich]: AI ist schon heute eine Gefahr und wird in Zukunft zu einer existenziellen Bedrohung. {color: "#e83b07"}
     <+ [Militär]: Durch AI ausgeführte militärische Aktionen bringen Zivilisten erhöht in Gefahr.  {color: "#e83b07"}
         <+ [Ethik leidet]: wichtige, folgenreiche Entscheidungen (in den verschiedensten Bereichen) werden in Zukunft moralisch schlecht gefällt werden. {color: "#e83b07"}
+        <+ [Gefahr für Leib und Leben Zukunft]: AI gefährdet die Gesundheit von einzelnen Menschen konkret in der Zukunft. {color: "#e83b07"}
     <+ [Wirtschaft]: Menschen verlieren durch eine AI-kontrollierte Wirtschaft die Kontrolle.  {color: "#e83b07"}
         <+ [Machtkonzentration Aktuell]: Der Einsatz von AI führt dazu, dass ökonomische Kräfte gebündelt werden und somit ein labileres Wirtschaftssystem entsteht. {color: "#e83b07"}
         <+ [Armut Zukunft]: Die Entwicklung von AI führt zu extremer Armut bei einem grossen Teil der Bevölkerung.  {color: "#e83b07"}
