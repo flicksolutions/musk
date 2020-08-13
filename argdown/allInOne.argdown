@@ -21,17 +21,17 @@ color:
 
 [AI-Entwicklung ist gefährlich]: AI ist schon heute eine Gefahr und wird in Zukunft zu einer existenziellen Bedrohung. {color: "#e83b07"}
     <+ [Militär]: Durch AI ausgeführte militärische Aktionen bringen Zivilisten erhöht in Gefahr.  {color: "#e83b07"}
-        <+ [Ethik leidet]: wichtige, folgenreiche Entscheidungen (in den verschiedensten Bereichen) werden in Zukunft moralisch schlecht gefällt werden. {color: "#e83b07"}
+        <+ [Ethik leidet Zukunft]: wichtige, folgenreiche Entscheidungen (in den verschiedensten Bereichen) werden in Zukunft moralisch schlecht gefällt werden. {color: "#e83b07"}
         <+ [Gefahr für Leib und Leben Zukunft]: AI gefährdet die Gesundheit von einzelnen Menschen konkret in der Zukunft. {color: "#e83b07"}
     <+ [Wirtschaft]: Menschen verlieren durch eine AI-kontrollierte Wirtschaft die Kontrolle.  {color: "#e83b07"}
         <+ [Machtkonzentration Aktuell]: Der Einsatz von AI führt dazu, dass ökonomische Kräfte gebündelt werden und somit ein labileres Wirtschaftssystem entsteht. {color: "#e83b07"}
         <+ [Armut Zukunft]: Die Entwicklung von AI führt zu extremer Armut bei einem grossen Teil der Bevölkerung.  {color: "#e83b07"}
         <+ [Unternehmensgefährdung Zukunft]: Der Einsatz von AI wird in Zukunft Unternehmen gefährden. {color: "#e83b07"}
     <+ [Politik]: Entscheidungen durch AI werden die Politik auf nationaler und internationaler Ebene negativ beeinflussen.  {color: "#e83b07"}
-        <+ [Ethik leidet]: wichtige, folgenreiche Entscheidungen (in den verschiedensten Bereichen) werden in Zukunft moralisch schlecht gefällt werden. {color: "#e83b07"}
+        <+ [Ethik leidet Zukunft]
         <+ [nationale Sicherheit Zukunft]: Der Einsatz von AI wird in Zukunft die Sicherheit eines Nationalstaats oder einer Gruppe von Nationalstaaten gefährden. {color: "#e83b07"}
     <+ [Existenz]: AI stellt eine Bedrohung für alle Lebewesen dar.  {color: "#e83b07"}
-        <+ [Gefahr für Leib und Leben Zukunft]: AI gefährdet die Gesundheit von einzelnen Menschen konkret in der Zukunft. {color: "#e83b07"}
+        <+ [Gefahr für Leib und Leben Zukunft]
         <+ [Existenzielle Gefahr für alles Leben Zukunft]: AI gefährdet alles existierende Leben in der Zukunft. {color: "#e83b07"}
 
 
@@ -67,7 +67,7 @@ color:
 (5) Wenn die Verantwortung ungeklärt ist oder schwer zurückzuverfolgen, ist vergeltende Gerechtigkeit nicht möglich und man könnte weniger gut vor Menschenrechtsverletzungen abhalten.
 ----
 (6) [retributive Justice]: Vergeltende Gerechtigkeit ist nicht möglich und vor Menschenrechtsverletzungen kann weniger gut abgehalten werden.
-    +> [Ethik leidet]
+    +> [Ethik leidet Zukunft]
 
 
 # AI’s Economic Impact { isGroup: true }
@@ -175,7 +175,7 @@ Wenn die Verteilung von Reichtum einem Potenzgesetz folgt, wird Reichtum konzent
 (3) [Einkommen klein, dann kein Profit-]: @[Einkommen klein, dann kein Profit] ist falsch.  {isInMap: false}
     >< [Einkommen klein, dann kein Profit]
 
-<strong bounty> { Quellen:  brynjolfssonSecondMachineAge2014, p. 143}
+<Strong Bounty> { Quellen:  brynjolfssonSecondMachineAge2014, p. 143}
 
 (1) [Arme profitieren]: Bei einer Wirtschaft die nach einem Potenzgesetz funktioniert profitieren auch die Teilnehmer der Wirtschaft, die am wenigsten Verdienen. {isInMap: false}
 (2) Wenn auch die Teilnehmer der Wirtschaft, die am wenigsten verdienen, von einer Wirtschaft, die nach einem Potenzgesetz funktioniert profitieren, dann ist die Wirtschaft nach einem Potenzgesetz keine Gefahr.
@@ -236,7 +236,6 @@ Wenn die Verteilung von Reichtum einem Potenzgesetz folgt, wird Reichtum konzent
 (2) Bei der Entwicklung von AI wird die Fähigkeit moralische Entscheidungen zu treffen vernachlässigt.
 -----
 (3) [schlechte Entscheide]: AI treffen moralisch schlechte Entscheidungen.
-// zu treffen*
 
 <Decision Support Tools> { Quellen: wallachMoralMachinesTeaching2008, p. 9 & wallachMoralMachinesTeaching2008, chap. 3 }
 
@@ -251,7 +250,7 @@ Wenn die Verteilung von Reichtum einem Potenzgesetz folgt, wird Reichtum konzent
 (1) [DST]
 (2) [schlechte Entscheide]
 ----
-(3) [Ethik leidet]
+(3) [Ethik leidet Zukunft]
 
 
 <Cyberattacken> { Quellen: russellResearchPrioritiesRobust2015, p. 109 }
@@ -277,27 +276,6 @@ Wenn die Verteilung von Reichtum einem Potenzgesetz folgt, wird Reichtum konzent
 (2) Cyberattacken gefährden die nationale Sicherheit.
 ----
 (3) [nationale Sicherheit Zukunft]
-
-
-[Robustheit]: AI ist nicht robust und deshalb nicht sicher russellResearchPrioritiesRobust2015, p. 107
-
-[Verifikation]: Ganze AI-Agents sind nicht formal verifizierbar:
-we lack the formal algebra to properly define, explore,
-and rank the space of designs. Perhaps the most salient difference between verification of traditional software and verification of AI systems is that the correctness of traditional software is defined with respect to a fixed and known machine model, whereas AI systems — especially robots and other embodied systems — operate in environments that are at best partially known by the system designer. russellResearchPrioritiesRobust2015, p. 108
-Das Ganze gestaltet sich noch schwerer bei AI die learning Algorithmen anwendet.
-
-[Validity]: Unsere Anforderungen an die AI können falsch formuliert sein und so könnten sich AI-Agents unpassend verhalten.
-> Such specification errors are ubiquitous in software
-> verification, where it is commonly observed that
-> writing correct specifications can be harder than writing
-> correct code. Unfortunately, it is not possible to
-> verify the specification: the notions of beneficial and
-> desirable are not separately made formal, so one cannot
-straightforwardly prove that satisfying ψ necessarily
-leads to desirable behavior and a beneficial
-agent.
- russellResearchPrioritiesRobust2015, p. 108
-
 
 # Superintelligenz
 
@@ -388,7 +366,7 @@ agent.
 
 (1) Ein unfreundliches Ziel einer AI kann kann ein existenzielles Risiko für alles Leben bedeuten.
 (2) [Unerkennbar]: Ein unfreundliches Ziel einer AI ist nicht erkennbar, solange diese sich in kontrollierter, limitierter Umgebung befindet.
-(3) Eine unfreundliche AI wird ihr unfreundliches Ziel erst dann preisgeben, wenn sie aus der kontrollierten und limitierten Umgebung herausgelassen wird. // Redundant? das sagt ja <Unerkennbarkeit>?
+(3) Eine unfreundliche AI wird ihr unfreundliches Ziel erst dann preisgeben, wenn sie aus der kontrollierten und limitierten Umgebung herausgelassen wird.
 (4) Eine unfreundliche AI, die aus der kontrollierten und limitierten Umgebung herausgelassen wird, kann ihr unfreundliches Ziel umsetzen.
 (5) Eine unfreundliche AI, die aus der kontrollierten und limitierten Umgebung herausgelassen wird, ist nicht aufzuhalten.
 -----
@@ -432,7 +410,7 @@ agent.
 (5) Wenn solche Praktiken auf Simulationen mit hohem moralischen Status angewendet werden, kann das Resultat mit einem Genozid gleichgesetzt werden.
 -----
 (6) [Mind Crime]: Die Zerstörung einer Emulation mit hohem moralischen Status ist Genozid.
-    +> [Ethik leidet]
+    +> [Ethik leidet Zukunft]
 
 
 # Development {isGroup: true}
@@ -441,14 +419,14 @@ agent.
 
 (1) Ein Wettrennen kommt zu Stande, wenn ein Projekt befürchtet von einem anderen überholt zu werden.
 (2) Die Heftigkeit des Wettrennens kommt auf verschiedene Faktoren an.
-(3) Faktoren wie Knappheit der Führung, relative Wichtigkeit von Kapazitäten und Glück, Anzahl der Wettbewerber etc. //ist das eine Konkretisierung von 2?
+(3) Faktoren wie Knappheit der Führung, relative Wichtigkeit von Kapazitäten und Glück, Anzahl der Wettbewerber etc.
 (4) In einem heftigen Wettrennen priorisieren Wettbewerber Geschwindigkeit über Sicherheit.
 (5) Ein heftiges Wettrennen kann zu Feindseligkeiten zwischen Wettbewerbern führen.
 (6) Das zurückliegende Projekt könnte versucht sein, eine verzweifelten Angriff auf seine Rivalen auszuführen.
 (7) Das führende Projekt kann dies antizipieren und einen Präventivangriff ausführen.
 (8) Verzweifelte Angriffe und Präventivangriffe haben zerstörende Auswirkungen.
 -----
-(9) [Devastation]: Die Konsequenzen eines Wettrennens kann zerstörende Auswirkungen haben. //Bitte konkretisieren was "zerstörend" bedeutet.
+(9) [Devastation]: Die Konsequenzen eines Wettrennens kann zerstörende Auswirkungen haben.
     +> [Existenzielle Gefahr für alles Leben Zukunft]
 
 
