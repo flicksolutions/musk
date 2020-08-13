@@ -437,7 +437,7 @@ agent.
 
 # Development {isGroup: true}
 
-<Race Dynamics>
+<Race Dynamics> { Quelle: bostromSuperintelligence }
 
 (1) Ein Wettrennen kommt zu Stande, wenn ein Projekt befürchtet von einem anderen überholt zu werden.
 (2) Die Heftigkeit des Wettrennens kommt auf verschiedene Faktoren an.
@@ -452,7 +452,7 @@ agent.
     +> [Existenzielle Gefahr für alles Leben Zukunft]
 
 
-<Monitoring>
+<Monitoring> { Quelle: bostromSuperintelligence }
 
 (1) Durch die extremen Sicherheitsimplikationen wird ein mächtiger Staat versuchen, ein Projekt, welches Nahe an der Entwicklung einer Superintelligenz ist, zu verstaatlichen.
 (2) Ein mächtiger Staat kann versuchen, Projekte eines anderen Landes, welche Nahe an der Entwicklung einer Superintelligenz sind, durch Spionage, Diebstahl, Kidnapping, Bestechung, Bedrohung, Militäraktionen, etc. zu akquirieren.
