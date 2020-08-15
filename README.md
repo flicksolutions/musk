@@ -2,6 +2,8 @@
 
 [Zur Karte](https://flicksolutions.github.io/musk/output/research-priorities.component.html)
 
+[Zum Abschlussbericht](https://flicksolutions.github.io/musk/Projektbericht.pdf)
+
 - Im Ordner [Argdown](https://github.com/flicksolutions/musk/tree/master/argdown) findet Ihr alle Argdown-Dateien.
 - In [Quellen](https://github.com/flicksolutions/musk/tree/master/argdown) findet Ihr die Textgrundlagen, d.h. alle zitierten Papers
 - in [res](https://github.com/flicksolutions/musk/tree/master/res) befinden sich zusätzliche ressourcen wie die bibtext-Bibliothek, die wir verwenden oder der Zitationsstil
