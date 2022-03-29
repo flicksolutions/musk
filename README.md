@@ -1,5 +1,7 @@
 # Argumentationsanalyse: Gefahren der AI
 
+**Dieses Repository wurde archiviert. Es wird seit längerer Zeit nicht mehr gewartet.**
+
 [Zur Karte](https://flicksolutions.github.io/musk/output/research-priorities.component.html)
 
 [Zum Abschlussbericht](https://flicksolutions.github.io/musk/Projektbericht.pdf)
